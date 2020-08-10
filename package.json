@@ -1,0 +1,33 @@
+{
+  "name": "fumosite",
+  "version": "1.0.0",
+  "description": "",
+  "dependencies": {
+    "mustache": "^4.0.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "styles": "sass --style=expanded --embed-sources src/index.scss:static/index.css",
+    "fumogen": "mustache fumo_data.json src/index.mustache static/index.html && mustache fumo_data.json src/fumo_table.mustache static/fumo_table.html && mustache fumo_data.json src/fumo_list.mustache static/fumo_list.html && mustache fumo_data.json src/japanese.mustache static/japanese.html && mustache fumo_data.json src/proxy_forward.mustache static/proxy_forward.html",
+    "build": "npm run styles && npm run fumogen",
+    "watch": "npm-watch"
+  },
+  "watch": {
+    "styles": {
+      "patterns": [
+        "."
+      ],
+      "extensions": "scss",
+      "runOnChangeOnly": false
+    },
+    "fumogen": {
+      "patterns": [
+        "."
+      ],
+      "extensions": "mustache,json",
+      "runOnChangeOnly": false
+    }
+  },
+  "author": "",
+  "license": "MIT"
+}

@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>FUMO</title>
+    <link rel="stylesheet" href="index.css" />
+</head>
+
+<body>
+    <h1>So, you want to buy a Fumo?</h1>
+
+    <div id="top-button-group">
+        <a href="fumo_table.html" class="button">
+            Fumo Table
+        </a>
+        <a href="japanese.html" class="button">
+            Helpful Japanese Phrases
+        </a>
+        <a href="proxy_forward.html" class="button">
+            Proxies and Forwarders
+        </a>
+        <a href="reseller.html" class="button">
+            Reseller and Storefront Guide
+        </a>
+    </div>
+
+    <div id="fumo-examples">
+        <img src="img/001.jpg" alt="An image of a Reimu fumo" title="Hakurei Reimu (fumo)" />
+        <img src="img/002.jpg" alt="An image of a Marisa fumo" title="Kirisame Marisa (fumo)" />
+    </div>
+
+    <div id="body-text">
+        <p>
+            Fumos are a line of high-quality plush character figures manufactured and sold by the Japanese
+            company <a href="https://www.gift-gift.jp/">Gift</a>. Fumos exist for multiple franchises,
+            but most notably the <a href="https://en.touhouwiki.net/wiki/Touhou_Wiki">Touhou Project</a>.
+            Touhou Fumos are designed by <a href="http://blog.angeltype.under.jp/">ANGELTYPE</a>.
+        </p>
+
+        <p>
+            Fumos are generally difficult to purchase, even in Japan, due to their relative scarcity.
+            Fumos are out-of-stock as a rule, and Gift typically only manufactures them twice a year, when
+            they open for limited pre-orders. Gift does not ship outside of Japan.
+        </p>
+
+        <p>
+            However, don't let that discourage you! With the helpful information on this site, you too can
+            welcome a soft friend into your home.
+        </p>
+
+        <fieldset id="faq">
+            <legend>Frequently Asked Questions</legend>
+
+            {{#faq}}
+                <div class="faq-section">
+                    <input type="checkbox" id='faq-{{id}}'>
+                    <label for='faq-{{id}}' class="faq-question">{{question}}</label>
+                    <div class="faq-answer">
+                        {{#answer}}
+                            {{&.}}
+                        {{/answer}}
+                    </div>
+                </div>
+            {{/faq}}
+        </fieldset>
+    </div>
+
+</body>
+
+</html>

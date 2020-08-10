@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Fumo Table</title>
+    <link rel="stylesheet" href="/index.css" />
+</head>
+
+<body>
+    <h1>Fumo Table</h1>
+    <table id="fumo-table">
+        <!-- <caption>Years are initial release dates</caption> -->
+        <thead>
+            <tr>
+                <th>Character</th>
+                <th class="left">Regular Fumos</th>
+                <th class="left">Toy Straps</th>
+                <th class="left">Deka Fumos</th>
+                <th class="left">Puppets</th>
+            </tr>
+        </thead>
+        <tbody>
+            {{#characters}}
+            <tr>
+                <td><a href='/fumo_list.html#{{name}}'>{{name}}</a></td>
+                <td class="left">
+                    {{#regular}}
+                    <a href='/fumo_list.html#{{id}}'>{{name}}</a><br />
+                    {{/regular}}
+                    {{^regular}}
+                    &nbsp;
+                    {{/regular}}
+                </td>
+                <td class="left">
+                    {{#straps}}
+                    <a href='/fumo_list.html#{{id}}'>{{name}}</a><br />
+                    {{/straps}}
+                    {{^straps}}
+                    &nbsp;
+                    {{/straps}}
+                </td>
+                <td class="left">
+                    {{#dekas}}
+                    <a href='/fumo_list.html#{{id}}'>{{name}}</a><br />
+                    {{/dekas}}
+                    {{^dekas}}
+                    &nbsp;
+                    {{/dekas}}
+                </td>
+                <td class="left">
+                    {{#puppets}}
+                    <a href='/fumo_list.html#{{id}}'>{{name}}</a><br />
+                    {{/puppets}}
+                    {{^puppets}}
+                    &nbsp;
+                    {{/puppets}}
+                </td>
+            </tr>
+            {{/characters}}
+        </tbody>
+    </table>
+</body>
+
+</html>

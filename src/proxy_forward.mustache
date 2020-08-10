@@ -1,0 +1,132 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Proxies and Forwarders</title>
+    <link rel="stylesheet" href="index.css" />
+</head>
+
+<body>
+    <h1>Proxies and Forwarders</h1>
+
+    <p>
+        Many Japanese companies (including Gift and various resellers and storefronts)
+        don't want to deal with shipping outside of Japan, for various reasons. However,
+        people outside of Japan can still order from them through the use of a proxy
+        or a forwarder. Keep in mind that, depending on your country, you may have to pay
+        import taxes, customs, or other fees.
+    </p>
+
+    <p>
+        A <i>forwarder</i> provides a package forwarding service. They will provide you a Japanese
+        address (similar to a P.O. box in the United States) for you to have goods shipped to, and
+        will forward any packages that arrive at that address to your real, overseas address. Some
+        forwarders also provide package consolidation services that can saving on shipping and customs
+        costs. <i>Note: to comply with Japanese anti-gang laws, forwarders will require you to demonstrate
+        proof of address and identity before actually forwarding your package. Typically, this is a
+        photo of your ID and a bill with your name and address.</i>
+    </p>
+    <p>
+        A <i>proxy</i> is similar to a forwarder, except that they will place the online order for you.
+        Typically, you provide a link to the item you want to buy and a brief description of the item,
+        and then the proxy provides status updates as the order/delivery process proceeds. Some storefronts
+        refuse to do business with proxy services, although Gift is not known to turn away proxies.
+    </p>
+
+    <table class="checkered">
+        <caption>Pros and Cons of Proxies and Forwarders</caption>
+        <thead>
+            <tr>
+                <th colspan="2">Proxies</th>
+                <th colspan="2">Forwarders</th>
+            </tr>
+            <tr>
+                <th style="border-bottom: 1px dashed black;">Pros</th>
+                <th>Cons</th>
+                <th style="border-bottom: 1px dashed black;">Pros</th>
+                <th>Cons</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td><b>Simple</b> - minimal knowledge of Japanese needed.</td>
+                <td><b>Unreliable</b> - may fail to place an order if volume is too high or auction is too competitive.</td>
+                <td><b>Reliable</b> - you have full control over placing the order.</td>
+                <td><b>Complex</b> - requires some understanding of Japanese addresses.</td>
+            </tr>
+            <tr>
+                <td>If you can't pay directly, a proxy may offer alternate payment systems.</td>
+                <td>Tends to be more expensive than a forwarder.</td>
+                <td>Tends to be cheaper than a proxy.</td>
+                <td>Requires verifying your identity to satisfy Japanese anti-gang laws.</td>
+            </tr>
+        </tbody>
+    </table>
+
+    <hr/>
+
+    <p>
+        The following is a partial list of Proxy and Forwarding services, with some basic information about each.
+        <i>Note: fees do not include shipping costs, since they vary dramatically based on destination and store.</i>
+        Please keep in mind that there are <i>two</i> shipping costs: one from the seller to the proxy/forwarder,
+        and one from the proxy/forwarder to you.
+    </p>
+    <p>
+        This information is not guaranteed to be correct or up-to-date, but please let us know if it's wrong.
+
+    </p>
+
+    <table class="striped">
+        <caption>Forwarders</caption>
+        <thead>
+            <tr>
+                <th>Name</th>
+                <th>Cost per Package</th>
+                <th>Consolidation Fees</th>
+                <th>Notes</th>
+            </tr>
+        </thead>
+        <tbody>
+            {{#forwarders}}
+                <tr>
+                    <td><a href='{{link}}'>{{name}}</a></td>
+                    <td>{{per_package}}</td>
+                    <td>{{consolidation}}</td>
+                    <td>{{&notes}}</td>
+                </tr>
+            {{/forwarders}}
+        </tbody>
+    </table>
+
+    <p>
+        <i>Sniper Bids</i> are bids placed close to the end of an auction.
+        Costs per order are often reduced when ordering multiple items from the same seller in a 24 hour period.
+        Check the individual sites for more information.
+    </p>
+    <table class="striped">
+        <caption>Proxies</caption>
+        <thead>
+            <tr>
+                <th>Name</th>
+                <th>Cost per Order</th>
+                <th>Other Fees</th>
+                <th>Consolidation Fees</th>
+                <th>Sniper Bid Timing</th>
+                <th>Notes</th>
+            </tr>
+        </thead>
+        <tbody>
+            {{#proxies}}
+                <tr>
+                    <td><a href='{{link}}'>{{name}}</a></td>
+                    <td>{{per_order}}</td>
+                    <td>{{other_fees}}</td>
+                    <td>{{consolidation}}</td>
+                    <td>{{sniper_bids}}</td>
+                    <td>{{&notes}}</td>
+                </tr>
+            {{/proxies}}
+        </tbody>
+    </table>
+</body>
+</html>
