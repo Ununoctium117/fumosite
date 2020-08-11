@@ -23,8 +23,8 @@ jobs:
       uses: actions/setup-node@v1
       with:
         node-version: '10.x'
-    - name: Install npm dependencies
-      run: npm install
+    - name: Install Dependencies
+      run: npm install -g sass mustache
     - name: Run Build
       run: npm run build
     - name: Deploy to Server
