@@ -25,6 +25,9 @@ body {
         flex: 1;
         margin-left: 1rem;
         margin-right: 1rem;
+        display: table-cell;
+        vertical-align: middle;
+        text-align: center;
     }
 }
 
