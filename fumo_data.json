@@ -2108,6 +2108,13 @@
             "notes": "There is an optional monthly subscription service and many optional features"
         },
         {
+            "name": "Japamart",
+            "link": "https://japamart.com/",
+            "per_package": "5% + a commission based on total price - about $6 for a single Fumo",
+            "consolidation": "Apparently free",
+            "notes": "Does not accept forwards from auction sites; only accepts PayPal"
+        },
+        {
             "name": "JPN-DEPOT",
             "link": "https://www.jpn-depot.com/",
             "per_package": "￥200",
@@ -2117,7 +2124,7 @@
         {
             "name": "Tenso",
             "link": "https://www.tenso.com/en/",
-            "per_package": "Based on weight - about ￥150 for a Fumo",
+            "per_package": "Based on weight - about ￥150 for a single Fumo",
             "consolidation": "￥200 + ￥300 per package beyond the first",
             "notes": "Partnered with Buyee"
         }
@@ -2160,6 +2167,15 @@
             "notes": ""
         },
         {
+            "name": "Japamart",
+            "link": "https://japamart.com/",
+            "per_order": "5% + $2 + a commission based on total price, about $10 for a single Fumo",
+            "other_fees": "Some shenanigans if multiple Japamart users bid on the same item",
+            "consolidation": "Apparently free",
+            "sniper_bids": "Not specified, but near auction close",
+            "notes": "Only accepts PayPal"
+        },
+        {
             "name": "Jauce",
             "link": "https://www.jauce.com/",
             "per_order": "1300￥ + 8% for non-auction; 700￥ + 8% for auctions",
@@ -2174,6 +2190,7 @@
             "per_order": "￥400",
             "other_fees": "￥200 per auction on Yahoo Auctions",
             "consolidation": "￥100 per package",
+            "sniper_bids": "Not offered",
             "notes": ""
         },
         {
@@ -2217,7 +2234,7 @@
             "link": "https://treasure-japan.com/",
             "per_order": "Rates vary by price range and weight; minimum ￥700.",
             "other_fees": "4% money transfer fee",
-            "consolidation": "",
+            "consolidation": "Not offered",
             "sniper_bids": "Not offered",
             "notes": "Estimated total fee for a single Fumo is around 10%"
         },
