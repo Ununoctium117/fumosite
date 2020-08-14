@@ -288,6 +288,9 @@
                     "name": "Inu (Dog) Version",
                     "id": "inu-sakuya",
                     "img": "https://cdn.discordapp.com/attachments/454070186405003266/550907554436481024/Diverse1252940707.png",
+                    "release_dates": [
+                        2009
+                    ],
                     "rarity": "Uncommon",
                     "price_range": "$70 - $110"
                 }
@@ -1078,7 +1081,7 @@
             ]
         },
         {
-            "id": "prereqs",
+            "id": "prerequisites",
             "question": "What do I need in order to get a Fumo?",
             "answer": [
                 "The same things you need for any other online shopping:",
@@ -1115,7 +1118,7 @@
         },
         {
             "id": "bootlegs",
-            "question": "How good are bootleg fumos?",
+            "question": "How good are bootleg Fumos?",
             "answer": [
                 "Bootleg fumos, mimicking the Fumo style and passed off as being authentic, are often cheaper",
                 "than real ones. However, Some have their own character and value, like the long-legged",
@@ -1125,10 +1128,18 @@
         },
         {
             "id": "customs",
-            "question": "I've seen fumos that aren't listed!",
+            "question": "I've seen Fumos that aren't listed!",
             "answer": [
                 "That was most likely a custom fumo! There are quite a few people out there who make custom fumos",
                 "themselves."
+            ]
+        },
+        {
+            "id": "etymology",
+            "question": "What does \"Fumo\" mean?",
+            "answer": [
+                "The word \"Fumo\" comes from the Japanese onomatopoeia \"モフモフ\" (mofumofu), which means \"soft to the",
+                "touch\", or \"fluffy\"."
             ]
         },
         {
@@ -1145,14 +1156,23 @@
                 "type": "Keyword",
                 "jp": "ふもふも",
                 "jp_alt": [
-                    "ふも"
+                    "ふも",
+                    "フモフモ"
                 ],
                 "en": "Fumo"
             },
             {
                 "type": "Keyword",
-                "jp": "在庫切れ",
+                "jp": "でかふも",
                 "jp_alt": [],
+                "en": "Deka Fumo"
+            },
+            {
+                "type": "Keyword",
+                "jp": "在庫切れ",
+                "jp_alt": [
+                    "売り切れ"
+                ],
                 "en": "Out of Stock"
             },
             {
@@ -2255,6 +2275,100 @@
             "consolidation": "Free",
             "sniper_bids": "5 minutes",
             "notes": ""
+        }
+    ],
+    "storefronts": [
+        {
+            "name": "Gift Online Shop",
+            "link": "http://giftshop.jz.shopserve.jp/",
+            "desc": [
+                "The source of all Fumos. Prices are always cheapest here.",
+                "The most popular Fumos tend to sell out in an hour or less.",
+                "Proxies are often too slow, or sometimes reach order limits."
+            ]
+        },
+        {
+            "name": "Suruga-ya",
+            "link": "https://www.suruga-ya.jp/",
+            "desc": [
+                "Second-hand retailer of lots of hobby goods.",
+                "Will nearly always have Fumos in stock.",
+                "Prices vary wildly but tend to be a bit more expensive than Gift's.",
+                "Also has an <a href='https://www.suruga-ya.com/en/index'>English storefront</a>."
+            ]
+        },
+        {
+            "name": "Mandrake",
+            "link": "https://order.mandarake.co.jp/order/",
+            "desc": [
+                "Sells preowned hobby goods.",
+                "Fumos here tend to sell very quickly.",
+                "This is a digital storefront for physical stores, so staff has to confirm that nobody has bought your item before you can pay."
+            ]
+        },
+        {
+            "name": "Amazon Japan",
+            "link": "https://www.amazon.co.jp/",
+            "desc": [
+                "It's Amazon but in Japanese.",
+                "Fumos are rarely listed here and are usually very expensive."
+            ]
+        },
+        {
+            "name": "SolarisJapan",
+            "link": "https://solarisjapan.com/",
+            "desc": [
+                "English storefront for Japanese figures and merchandise.",
+                "Prices are very high."
+            ]
+        },
+        {
+            "name": "Goods Republic",
+            "link": "https://goodsrepublic.com/",
+            "desc": [
+                "English storefront for Japanese figures and merchandise.",
+                "Prices are <i>very</i> high.",
+                "Although the site is in English, searches still need to be in Japanese."
+            ]
+        },
+        {
+            "name": "JPFigures",
+            "link": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+            "desc": [
+                "Literally a scam. Do not purchase anything from them.",
+                "They have a nice looking webpage. Don't be fooled.",
+                "The link above is a rickroll."
+            ]
+        }
+    ],
+    "auction_houses": [
+        {
+            "name": "Yahoo Auctions JP",
+            "link": "https://auctions.yahoo.co.jp/",
+            "desc": [
+                "Basically Japanese eBay. Every proxy can interact with it.",
+                "Always has Fumos listed, and mostly at reasonable prices.",
+                "Just like eBay, you can be sniped or outbid.",
+                "Some sellers have blacklisted some proxies."
+            ]
+        },
+        {
+            "name": "Mercari",
+            "link": "https://www.mercari.com/jp/",
+            "desc": [
+                "No auctions, just direct sales.",
+                "Often has individual and group batches of fumos.",
+                "Proxies can be too slow for some of the quicker deals."
+            ]
+        },
+        {
+            "name": "Rakuten",
+            "link": "https://search.rakuten.co.jp/",
+            "desc": [
+                "A storefront for both corporations and individual sellers.",
+                "When searching, use 東方ぬいぐるみ (Touhou Plush) not 東方ふもふも (Touhou Fumo).",
+                "Prices might be fair for newer Fumos, but are <i>very</i> expensive for older ones."
+            ]
         }
     ]
 }

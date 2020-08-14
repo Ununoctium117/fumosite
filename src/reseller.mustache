@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8"/>
+    <title>Fumo Resellers and Storefronts</title>
+    <link rel="stylesheet" href="index.css" />
+</head>
+
+<body>
+    <h1>Fumo Resellers and Storefronts</h1>
+    <h2>Spotting Bootlegs</h2>
+    <p>
+        All official Fumos originally came with either a tag or a tin badge. If that is missing, that could be
+        a sign of a bootleg (although it's possible the seller lost the tag or badge, or bought it from someone
+        else who originally lost the tag or badge). A missing tag will generally lower the price too.
+    </p>
+    <p>
+        Keep in mind that Fumos originally sell for around $40 (or around $500 for a Deka). If you see a price
+        lower than that, it's very likely to be a bootleg or other fraudulent listing.
+    </p>
+    <p>
+        Look at the photos in the listing. Try reverse image searching them to make sure they're unique.
+        If the Fumo looks particularly derpy, it's probably a bootleg. You can compare against the stock
+        photos in our <a href="/fumo_list.html">Fumo List</a>.
+    </p>
+    <p>
+        There are some bootleg Deka Fumos with very long legs (the originals have the same stubby legs as their
+        smaller counterparts).
+    </p>
+
+    <h2>Commonly Used Resellers and Storefronts</h2>
+    <div id="storefront-list">
+    <ul>
+        <p>
+            This is a list of sites used by independent Fumo sellers.
+        </p>
+        {{#auction_houses}}
+            <li>
+                <a href='{{link}}'><h4>{{name}}</h4></a>
+                <div class="list-entry">
+                    <ul>
+                        {{#desc}}
+                        <li>{{&.}}</li>
+                        {{/desc}}
+                    </ul>
+                </div>
+            </li>
+        {{/auction_houses}}
+    </ul>
+    <ul>
+        <p>
+            This is a list of common and/or popular online stores that often have Fumos in stock.
+        </p>
+        {{#storefronts}}
+            <li>
+                <a href='{{link}}'><h4>{{name}}</h4></a>
+                <div class="list-entry">
+                    <ul>
+                        {{#desc}}
+                        <li>{{&.}}</li>
+                        {{/desc}}
+                    </ul>
+                </div>
+            </li>
+        {{/storefronts}}
+    </ul>
+    </div>
+</body>
+
+</html>

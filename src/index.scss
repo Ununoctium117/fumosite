@@ -184,6 +184,22 @@ table.checkered {
     }
 }
 
+#storefront-list {
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    margin-top: 1rem;
+
+    > ul {
+        margin-top: 0;
+        flex: 1;
+
+        &:first-child {
+            border-right: 1px solid black;
+        }
+    }
+}
+
 #fumo-list {
     width: 100%;
     display: flex;
@@ -194,7 +210,7 @@ table.checkered {
     }
 }
 
-.fumo-list-entry {
+.list-entry {
     display: flex;
     flex-direction: row;
 
