@@ -14,12 +14,21 @@ body {
     align-items: center;
 }
 
+img.github-banner {
+    position: absolute;
+    top: -5px;
+    right: -5px;
+    border: 0;
+    z-index: 0;
+}
+
 #top-button-group {
     margin-top: 2rem;
     width: 100%;
     display: flex;
     flex-direction: row;
     justify-content: center;
+    z-index: 100;
 
     a {
         flex: 1;
@@ -128,6 +137,7 @@ table {
         background-color: #F8F4E3;
         position: sticky;
         top: -3px;
+        z-index: -100;
     }
 
 
