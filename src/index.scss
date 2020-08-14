@@ -197,6 +197,10 @@ table.checkered {
         &:first-child {
             border-right: 1px solid black;
         }
+
+        a {
+            display: block;
+        }
     }
 }
 
