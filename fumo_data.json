@@ -291,6 +291,7 @@
                     "release_dates": [
                         2009
                     ],
+                    "link": "",
                     "rarity": "Uncommon",
                     "price_range": "$70 - $110"
                 }
@@ -1064,6 +1065,22 @@
                     ],
                     "rarity": "Common",
                     "link": "https://www.gift-gift.jp/nui/nui685.html"
+                }
+            ]
+        },
+        {
+            "name": "Inubashiri Momiji",
+            "thwiki": "https://en.touhouwiki.net/wiki/Momiji_Inubashiri",
+            "regular": [
+                {
+                    "name": "Version 1",
+                    "id": "773",
+                    "img": "https://www.gift-gift.jp/nui/files/images/nui773_01.jpg",
+                    "release_dates": [
+                        2020
+                    ],
+                    "rarity": "Common",
+                    "link": "https://www.gift-gift.jp/nui/nui773.html"
                 }
             ]
         }
