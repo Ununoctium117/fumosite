@@ -1083,6 +1083,22 @@
                     "link": "https://www.gift-gift.jp/nui/nui773.html"
                 }
             ]
+        },
+        {
+            "name": "Eirin Yagokoro",
+            "thwiki": "https://en.touhouwiki.net/wiki/Eirin_Yagokoro",
+            "regular": [
+                {
+                    "name": "Version 1",
+                    "id": "807",
+                    "img": "https://www.gift-gift.jp/nui/files/images/nui807_01.jpg",
+                    "release_dates": [
+                        2021
+                    ],
+                    "rarity": "Common",
+                    "link": "https://www.gift-gift.jp/nui/nui807.html"
+                }
+            ]
         }
     ],
     "faq": [
