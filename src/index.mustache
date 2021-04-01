@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8"/>
+    <meta property="og:title" content="Fumo Buying Guides" />
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content="https://fumo.website" />
+    <meta property="og:image" content="https://fumo.website/img/001.jpg" />
+    <meta property="og:description" content="Helpful guides for buying plush Touhou dolls from outside of Japan" />
+
+    <title>Fumo Guides</title>
+    <link rel="stylesheet" href="/css/index.css" />
+</head>
+
+<body>
+    <a href="https://github.com/Ununoctium117/fumosite">
+        <img class="github-banner" src="https://s3.amazonaws.com/github/ribbons/forkme_right_darkblue_121621.png" alt="Fork me on GitHub">
+    </a>
+
+    <h1>Fumo Buying Guides</h1>
+
+    <div id="top-button-group">
+        <a href="fumotable" class="button">
+            <div>
+                Fumo Table
+            </div>
+        </a>
+        <a href="japanese" class="button">
+            <div>
+                Helpful Japanese Phrases
+            </div>
+        </a>
+        <a href="proxyforward" class="button">
+            <div>
+                Proxies and Forwarders
+            </div>
+        </a>
+        <a href="reseller" class="button">
+            <div>
+                Reseller and Storefront Guide
+            </div>
+        </a>
+    </div>
+
+    <div id="fumo-examples">
+        <img src="img/001.jpg" alt="An image of a Reimu fumo" title="Hakurei Reimu (fumo)" />
+        <img src="img/002.jpg" alt="An image of a Marisa fumo" title="Kirisame Marisa (fumo)" />
+    </div>
+
+    <div id="body-text">
+        <p>
+            Fumos are a line of high-quality plush character figures manufactured and sold by the Japanese
+            company <a href="https://www.gift-gift.jp/">Gift</a>. Fumos exist for multiple franchises,
+            but most notably the <a href="https://en.touhouwiki.net/wiki/Touhou_Wiki">Touhou Project</a>.
+            Touhou Fumos are designed by <a href="http://blog.angeltype.under.jp/">ANGELTYPE</a>.
+        </p>
+
+        <p>
+            Fumos are generally difficult to purchase, even in Japan, due to their relative scarcity.
+            Fumos are out-of-stock as a rule, and Gift typically only manufactures them twice a year, when
+            they open for limited pre-orders. Gift does not ship outside of Japan.
+        </p>
+
+        <p>
+            However, don't let that discourage you! With the helpful information on this site, you too can
+            welcome a soft friend into your home.
+        </p>
+
+        <fieldset id="faq">
+            <legend>Frequently Asked Questions</legend>
+
+            {{#faq}}
+                <div class="faq-section">
+                    <input type="checkbox" id='faq-{{id}}'>
+                    <label for='faq-{{id}}' class="faq-question">{{question}}</label>
+                    <div class="faq-answer">
+                        {{#answer}}
+                            {{&.}}
+                        {{/answer}}
+                    </div>
+                </div>
+            {{/faq}}
+        </fieldset>
+    </div>
+
+</body>
+
+</html>

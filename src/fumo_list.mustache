@@ -1,0 +1,144 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8"/>
+    <title>Fumo List</title>
+    <link rel="stylesheet" href="/css/index.css" />
+</head>
+
+<body>
+    <a href="https://github.com/Ununoctium117/fumosite">
+        <img class="github-banner" src="https://s3.amazonaws.com/github/ribbons/forkme_right_darkblue_121621.png" alt="Fork me on GitHub">
+    </a>
+
+    <h1>Fumo List</h1>
+
+    <div id="fumo-list">
+        {{#characters}}
+            <h3><a href='{{thwiki}}' name='{{name}}'>{{name}}</a></h3>
+            <ul>
+                {{#regular}}
+                <li>
+                    <a name='{{id}}'></a>
+                    <h4>{{name}}</h4>
+                    <div class="list-entry">
+                        <img src='img/{{id}}.jpg' />
+                        <div>
+                            <ul>
+                                <li>Type: Regular Fumo</li>
+                                <li>
+                                    Rarity:
+                                    <span class="rarity" data-rarity='{{rarity}}'>{{rarity}}</span>
+                                </li>
+                                <li>
+                                    Release Years:
+                                    {{#release_dates}}
+                                        <span class="comma-separated">{{.}}</span>
+                                    {{/release_dates}}
+                                    {{^release_dates}}
+                                    Unknown
+                                    {{/release_dates}}
+                                </li>
+                                {{#link}}
+                                <li>
+                                    <a href='{{link}}'>Gift Store Page</a>
+                                </li>
+                                {{/link}}
+                            </ul>
+                        </div>
+                    </div>
+                </li>
+                {{/regular}}
+                {{#straps}}
+                <li>
+                    <a name='{{id}}'></a>
+                    <h4>Toy Strap - {{name}}</h4>
+                    <div class="list-entry">
+                        <img src='img/{{id}}.jpg' />
+                        <div>
+                            <ul>
+                                <li>Type: Toy Strap</li>
+                                <li>
+                                    Rarity:
+                                    <span class="rarity" data-rarity='{{rarity}}'>{{rarity}}</span>
+                                </li>
+                                <li>
+                                    Release Years:
+                                    {{#release_dates}}
+                                        <span class="comma-separated">{{.}}</span>
+                                    {{/release_dates}}
+                                </li>
+                                {{#link}}
+                                <li>
+                                    <a href='{{link}}'>Gift Store Page</a>
+                                </li>
+                                {{/link}}
+                            </ul>
+                        </div>
+                    </div>
+                </li>
+                {{/straps}}
+                {{#dekas}}
+                <li>
+                    <a name='{{id}}'></a>
+                    <h4>Deka - {{name}}</h4>
+                    <div class="list-entry">
+                        <img src='img/{{id}}.jpg' />
+                        <div>
+                            <ul>
+                                <li>Type: Deka Fumo</li>
+                                <li>
+                                    Rarity:
+                                    <span class="rarity" data-rarity='{{rarity}}'>{{rarity}}</span>
+                                </li>
+                                <li>
+                                    Release Years:
+                                    {{#release_dates}}
+                                        <span class="comma-separated">{{.}}</span>
+                                    {{/release_dates}}
+                                </li>
+                                {{#link}}
+                                <li>
+                                    <a href='{{link}}'>Gift Store Page</a>
+                                </li>
+                                {{/link}}
+                            </ul>
+                        </div>
+                    </div>
+                </li>
+                {{/dekas}}
+                {{#puppets}}
+                <li>
+                    <a name='{{id}}'></a>
+                    <h4>Puppet - {{name}}</h4>
+                    <div class="list-entry">
+                        <img src='img/{{id}}.jpg' />
+                        <div>
+                            <ul>
+                                <li>Type: Puppet</li>
+                                <li>
+                                    Rarity:
+                                    <span class="rarity" data-rarity='{{rarity}}'>{{rarity}}</span>
+                                </li>
+                                <li>
+                                    Release Years:
+                                    {{#release_dates}}
+                                        <span class="comma-separated">{{.}}</span>
+                                    {{/release_dates}}
+                                </li>
+                                {{#link}}
+                                <li>
+                                    <a href='{{link}}'>Gift Store Page</a>
+                                </li>
+                                {{/link}}
+                            </ul>
+                        </div>
+                    </div>
+                </li>
+                {{/puppets}}
+            </ul>
+        {{/characters}}
+    </div>
+</body>
+</html>

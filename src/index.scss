@@ -1,0 +1,325 @@
+html {
+    width: 100%;
+    height: 100%;
+}
+
+body {
+    display: flex;
+    margin: 0px;
+    padding: 1.25rem;
+    background-color: #F8F4E3;
+    color: #2A2B2A;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    flex-direction: column;
+    align-items: center;
+}
+
+img.github-banner {
+    position: absolute;
+    top: -5px;
+    right: -5px;
+    border: 0;
+    z-index: 0;
+}
+
+#top-button-group {
+    margin-top: 2rem;
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    z-index: 100;
+
+    a {
+        flex: 1;
+        margin-left: 1rem;
+        margin-right: 1rem;
+
+        div {
+            text-align: center;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+        }
+    }
+}
+
+#body-text {
+    margin-top: 1rem;
+    width: 100%;
+    justify-content: start;
+}
+
+#fumo-examples {
+    margin-top: 2rem;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+
+    img {
+        border-radius: 1rem;
+        margin-left: 1rem;
+        margin-right: 1rem;
+        max-width: 33%;
+    }
+}
+
+#faq {
+    margin-top: 2rem;
+    border-radius: 1rem;
+}
+.faq-section {
+    &:not(:nth-child(2)) {
+        padding-top: 1rem;
+    }
+
+    > input[type=checkbox] {
+        display: none;
+
+        &:not(:checked) {
+            ~ .faq-question:before {
+                content: "\0ff0b";
+            }
+
+            ~ .faq-answer {
+                display: none;
+            }
+        }
+
+        &:checked {
+            ~ .faq-question:before {
+                content: "\0ff0d";
+            }
+
+            ~ .faq-answer {
+                display: block;
+            }
+        }
+    }
+
+    > .faq-question {
+        user-select: none;
+        cursor: pointer;
+
+        &:before {
+            min-width: 1.5rem;
+            max-width: 1.5rem;
+        }
+    }
+
+    .faq-answer {
+        margin-top: 0.15rem;
+        margin-left: 2rem;
+
+        ul {
+            margin-top: 0px;
+            padding-left: 0px;
+            margin-bottom: 0px;
+        }
+    }
+}
+
+table {
+    margin-top: 1rem;
+    table-layout: fixed;
+    width: 100%;
+    border-collapse: collapse;
+    border: 3px solid black;
+    margin-bottom: 1rem;
+
+    caption {
+        font-size: larger;
+        padding-bottom: 0.5rem;
+    }
+
+    th {
+        background-color: #F8F4E3;
+        position: sticky;
+        top: -3px;
+        z-index: -100;
+    }
+
+
+    td, th {
+        text-align: center;
+        padding: 0.5rem;
+
+        &.left {
+            text-align: left;
+        }
+    }
+
+    & td, & th {
+        padding: 1rem;
+    }
+}
+
+table.striped {
+    tbody tr {
+        &:nth-child(even) {
+            background-color: #F8F4E3;
+        }
+
+        &:nth-child(odd) {
+            background-color: #706C61;
+            color: #F8F4E3;
+        }
+    }
+}
+
+table.checkered {
+    tbody tr {
+        &:nth-child(even) td {
+            &:nth-child(even) {
+                background-color: #F8F4E3;
+            }
+
+            &:nth-child(odd) {
+                background-color: #706C61;
+                color: #F8F4E3;
+            }
+        }
+
+        &:nth-child(odd) td {
+            &:nth-child(odd) {
+                background-color: #F8F4E3;
+            }
+
+            &:nth-child(even) {
+                background-color: #706C61;
+                color: #F8F4E3;
+            }
+        }
+    }
+}
+
+#storefront-list {
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    margin-top: 1rem;
+
+    > ul {
+        margin-top: 0;
+        flex: 1;
+
+        &:first-child {
+            border-right: 1px solid black;
+        }
+
+        > li > a {
+            display: block;
+        }
+    }
+}
+
+#fumo-list {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+
+    ul {
+        margin-top: 0;
+    }
+}
+
+.list-entry {
+    display: flex;
+    flex-direction: row;
+
+    img {
+        max-height: 20rem;
+    }
+
+    div {
+        flex: 1;
+        padding-left: 2rem;
+
+        ul {
+            list-style: disc;
+            padding-left: 2rem;
+
+            li {
+                padding-bottom: 0.4rem;
+            }
+        }
+    }
+
+    .rarity {
+        &[data-rarity=Common]:after {
+            content: " (always in stock; can be picky with price in auctions)";
+        }
+        &[data-rarity=Uncommon]:after {
+            content: " (usually in stock; can wait for fair price in auctions)";
+        }
+        &[data-rarity=Rare]:after {
+            content: " (occasionally in stock; auctions are competitive)";
+        }
+        &[data-rarity="Super Rare"]:after {
+            content: " (rarely in stock; auctions are very competitive)";
+        }
+        &[data-rarity="Super Super Rare"]:after {
+            content: " (practically never in stock; auctions are insanely competitive)";
+        }
+    }
+}
+
+
+.comma-separated {
+    &:not(:last-child):after {
+        content: ", ";
+        user-select: text;
+    }
+    &:last-child:not(:first-child):not(:nth-child(2)):before {
+        content: "and ";
+        user-select: text;
+    }
+}
+
+.jp {
+    &:not(:last-child):after {
+        content: ", ";
+    }
+
+    user-select: all;
+}
+
+.button {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    background-color: #706C61;
+    border: 3px solid #2A2B2A;
+    padding: 2rem;
+    color: #F8F4E3 !important;
+    transition: background-color 0.3s ease;
+    text-decoration: none;
+    border-radius: 1rem;
+}
+.button:hover {
+    background-color: #2a2b2a;
+}
+
+h1 {
+    margin: 0px;
+}
+
+p {
+    width: 100%;
+    justify-content: start;
+}
+
+a {
+    color: inherit;
+}
+a:visited {
+    color: inherit;
+}
+
+legend {
+    background-color: #706C61;
+    color: #F8F4E3;
+    padding: 0.5rem;
+    border-radius: 0.3rem;
+}

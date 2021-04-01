@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8"/>
+    <title>FUMO</title>
+    <link rel="stylesheet" href="/css/index.css" />
+</head>
+
+<body>
+    <a href="https://github.com/Ununoctium117/fumosite">
+        <img class="github-banner" src="https://s3.amazonaws.com/github/ribbons/forkme_right_darkblue_121621.png" alt="Fork me on GitHub">
+    </a>
+
+    <h1>Helpful Japanese Phrases</h1>
+
+    <table class="striped sticky">
+        <caption>Keywords</caption>
+        <thead>
+            <tr>
+                <th>English</th>
+                <th class="left">Japanese (Most Common)</th>
+                <th class="left">Japanese (Alt. Forms)</th>
+            </tr>
+        </thead>
+        <tbody>
+            {{#japanese.keywords}}
+                <tr>
+                    <td>{{en}}</td>
+                    <td class="left"><span class="jp">{{jp}}</span></td>
+                    <td class="left">
+                        {{#jp_alt}}
+                            <span class="jp">{{.}}</span>
+                        {{/jp_alt}}
+                    </td>
+                </tr>
+            {{/japanese.keywords}}
+        </tbody>
+    </table>
+
+    <p>
+        Some online storefronts require you to enter your own name and will only accept Japanese characters.
+        <a href="https://www.sljfaq.org/cgi/e2k.cgi">This site</a> can help - it will phonetically
+        translate your name into katakana, one of the two Japanese syllabaries.
+    </p>
+
+    <table class="striped sticky">
+        <caption>Form Fields</caption>
+        <thead>
+            <tr>
+                <th>Japanese (Most Common)</th>
+                <th>Japanese (Alt. Forms)</th>
+                <th class="left">English</th>
+            </tr>
+        </thead>
+        <tbody>
+            {{#japanese.form_elements}}
+                <tr>
+                    <td><span class="jp">{{jp}}</span></td>
+                    <td>
+                        {{#jp_alt}}
+                            <span class="jp">{{.}}</span>
+                        {{/jp_alt}}
+                    </td>
+                    <td class="left">{{en}}</td>
+                </tr>
+            {{/japanese.form_elements}}
+        </tbody>
+    </table>
+
+    <p>
+        Names are given in the original order ZUN used. For Japanese names like Hakurei Reimu, that
+        means the family name comes first. For Western names like Alice Margatroid, the given name comes first.
+    </p>
+    <table class="striped sticky">
+        <caption>Characters</caption>
+        <thead>
+            <tr>
+                <th>English</th>
+                <th class="left">Japanese (Most Common)</th>
+                <th class="left">Japanese (Alt. Forms)</th>
+            </tr>
+        </thead>
+        <tbody>
+            {{#japanese.characters}}
+                <tr>
+                    <td>{{en}}</td>
+                    <td class="left"><span class="jp">{{jp}}</span></td>
+                    <td class="left">
+                        {{#jp_alt}}
+                            <span class="jp">{{.}}</span>
+                        {{/jp_alt}}
+                    </td>
+                </tr>
+            {{/japanese.characters}}
+        </tbody>
+    </table>
+</body>
+</html>
