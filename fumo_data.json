@@ -865,6 +865,18 @@
                     "rarity": "Common",
                     "link": "https://www.gift-gift.jp/nui/nui196.html"
                 }
+            ],
+            "straps": [
+                {
+                    "name": "Plush Strap",
+                    "id": "808",
+                    "img": "https://www.gift-gift.jp/nui/files/images/nui808_01.jpg",
+                    "release_dates": [
+                        2021
+                    ],
+                    "rarity": "Common",
+                    "link": "https://www.gift-gift.jp/nui/nui808.html"
+                }
             ]
         },
         {
@@ -887,6 +899,18 @@
                     ],
                     "rarity": "Common",
                     "link": "https://www.gift-gift.jp/nui/nui197.html"
+                }
+            ],
+            "straps": [
+                {
+                    "name": "Plush Strap",
+                    "id": "809",
+                    "img": "https://www.gift-gift.jp/nui/files/images/nui809_01.jpg",
+                    "release_dates": [
+                        2021
+                    ],
+                    "rarity": "Common",
+                    "link": "https://www.gift-gift.jp/nui/nui809.html"
                 }
             ]
         },
