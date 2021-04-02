@@ -3,21 +3,14 @@ const https = require('https');                             // Imports https lib
 const helmet = require('helmet');                           // Imports helmet lib for improved header security
 const app = express();
 const port = process.env.PORT || 80;                        // Defines port
+const cors = require('cors');
 const addresses = require('./routes/fumo-routes');          // Imports fumo-routes for routing the pages
 const css = require('./routes/style-routes');               // Imports style-routes for routing the css
 
 app.use(helmet());                                          // Tells app to use helmet
+app.use(cors())
 
-let options = {                                             // This object defines options for as to how express will handle all express.static requests
-
-    dotfiles: 'ignore',
-    extensions: ['html, css'],
-    index: false,
-    maxAge: '7d'
-
-};
-
-app.use(express.static("static", options));                 // Defines static folder so that express looks for files like favicon.ico there
+app.use(express.static("static"));                 // Defines static folder so that express looks for files like favicon.ico there
 
 app.use('/css', css);
 app.use('/', addresses);                                    // Tells app to use the file referenced on 'addresses' to handle all routes starting with '/'
