@@ -1,6 +1,17 @@
 {
     "characters": [
         {
+            "name": "Fork me on github",
+            "regular": [
+                {
+                    "name": "Fork me on github - image",
+                    "id": "forkimg",
+                    "img": "https://s3.amazonaws.com/github/ribbons/forkme_right_darkblue_121621.png",
+                    "link": "https://s3.amazonaws.com/github/ribbons/"
+                }
+            ]
+        },
+        {
             "name": "Hakurei Reimu",
             "thwiki": "https://en.touhouwiki.net/wiki/Reimu_Hakurei",
             "regular": [

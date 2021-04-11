@@ -11,10 +11,10 @@
   },
   "devDependencies": {},
   "scripts": {
-    "styles": "sass --style=expanded --embed-sources src/index.scss:static/pages/index.css",
+    "styles": "sass --style=expanded --embed-sources src/index.scss:static/pages/css/index.css",
     "fumogen": "mustache data/fumo_data.json src/index.mustache static/pages/index.html && mustache data/fumo_data.json src/fumo_table.mustache static/pages/fumo_table.html && mustache data/fumo_data.json src/fumo_list.mustache static/pages/fumo_list.html && mustache data/fumo_data.json src/japanese.mustache static/pages/japanese.html && mustache data/fumo_data.json src/proxy_forward.mustache static/pages/proxy_forward.html && mustache data/fumo_data.json src/reseller.mustache static/pages/reseller.html",
     "imgfetch": "node imgfetch.js",
-    "build": "npm run styles && npm run fumogen && npm run imgfetch",
+    "build": "npm run styles && npm run fumogen",
     "watch": "npm-watch"
   },
   "watch": {

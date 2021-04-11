@@ -12,6 +12,8 @@ open pull requests with content changes, fixes, or improvements.
 
 Anyone is welcome to contribute.
 
-### About this branch
+As of the last merge, site is now using express backend.
+Please make sure to add routes for any new html page you add to this site if you make any.
+You can add new routes on routes/fumo-routes.js
 
-Decided to contribute to this project with some back-end node server programming using express, and helmet for helping protect secure the express app by setting various HTTP headers on the site. Nothing too fancy, though.
+Static files should be put inside the static folder. Express looks for them in there.
