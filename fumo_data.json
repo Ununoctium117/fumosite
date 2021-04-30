@@ -1,0 +1,2435 @@
+{
+    "characters": [
+        {
+            "name": "Hakurei Reimu",
+            "thwiki": "https://en.touhouwiki.net/wiki/Reimu_Hakurei",
+            "regular": [
+                {
+                    "name": "Version 1",
+                    "id": "001",
+                    "img": "https://www.gift-gift.jp/nui/files/images/nui001_01.jpg",
+                    "release_dates": [
+                        2008,
+                        2009,
+                        2010,
+                        2011,
+                        2012
+                    ],
+                    "rarity": "Common",
+                    "price_range": "$70 - $120",
+                    "link": "https://www.gift-gift.jp/nui/nui001.html"
+                },
+                {
+                    "name": "Nendroid Plus",
+                    "id": "029",
+                    "img": "https://www.gift-gift.jp/archive/nui/images/nui029_01.jpg",
+                    "release_dates": [
+                        2010
+                    ],
+                    "rarity": "Uncommon",
+                    "price_range": "$80 - $120",
+                    "link": "https://www.gift-gift.jp/archive/nui/nui029.html"
+                },
+                {
+                    "name": "Kourindou Version",
+                    "id": "345",
+                    "img": "https://www.gift-gift.jp/nui/files/images/nui345_01.jpg",
+                    "release_dates": [
+                        2015,
+                        2016,
+                        2017,
+                        2018,
+                        2020
+                    ],
+                    "rarity": "Common",
+                    "price_range": "$40 - $60",
+                    "link": "https://www.gift-gift.jp/nui/nui345.html"
+                }
+            ],
+            "straps": [
+                {
+                    "name": "Nendroid Plus",
+                    "id": "122",
+                    "img": "https://www.gift-gift.jp/nui/files/images/nui122_01.jpg",
+                    "release_dates": [
+                        2011
+                    ],
+                    "rarity": "Rare",
+                    "link": "https://www.gift-gift.jp/nui/nui122.html"
+                },
+                {
+                    "name": "Kourindou Version",
+                    "id": "452",
+                    "img": "https://www.gift-gift.jp/nui/files/images/nui452_01.jpg",
+                    "release_dates": [
+                        2016
+                    ],
+                    "rarity": "Rare",
+                    "price_range": "$100 - $200+",
+                    "link": "https://www.gift-gift.jp/nui/nui452.html"
+                },
+                {
+                    "name": "Plush Strap",
+                    "id": "745",
+                    "img": "https://www.gift-gift.jp/nui/files/images/nui745.jpg",
+                    "release_dates": [
+                        2020
+                    ],
+                    "rarity": "Common",
+                    "price_range": "$20",
+                    "link": "https://www.gift-gift.jp/nui/nui745.html"
+                }
+            ],
+            "dekas": [
+                {
+                    "name": "Version 1",
+                    "id": "009",
+                    "img": "https://www.gift-gift.jp/archive/nui/images/nui009_01.jpg",
+                    "release_dates": [
+                        2009,
+                        2010,
+                        2011,
+                        2012
+                    ],
+                    "rarity": "Super Rare",
+                    "price_range": "$500 - $750+",
+                    "link": "https://www.gift-gift.jp/archive/nui/nui009.html"
+                },
+                {
+                    "name": "Kourindou Version",
+                    "id": "739",
+                    "img": "https://www.gift-gift.jp/nui/files/images/74192eafba17dba313c25cb6de2376c7e179450c.jpg",
+                    "release_dates": [
+                        2020
+                    ],
+                    "rarity": "Super Rare",
+                    "price_range": "$500",
+                    "link": "https://www.gift-gift.jp/nui/nui739.html"
+                }
+            ],
+            "puppets": [
+                {
+                    "name": "Puppet",
+                    "id": "021",
+                    "img": "https://www.gift-gift.jp/nui/files/images/nui021_01.jpg",
+                    "release_dates": [
+                        2009
+                    ],
+                    "rarity": "Rare",
+                    "price_range": "$120+",
+                    "link": "https://www.gift-gift.jp/nui/nui021.html"
+                }
+            ]
+        },
+        {
+            "name": "Kirisame Marisa",
+            "thwiki": "https://en.touhouwiki.net/wiki/Marisa_Kirisame",
+            "regular": [
+                {
+                    "name": "Version 1",
+                    "id": "002",
+                    "img": "https://www.gift-gift.jp/nui/files/images/nui002_01.jpg",
+                    "release_dates": [
+                        2008,
+                        2009,
+                        2010,
+                        2011,
+                        2012
+                    ],
+                    "rarity": "Common",
+                    "link": "https://www.gift-gift.jp/nui/nui002.html"
+                },
+                {
+                    "name": "Nendroid Plus",
+                    "id": "030",
+                    "img": "https://www.gift-gift.jp/archive/nui/images/nui030_01.jpg",
+                    "release_dates": [
+                        2010
+                    ],
+                    "rarity": "Uncommon",
+                    "link": "https://www.gift-gift.jp/archive/nui/nui030.html"
+                },
+                {
+                    "name": "Version 2",
+                    "id": "278",
+                    "img": "https://www.gift-gift.jp/nui/files/images/nui278_01.jpg",
+                    "release_dates": [
+                        2014,
+                        2016,
+                        2020
+                    ],
+                    "rarity": "Rare",
+                    "link": "https://www.gift-gift.jp/nui/nui278.html"
+                },
+                {
+                    "name": "Kourindou Version",
+                    "id": "423",
+                    "img": "https://www.gift-gift.jp/nui/files/images/nui423_01.jpg",
+                    "release_dates": [
+                        2016,
+                        2017,
+                        2018,
+                        2020
+                    ],
+                    "rarity": "Common",
+                    "link": "https://www.gift-gift.jp/nui/nui423.html"
+                }
+            ],
+            "straps": [
+                {
+                    "name": "Nendroid Plus",
+                    "id": "123",
+                    "img": "https://www.gift-gift.jp/nui/files/images/nui123_01.jpg",
+                    "release_dates": [
+                        2011
+                    ],
+                    "rarity": "Rare",
+                    "link": "https://www.gift-gift.jp/nui/nui123.html"
+                },
+                {
+                    "name": "Kourindou Version",
+                    "id": "453",
+                    "img": "https://www.gift-gift.jp/nui/files/images/nui453_01.jpg",
+                    "release_dates": [
+                        2016
+                    ],
+                    "rarity": "Rare",
+                    "link": "https://www.gift-gift.jp/nui/nui453.html"
+                },
+                {
+                    "name": "Plush Strap",
+                    "id": "746",
+                    "img": "https://www.gift-gift.jp/nui/files/images/nui746.jpg",
+                    "release_dates": [
+                        2020
+                    ],
+                    "rarity": "Common",
+                    "link": "https://www.gift-gift.jp/nui/nui746.html"
+                }
+            ],
+            "dekas": [
+                {
+                    "name": "Version 1",
+                    "id": "023",
+                    "img": "https://www.gift-gift.jp/archive/nui/images/nui023_01.jpg",
+                    "release_dates": [
+                        2009,
+                        2010,
+                        2011
+                    ],
+                    "rarity": "Super Rare",
+                    "link": "https://www.gift-gift.jp/archive/nui/nui023.html"
+                },
+                {
+                    "name": "Kourindou Version",
+                    "id": "740",
+                    "img": "https://www.gift-gift.jp/nui/files/images/0ef10aad3fd6ea049e15659f3f14d95a3026a917.jpg",
+                    "release_dates": [
+                        2020
+                    ],
+                    "rarity": "Super Rare",
+                    "link": "https://www.gift-gift.jp/nui/nui740.html"
+                }
+            ],
+            "puppets": [
+                {
+                    "name": "Puppet",
+                    "id": "022",
+                    "img": "https://www.gift-gift.jp/nui/files/images/nui022_01.jpg",
+                    "release_dates": [
+                        2009
+                    ],
+                    "rarity": "Rare",
+                    "link": "https://www.gift-gift.jp/nui/nui022.html"
+                }
+            ]
+        },
+        {
+            "name": "Izayoi Sakuya",
+            "thwiki": "https://en.touhouwiki.net/wiki/Sakuya_Izayoi",
+            "regular": [
+                {
+                    "name": "Version 1",
+                    "id": "004",
+                    "img": "https://www.gift-gift.jp/nui/files/images/nui004_01.jpg",
+                    "release_dates": [
+                        2009,
+                        2010,
+                        2011,
+                        2012
+                    ],
+                    "rarity": "Common",
+                    "link": "https://www.gift-gift.jp/nui/nui004.html"
+                },
+                {
+                    "name": "Nendroid Plus",
+                    "id": "044",
+                    "img": "https://www.gift-gift.jp/archive/nui/images/nui044_01.jpg",
+                    "release_dates": [
+                        2010
+                    ],
+                    "rarity": "Common",
+                    "link": "https://www.gift-gift.jp/archive/nui/nui044.html"
+                },
+                {
+                    "name": "Kourindou Version",
+                    "id": "356",
+                    "img": "https://www.gift-gift.jp/nui/files/images/nui356_01.jpg",
+                    "release_dates": [
+                        2015,
+                        2016,
+                        2017,
+                        2018,
+                        2019
+                    ],
+                    "rarity": "Common",
+                    "link": "https://www.gift-gift.jp/nui/nui356.html"
+                },
+                {
+                    "name": "Inu (Dog) Version",
+                    "id": "inu-sakuya",
+                    "img": "https://cdn.discordapp.com/attachments/454070186405003266/550907554436481024/Diverse1252940707.png",
+                    "release_dates": [
+                        2009
+                    ],
+                    "link": "",
+                    "rarity": "Uncommon",
+                    "price_range": "$70 - $110"
+                }
+            ],
+            "straps": [
+                {
+                    "name": "Nendroid Plus",
+                    "id": "152",
+                    "img": "https://www.gift-gift.jp/nui/files/images/nui152_01.jpg",
+                    "release_dates": [
+                        2011
+                    ],
+                    "rarity": "Rare",
+                    "link": "https://www.gift-gift.jp/nui/nui152.html"
+                }
+            ]
+        },
+        {
+            "name": "Remilia Scarlet",
+            "thwiki": "https://en.touhouwiki.net/wiki/Remilia_Scarlet",
+            "regular": [
+                {
+                    "name": "Version 1",
+                    "id": "005",
+                    "img": "https://www.gift-gift.jp/nui/files/images/nui005_01.jpg",
+                    "release_dates": [
+                        2009,
+                        2010,
+                        2011,
+                        2012
+                    ],
+                    "rarity": "Common",
+                    "link": "https://www.gift-gift.jp/nui/nui005.html"
+                },
+                {
+                    "name": "Nendroid Plus",
+                    "id": "105",
+                    "img": "https://www.gift-gift.jp/archive/nui/images/nui105_01.jpg",
+                    "release_dates": [
+                        2011,
+                        2012
+                    ],
+                    "rarity": "Uncommon",
+                    "link": "https://www.gift-gift.jp/archive/nui/nui105.html"
+                },
+                {
+                    "name": "Kourindou Version",
+                    "id": "364",
+                    "img": "https://www.gift-gift.jp/nui/files/images/nui364_01.jpg",
+                    "release_dates": [
+                        2015,
+                        2017,
+                        2018
+                    ],
+                    "rarity": "Rare",
+                    "link": "https://www.gift-gift.jp/nui/nui364.html"
+                },
+                {
+                    "name": "Version 1.5",
+                    "id": "686",
+                    "img": "https://www.gift-gift.jp/nui/files/images/nui686_01.jpg",
+                    "release_dates": [
+                        2019
+                    ],
+                    "rarity": "Uncommon",
+                    "link": "https://www.gift-gift.jp/nui/nui686.html"
+                }
+            ],
+            "straps": [
+                {
+                    "name": "Nendroid Plus",
+                    "id": "168",
+                    "img": "https://www.gift-gift.jp/nui/files/images/nui168_01.jpg",
+                    "release_dates": [
+                        2011
+                    ],
+                    "rarity": "Rare",
+                    "link": "https://www.gift-gift.jp/nui/nui168.html"
+                }
+            ],
+            "dekas": [
+                {
+                    "name": "Version 1",
+                    "id": "124",
+                    "img": "https://www.gift-gift.jp/archive/nui/images/nui124_01.jpg",
+                    "release_dates": [
+                        2011
+                    ],
+                    "rarity": "Super Super Rare",
+                    "link": "https://www.gift-gift.jp/archive/nui/nui124.html"
+                }
+            ]
+        },
+        {
+            "name": "Patchouli Knowledge",
+            "thwiki": "https://en.touhouwiki.net/wiki/Patchouli_Knowledge",
+            "regular": [
+                {
+                    "name": "Version 1",
+                    "id": "006",
+                    "img": "https://www.gift-gift.jp/nui/files/images/nui006_01.jpg",
+                    "release_dates": [
+                        2009,
+                        2010,
+                        2011,
+                        2012
+                    ],
+                    "rarity": "Uncommon",
+                    "link": "https://www.gift-gift.jp/nui/nui006.html"
+                },
+                {
+                    "name": "Version 1.5",
+                    "id": "492",
+                    "img": "https://www.gift-gift.jp/nui/files/images/nui492_01.jpg",
+                    "release_dates": [
+                        2020
+                    ],
+                    "rarity": "Common",
+                    "link": "https://www.gift-gift.jp/nui/nui492.html"
+                }
+            ]
+        },
+        {
+            "name": "Alice Margatroid",
+            "thwiki": "https://en.touhouwiki.net/wiki/Alice_Margatroid",
+            "regular": [
+                {
+                    "name": "Version 1",
+                    "id": "007",
+                    "img": "https://www.gift-gift.jp/nui/files/images/nui007_01.jpg",
+                    "release_dates": [
+                        2009,
+                        2010,
+                        2011,
+                        2012
+                    ],
+                    "rarity": "Common",
+                    "link": "https://www.gift-gift.jp/nui/nui007.html"
+                },
+                {
+                    "name": "Version 1.5",
+                    "id": "491",
+                    "img": "https://www.gift-gift.jp/nui/files/images/nui491_01.jpg",
+                    "release_dates": [
+                        2017,
+                        2020
+                    ],
+                    "rarity": "Common",
+                    "link": "https://www.gift-gift.jp/nui/nui491.html"
+                }
+            ]
+        },
+        {
+            "name": "Flandre Scarlet",
+            "thwiki": "https://en.touhouwiki.net/wiki/Flandre_Scarlet",
+            "regular": [
+                {
+                    "name": "Version 1",
+                    "id": "008",
+                    "img": "https://www.gift-gift.jp/nui/files/images/nui008_01.jpg",
+                    "release_dates": [
+                        2009,
+                        2010,
+                        2011,
+                        2012
+                    ],
+                    "rarity": "Common",
+                    "link": "https://www.gift-gift.jp/nui/nui008.html"
+                },
+                {
+                    "name": "Nendroid Plus",
+                    "id": "106",
+                    "img": "https://www.gift-gift.jp/archive/nui/images/nui106_01.jpg",
+                    "release_dates": [
+                        2011,
+                        2012
+                    ],
+                    "rarity": "Uncommon",
+                    "link": "https://www.gift-gift.jp/archive/nui/nui106.html"
+                },
+                {
+                    "name": "Version 1.5",
+                    "id": "346",
+                    "img": "https://www.gift-gift.jp/nui/files/images/nui346_01.jpg",
+                    "release_dates": [
+                        2015,
+                        2016,
+                        2017,
+                        2018,
+                        2019
+                    ],
+                    "rarity": "Common",
+                    "link": "https://www.gift-gift.jp/nui/nui346.html"
+                }
+            ],
+            "dekas": [
+                {
+                    "name": "Version 1",
+                    "id": "189",
+                    "img": "https://www.gift-gift.jp/archive/nui/images/nui189_01.jpg",
+                    "release_dates": [
+                        2012
+                    ],
+                    "rarity": "Super Super Rare",
+                    "link": "https://www.gift-gift.jp/archive/nui/nui189.html"
+                }
+            ],
+            "straps": [
+                {
+                    "name": "Nendroid Plus",
+                    "id": "181",
+                    "img": "https://www.gift-gift.jp/nui/files/images/nui181_01.jpg",
+                    "release_dates": [
+                        2012
+                    ],
+                    "rarity": "Rare",
+                    "link": "https://www.gift-gift.jp/nui/nui181.html"
+                }
+            ]
+        },
+        {
+            "name": "Kochiya Sanae",
+            "thwiki": "https://en.touhouwiki.net/wiki/Sanae_Kochiya",
+            "regular": [
+                {
+                    "name": "Version 1",
+                    "id": "013",
+                    "img": "https://www.gift-gift.jp/nui/files/images/nui013_01.jpg",
+                    "release_dates": [
+                        2009,
+                        2010,
+                        2011
+                    ],
+                    "rarity": "Common",
+                    "link": "https://www.gift-gift.jp/nui/nui013.html"
+                },
+                {
+                    "name": "Nendroid Plus",
+                    "id": "045",
+                    "img": "https://www.gift-gift.jp/archive/nui/images/nui045_01.jpg",
+                    "release_dates": [
+                        2010
+                    ],
+                    "rarity": "Uncommon",
+                    "link": "https://www.gift-gift.jp/archive/nui/nui045.html"
+                },
+                {
+                    "name": "Version 2",
+                    "id": "290",
+                    "img": "https://www.gift-gift.jp/nui/files/images/nui290_01.jpg",
+                    "release_dates": [
+                        2014,
+                        2019
+                    ],
+                    "rarity": "Common",
+                    "link": "https://www.gift-gift.jp/nui/nui290.html"
+                }
+            ],
+            "straps": [
+                {
+                    "name": "Nendroid Plus",
+                    "id": "153",
+                    "img": "https://www.gift-gift.jp/nui/files/images/nui153_01.jpg",
+                    "release_dates": [
+                        2011
+                    ],
+                    "rarity": "Rare",
+                    "link": "https://www.gift-gift.jp/nui/nui153.html"
+                }
+            ]
+        },
+        {
+            "name": "Cirno",
+            "thwiki": "https://en.touhouwiki.net/wiki/Cirno",
+            "regular": [
+                {
+                    "name": "Version 1",
+                    "id": "014",
+                    "img": "https://www.gift-gift.jp/nui/files/images/nui014_01.jpg",
+                    "release_dates": [
+                        2009,
+                        2010,
+                        2011,
+                        2013
+                    ],
+                    "rarity": "Common",
+                    "link": "https://www.gift-gift.jp/nui/nui014.html"
+                },
+                {
+                    "name": "Nendroid Plus",
+                    "id": "195",
+                    "img": "https://www.gift-gift.jp/archive/nui/images/nui195_01.jpg",
+                    "release_dates": [
+                        2012
+                    ],
+                    "rarity": "Uncommon",
+                    "link": "https://www.gift-gift.jp/archive/nui/nui195.html"
+                },
+                {
+                    "name": "Version 1.5",
+                    "id": "558",
+                    "img": "https://www.gift-gift.jp/nui/files/images/nui558_01.jpg",
+                    "release_dates": [
+                        2018,
+                        2019
+                    ],
+                    "rarity": "Uncommon",
+                    "link": "https://www.gift-gift.jp/nui/nui558.html"
+                },
+                {
+                    "name": "Tanned Version",
+                    "id": 559,
+                    "img": "https://www.gift-gift.jp/nui/files/images/nui559_01.jpg",
+                    "release_dates": [
+                        2018,
+                        2019
+                    ],
+                    "rarity": "Common",
+                    "link": "https://www.gift-gift.jp/nui/nui559.html"
+                }
+            ],
+            "dekas": [
+                {
+                    "name": "Version 1",
+                    "id": "050",
+                    "img": "https://www.gift-gift.jp/archive/nui/images/nui050_01.jpg",
+                    "release_dates": [
+                        2010,
+                        2011
+                    ],
+                    "rarity": "Super Super Rare",
+                    "link": "https://www.gift-gift.jp/archive/nui/nui050.html"
+                }
+            ]
+        },
+        {
+            "name": "Moriya Suwako",
+            "thwiki": "https://en.touhouwiki.net/wiki/Suwako_Moriya",
+            "regular": [
+                {
+                    "name": "Version 1",
+                    "id": "015",
+                    "img": "https://www.gift-gift.jp/nui/files/images/nui015_01.jpg",
+                    "release_dates": [
+                        2009,
+                        2010,
+                        2011
+                    ],
+                    "rarity": "Common",
+                    "link": "https://www.gift-gift.jp/nui/nui015.html"
+                }
+            ]
+        },
+        {
+            "name": "Konpaku Youmu",
+            "thwiki": "https://en.touhouwiki.net/wiki/Youmu_Konpaku",
+            "regular": [
+                {
+                    "name": "Version 1",
+                    "id": "039",
+                    "img": "https://www.gift-gift.jp/nui/files/images/nui039_01.jpg",
+                    "release_dates": [
+                        2009,
+                        2010,
+                        2011
+                    ],
+                    "rarity": "Uncommon",
+                    "link": "https://www.gift-gift.jp/nui/nui039.html"
+                },
+                {
+                    "name": "Version 1.5",
+                    "id": "489",
+                    "img": "https://www.gift-gift.jp/nui/files/images/nui489_01.jpg",
+                    "release_dates": [
+                        2017,
+                        2018,
+                        2019,
+                        2020
+                    ],
+                    "rarity": "Common",
+                    "link": "https://www.gift-gift.jp/nui/nui489.html"
+                }
+            ]
+        },
+        {
+            "name": "Saigyouji Yuyuko",
+            "thwiki": "https://en.touhouwiki.net/wiki/Yuyuko_Saigyouji",
+            "regular": [
+                {
+                    "name": "Version 1",
+                    "id": "040",
+                    "img": "https://www.gift-gift.jp/nui/files/images/nui040_01.jpg",
+                    "release_dates": [
+                        2010,
+                        2011,
+                        2012
+                    ],
+                    "rarity": "Uncommon",
+                    "link": "https://www.gift-gift.jp/nui/nui040.html"
+                },
+                {
+                    "name": "Version 1.5",
+                    "id": "490",
+                    "img": "https://www.gift-gift.jp/nui/files/images/nui490_01.jpg",
+                    "release_dates": [
+                        2017,
+                        2018,
+                        2019,
+                        2020
+                    ],
+                    "rarity": "Common",
+                    "link": "https://www.gift-gift.jp/nui/nui490.html"
+                }
+            ]
+        },
+        {
+            "name": "Hong Meiling",
+            "thwiki": "https://en.touhouwiki.net/wiki/Hong_Meiling",
+            "regular": [
+                {
+                    "name": "Version 1",
+                    "id": "056",
+                    "img": "https://www.gift-gift.jp/nui/files/images/nui056_01.jpg",
+                    "release_dates": [
+                        2010,
+                        2011
+                    ],
+                    "rarity": "Rare",
+                    "link": "https://www.gift-gift.jp/nui/nui056.html"
+                }
+            ]
+        },
+        {
+            "name": "Chen",
+            "thwiki": "https://en.touhouwiki.net/wiki/Chen",
+            "regular": [
+                {
+                    "name": "Version 1",
+                    "id": "080",
+                    "img": "https://www.gift-gift.jp/nui/files/images/nui080_01.jpg",
+                    "release_dates": [
+                        2010,
+                        2011,
+                        2013
+                    ],
+                    "rarity": "Uncommon",
+                    "link": "https://www.gift-gift.jp/nui/nui080.html"
+                },
+                {
+                    "name": "Version 1.5",
+                    "id": "523",
+                    "img": "https://www.gift-gift.jp/nui/files/images/nui523_01.jpg",
+                    "release_dates": [
+                        2017,
+                        2018
+                    ],
+                    "rarity": "Rare",
+                    "link": "https://www.gift-gift.jp/nui/nui523.html"
+                }
+            ]
+        },
+        {
+            "name": "Yakumo Ran",
+            "thwiki": "https://en.touhouwiki.net/wiki/Ran_Yakumo",
+            "regular": [
+                {
+                    "name": "Version 1",
+                    "id": "081",
+                    "img": "https://www.gift-gift.jp/nui/files/images/nui081_01.jpg",
+                    "release_dates": [
+                        2010,
+                        2011,
+                        2013
+                    ],
+                    "rarity": "Uncommon",
+                    "link": "https://www.gift-gift.jp/nui/nui081.html"
+                },
+                {
+                    "name": "Version 1.5",
+                    "id": "524",
+                    "img": "https://www.gift-gift.jp/nui/files/images/nui524_01.jpg",
+                    "release_dates": [
+                        2017,
+                        2018
+                    ],
+                    "rarity": "Super Rare",
+                    "link": "https://www.gift-gift.jp/nui/nui524.html"
+                }
+            ]
+        },
+        {
+            "name": "Yakumo Yukari",
+            "thwiki": "https://en.touhouwiki.net/wiki/Yukari_Yakumo",
+            "regular": [
+                {
+                    "name": "Version 1",
+                    "id": "082",
+                    "img": "https://www.gift-gift.jp/nui/files/images/nui082_01.jpg",
+                    "release_dates": [
+                        2010,
+                        2011,
+                        2013
+                    ],
+                    "rarity": "Uncommon",
+                    "link": "https://www.gift-gift.jp/nui/nui082.html"
+                },
+                {
+                    "name": "Version 1.5",
+                    "id": "525",
+                    "img": "https://www.gift-gift.jp/nui/files/images/nui525_01.jpg",
+                    "release_dates": [
+                        2017,
+                        2018
+                    ],
+                    "rarity": "Rare",
+                    "link": "https://www.gift-gift.jp/nui/nui525.html"
+                }
+            ]
+        },
+        {
+            "name": "Houraisan Kaguya",
+            "thwiki": "https://en.touhouwiki.net/wiki/Kaguya_Houraisan",
+            "regular": [
+                {
+                    "name": "Version 1",
+                    "id": "138",
+                    "img": "https://www.gift-gift.jp/nui/files/images/nui138_01.jpg",
+                    "release_dates": [
+                        2011
+                    ],
+                    "rarity": "Super Rare",
+                    "link": "https://www.gift-gift.jp/nui/nui138.html"
+                }
+            ]
+        },
+        {
+            "name": "Fujiwara no Mokou",
+            "thwiki": "https://en.touhouwiki.net/wiki/Fujiwara_no_Mokou",
+            "regular": [
+                {
+                    "name": "Version 1",
+                    "id": "139",
+                    "img": "https://www.gift-gift.jp/nui/files/images/nui139_01.jpg",
+                    "release_dates": [
+                        2011,
+                        2016,
+                        2018
+                    ],
+                    "rarity": "Uncommon",
+                    "link": "https://www.gift-gift.jp/nui/nui139.html"
+                }
+            ]
+        },
+        {
+            "name": "Komeiji Satori",
+            "thwiki": "https://en.touhouwiki.net/wiki/Satori_Komeiji",
+            "regular": [
+                {
+                    "name": "Version 1",
+                    "id": "196",
+                    "img": "https://www.gift-gift.jp/nui/files/images/nui196_01.jpg",
+                    "release_dates": [
+                        2012,
+                        2013,
+                        2015,
+                        2016,
+                        2017,
+                        2018,
+                        2020
+                    ],
+                    "rarity": "Common",
+                    "link": "https://www.gift-gift.jp/nui/nui196.html"
+                }
+            ],
+            "straps": [
+                {
+                    "name": "Plush Strap",
+                    "id": "808",
+                    "img": "https://www.gift-gift.jp/nui/files/images/nui808_01.jpg",
+                    "release_dates": [
+                        2021
+                    ],
+                    "rarity": "Common",
+                    "link": "https://www.gift-gift.jp/nui/nui808.html"
+                }
+            ]
+        },
+        {
+            "name": "Komeiji Koishi",
+            "thwiki": "https://en.touhouwiki.net/wiki/Koishi_Komeiji",
+            "regular": [
+                {
+                    "name": "Version 1",
+                    "id": "197",
+                    "img": "https://www.gift-gift.jp/nui/files/images/nui197_01.jpg",
+                    "release_dates": [
+                        2012,
+                        2013,
+                        2015,
+                        2016,
+                        2017,
+                        2018,
+                        2019,
+                        2020
+                    ],
+                    "rarity": "Common",
+                    "link": "https://www.gift-gift.jp/nui/nui197.html"
+                }
+            ],
+            "straps": [
+                {
+                    "name": "Plush Strap",
+                    "id": "809",
+                    "img": "https://www.gift-gift.jp/nui/files/images/nui809_01.jpg",
+                    "release_dates": [
+                        2021
+                    ],
+                    "rarity": "Common",
+                    "link": "https://www.gift-gift.jp/nui/nui809.html"
+                }
+            ]
+        },
+        {
+            "name": "Reisen Udongein Inaba",
+            "thwiki": "https://en.touhouwiki.net/wiki/Reisen_Udongein_Inaba",
+            "regular": [
+                {
+                    "name": "Version 1",
+                    "id": "236",
+                    "img": "https://www.gift-gift.jp/nui/files/images/nui236_01.jpg",
+                    "release_dates": [
+                        2013,
+                        2016
+                    ],
+                    "rarity": "Super Rare",
+                    "link": "https://www.gift-gift.jp/nui/nui236.html"
+                },
+                {
+                    "name": "Hisouten Version",
+                    "id": "424",
+                    "img": "https://www.gift-gift.jp/nui/files/images/nui424_01.jpg",
+                    "release_dates": [
+                        2016
+                    ],
+                    "rarity": "Super Rare",
+                    "link": "https://www.gift-gift.jp/nui/nui424.html"
+                }
+            ]
+        },
+        {
+            "name": "Inaba Tewi",
+            "thwiki": "https://en.touhouwiki.net/wiki/Tewi_Inaba",
+            "regular": [
+                {
+                    "name": "Version 1",
+                    "id": "237",
+                    "img": "https://www.gift-gift.jp/nui/files/images/nui237_01.jpg",
+                    "release_dates": [
+                        2013,
+                        2015
+                    ],
+                    "rarity": "Super Rare",
+                    "link": "https://www.gift-gift.jp/nui/nui237.html"
+                }
+            ]
+        },
+        {
+            "name": "Hata no Kokoro",
+            "thwiki": "https://en.touhouwiki.net/wiki/Hata_no_Kokoro",
+            "regular": [
+                {
+                    "name": "Version 1",
+                    "id": "310",
+                    "img": "https://www.gift-gift.jp/nui/files/images/nui310_01.jpg",
+                    "release_dates": [
+                        2014,
+                        2015,
+                        2016,
+                        2017,
+                        2018,
+                        2020
+                    ],
+                    "rarity": "Common",
+                    "link": "https://www.gift-gift.jp/nui/nui310.html"
+                }
+            ]
+        },
+        {
+            "name": "Ibaraki Kasen",
+            "thwiki": "https://en.touhouwiki.net/wiki/Kasen_Ibaraki",
+            "regular": [
+                {
+                    "name": "Version 1",
+                    "id": "454",
+                    "img": "https://www.gift-gift.jp/nui/files/images/nui454_01.jpg",
+                    "release_dates": [
+                        2016,
+                        2017
+                    ],
+                    "rarity": "Rare",
+                    "link": "https://www.gift-gift.jp/nui/nui454.html"
+                }
+            ]
+        },
+        {
+            "name": "Shameimaru Aya",
+            "thwiki": "https://en.touhouwiki.net/wiki/Aya_Shameimaru",
+            "regular": [
+                {
+                    "name": "Nendroid Plus",
+                    "id": "058",
+                    "img": "https://www.gift-gift.jp/archive/nui/images/nui058_01.jpg",
+                    "release_dates": [
+                        2010
+                    ],
+                    "rarity": "Unknown",
+                    "link": "https://www.gift-gift.jp/archive/nui/images/nui058_01.jpg"
+                },
+                {
+                    "name": "Version 1",
+                    "id": "493",
+                    "img": "https://www.gift-gift.jp/nui/files/images/nui493_01.jpg",
+                    "release_dates": [
+                        2017,
+                        2018,
+                        2019,
+                        2020
+                    ],
+                    "rarity": "Common",
+                    "link": "https://www.gift-gift.jp/nui/nui493.html"
+                }
+            ]
+        },
+        {
+            "name": "Himekaidou Hatate",
+            "thwiki": "https://en.touhouwiki.net/wiki/Hatate_Himekaidou",
+            "regular": [
+                {
+                    "name": "Version 1",
+                    "id": "494",
+                    "img": "https://www.gift-gift.jp/nui/files/images/nui494_01.jpg",
+                    "release_dates": [
+                        2017,
+                        2020
+                    ],
+                    "rarity": "Common",
+                    "link": "https://www.gift-gift.jp/nui/nui494.html"
+                }
+            ]
+        },
+        {
+            "name": "Hinanawi Tenshi",
+            "thwiki": "https://en.touhouwiki.net/wiki/Tenshi_Hinanawi",
+            "regular": [
+                {
+                    "name": "Version 1",
+                    "id": "593",
+                    "img": "https://www.gift-gift.jp/nui/files/images/nui593_01.jpg",
+                    "release_dates": [
+                        2018,
+                        2019
+                    ],
+                    "rarity": "Uncommon",
+                    "link": "https://www.gift-gift.jp/nui/nui593.html"
+                }
+            ]
+        },
+        {
+            "name": "Yorigami Shion",
+            "thwiki": "https://en.touhouwiki.net/wiki/Shion_Yorigami",
+            "regular": [
+                {
+                    "name": "Version 1",
+                    "id": "644",
+                    "img": "https://www.gift-gift.jp/nui/files/images/9245f412ccd5e559baca9cf78d195743b8f73fb6.jpg",
+                    "release_dates": [
+                        2019,
+                        2020
+                    ],
+                    "rarity": "Common",
+                    "link": "https://www.gift-gift.jp/nui/nui644.html"
+                }
+            ]
+        },
+        {
+            "name": "Kazami Yuuka",
+            "thwiki": "https://en.touhouwiki.net/wiki/Yuuka_Kazami",
+            "regular": [
+                {
+                    "name": "Version 1",
+                    "id": "685",
+                    "img": "https://www.gift-gift.jp/nui/files/images/nui685_01.jpg",
+                    "release_dates": [
+                        2019
+                    ],
+                    "rarity": "Common",
+                    "link": "https://www.gift-gift.jp/nui/nui685.html"
+                }
+            ]
+        },
+        {
+            "name": "Inubashiri Momiji",
+            "thwiki": "https://en.touhouwiki.net/wiki/Momiji_Inubashiri",
+            "regular": [
+                {
+                    "name": "Version 1",
+                    "id": "773",
+                    "img": "https://www.gift-gift.jp/nui/files/images/nui773_01.jpg",
+                    "release_dates": [
+                        2020
+                    ],
+                    "rarity": "Common",
+                    "link": "https://www.gift-gift.jp/nui/nui773.html"
+                }
+            ]
+        },
+        {
+            "name": "Eirin Yagokoro",
+            "thwiki": "https://en.touhouwiki.net/wiki/Eirin_Yagokoro",
+            "regular": [
+                {
+                    "name": "Version 1",
+                    "id": "807",
+                    "img": "https://www.gift-gift.jp/nui/files/images/nui807_01.jpg",
+                    "release_dates": [
+                        2021
+                    ],
+                    "rarity": "Common",
+                    "link": "https://www.gift-gift.jp/nui/nui807.html"
+                }
+            ]
+        }
+    ],
+    "faq": [
+        {
+            "id": "how-get",
+            "question": "How do I get a Fumo?",
+            "answer": [
+                "You have two main options: find a trustworthy",
+                "<a href='reseller.html'>reseller</a> at a reasonable price, or",
+                "order one from Gift directly using a",
+                "<a href='proxy_forward.html'>Proxy or Forwarding Service</a>.",
+                "You may need to use both, depending on the reseller."
+            ]
+        },
+        {
+            "id": "prerequisites",
+            "question": "What do I need in order to get a Fumo?",
+            "answer": [
+                "The same things you need for any other online shopping:",
+                "<ul>",
+                "<li>A payment method - this means a credit or debit card. Gift itself does not",
+                "accept Paypal, but many storefronts do.</li>",
+                "<li>Money - expect to spend between 50 and 200 USD, depending on the Fumo,",
+                "shipping costs, and source. Deka fumos range from $500 - $3000.</li>",
+                "<li>Time - Shipping from overseas can take a long time.</li>",
+                "</ul>"
+            ]
+        },
+        {
+            "id": "which-char",
+            "question": "Which characters have Fumos?",
+            "answer": [
+                "Check out our helpful <a href='/fumo_table.html'>Fumo Table</a>.",
+                "You can also look through the entire Gift catalog <a href='https://www.gift-gift.jp/nui/'>here</a>."
+            ]
+        },
+        {
+            "id": "species",
+            "question": "What are the varieties of Fumo?",
+            "answer": [
+                "<ul>",
+                "<li>Normal - a normal fumo. Typically about 20cm tall sitting.",
+                "Nendroid ones are taller and posable.</li>",
+                "<li>Toy Strap - a small fumo with a strap for key chains.</li>",
+                "<li>Deka - a giant fumo. 70cm tall and incredibly expensive. \"Deka\" comes from the Japanese",
+                "\"dekai\", meaning huge.</li>",
+                "<li>Puppet - a hand puppet, about 40cm tall.</li>",
+                "</ul>"
+            ]
+        },
+        {
+            "id": "bootlegs",
+            "question": "How good are bootleg Fumos?",
+            "answer": [
+                "Bootleg fumos, mimicking the Fumo style and passed off as being authentic, are often cheaper",
+                "than real ones. However, Some have their own character and value, like the long-legged",
+                "bootleg dekas, but many do not. You'll have to decide on your own, but know that you're taking",
+                "a risk. For information on avoiding bootlegs, see the <a href='reseller.html#bootleg'>reseller guide</a>."
+            ]
+        },
+        {
+            "id": "customs",
+            "question": "I've seen Fumos that aren't listed!",
+            "answer": [
+                "That was most likely a custom fumo! There are quite a few people out there who make custom fumos",
+                "themselves."
+            ]
+        },
+        {
+            "id": "etymology",
+            "question": "What does \"Fumo\" mean?",
+            "answer": [
+                "The word \"Fumo\" comes from the Japanese onomatopoeia \"モフモフ\" (mofumofu), which means \"soft to the",
+                "touch\", or \"fluffy\"."
+            ]
+        },
+        {
+            "id": "fumo",
+            "question": "Fumo?",
+            "answer": [
+                "Fumo."
+            ]
+        }
+    ],
+    "japanese": {
+        "keywords": [
+            {
+                "type": "Keyword",
+                "jp": "ふもふも",
+                "jp_alt": [
+                    "ふも",
+                    "フモフモ"
+                ],
+                "en": "Fumo"
+            },
+            {
+                "type": "Keyword",
+                "jp": "でかふも",
+                "jp_alt": [],
+                "en": "Deka Fumo"
+            },
+            {
+                "type": "Keyword",
+                "jp": "在庫切れ",
+                "jp_alt": [
+                    "売り切れ",
+                    "在庫なし"
+                ],
+                "en": "Out of Stock"
+            },
+            {
+                "type": "Keyword",
+                "jp": "ぬいぐるみ",
+                "jp_alt": [
+                    "縫いぐるみ"
+                ],
+                "en": "Plush"
+            },
+            {
+                "type": "Keyword",
+                "jp": "東方",
+                "jp_alt": [
+                    "とうほう",
+                    "東方Project"
+                ],
+                "en": "Touhou"
+            },
+            {
+                "type": "Keyword",
+                "jp": "円",
+                "jp_alt": [
+                    "えん"
+                ],
+                "en": "Yen"
+            },
+            {
+                "type": "Keyword",
+                "jp": "即決価格",
+                "jp_alt": [],
+                "en": "Buyout Price"
+            }
+        ],
+        "form_elements": [
+            {
+                "jp": "氏名",
+                "jp_alt": [],
+                "en": "Full Name"
+            },
+            {
+                "jp": "苗字",
+                "jp_alt": [
+                    "名字",
+                    "姓"
+                ],
+                "en": "Family Name"
+            },
+            {
+                "jp": "お名前",
+                "jp_alt": [
+                    "名前",
+                    "名"
+                ],
+                "en": "Given Name"
+            },
+            {
+                "jp": "フリガナ",
+                "en": "Furigana (Typically, leave this blank)"
+            },
+            {
+                "jp": "郵便番号",
+                "jp_alt": [
+                    "〒"
+                ],
+                "en": "Postal Code (XXX-XXXX)"
+            },
+            {
+                "jp": "都道府県",
+                "jp_alt": [],
+                "en": "Prefecture"
+            },
+            {
+                "jp": "市区町村",
+                "jp_alt": [
+                    "郡市区（島）"
+                ],
+                "en": "Municipality/City/Ward"
+            },
+            {
+                "jp": "町名",
+                "jp_alt": [],
+                "en": "City District/Town"
+            },
+            {
+                "jp": "番地",
+                "jp_alt": [],
+                "en": "House or Building Number (Hyphen positions matter)"
+            },
+            {
+                "jp": "建物名",
+                "jp_alt": [
+                    "マンション名"
+                ],
+                "en": "Building Name"
+            },
+            {
+                "jp": "号室",
+                "jp_alt": [],
+                "en": "Room Number"
+            },
+            {
+                "jp": "住所",
+                "jp_alt": [],
+                "en": "Address"
+            },
+            {
+                "jp": "会社名",
+                "jp_alt": [],
+                "en": "Company Name"
+            },
+            {
+                "jp": "電話番号",
+                "jp_alt": [],
+                "en": "Telephone Number"
+            },
+            {
+                "jp": "メールアドレス",
+                "jp_alt": [],
+                "en": "Email Address"
+            }
+        ],
+        "characters": [
+            {
+                "type": "Character",
+                "jp": "秋静葉",
+                "jp_alt": [
+                    "あきしずは"
+                ],
+                "en": "Aki Shizuha"
+            },
+            {
+                "type": "Character",
+                "jp": "アリス・マーガトロイド",
+                "jp_alt": [],
+                "en": "Alice Margatroid"
+            },
+            {
+                "type": "Character",
+                "jp": "橙",
+                "jp_alt": [
+                    "チェン",
+                    "ちぇん"
+                ],
+                "en": "Chen"
+            },
+            {
+                "type": "Character",
+                "jp": "チルノ",
+                "jp_alt": [
+                    "ちるの",
+                    "⑨"
+                ],
+                "en": "Cirno"
+            },
+            {
+                "type": "Character",
+                "jp": "クラウンピース",
+                "jp_alt": [],
+                "en": "Clownpiece"
+            },
+            {
+                "type": "Character",
+                "jp": "大妖精",
+                "jp_alt": [
+                    "だいようせい"
+                ],
+                "en": "Daiyousei"
+            },
+            {
+                "type": "Character",
+                "jp": "ドレミー・スイート",
+                "jp_alt": [],
+                "en": "Doremy Sweet"
+            },
+            {
+                "type": "Character",
+                "jp": "戎瓔花",
+                "jp_alt": [
+                    "えびすえいか"
+                ],
+                "en": "Ebisu Eika"
+            },
+            {
+                "type": "Character",
+                "jp": "エタニティラルバ",
+                "jp_alt": [],
+                "en": "Eternity Larva"
+            },
+            {
+                "type": "Character",
+                "jp": "フランドール・スカーレット",
+                "jp_alt": [],
+                "en": "Flandre Scarlet"
+            },
+            {
+                "type": "Character",
+                "jp": "藤原妹紅",
+                "jp_alt": [
+                    "ふじわらのもこう"
+                ],
+                "en": "Fujiwara no Mokou"
+            },
+            {
+                "type": "Character",
+                "jp": "二ッ岩マミゾウ",
+                "jp_alt": [
+                    "ふたついわマミゾウ"
+                ],
+                "en": "Futatsuiwa Mamizou"
+            },
+            {
+                "type": "Character",
+                "jp": "博霊霊夢",
+                "jp_alt": [
+                    "はくれいれいむ"
+                ],
+                "en": "Hakurei Reimu"
+            },
+            {
+                "type": "Character",
+                "jp": "埴安神袿姫",
+                "jp_alt": [
+                    "はにやすしんけいき"
+                ],
+                "en": "Haniyasushin Keiki"
+            },
+            {
+                "type": "Character",
+                "jp": "秦こころ",
+                "jp_alt": [
+                    "はたのこころ"
+                ],
+                "en": "Hata no Kokoro"
+            },
+            {
+                "type": "Character",
+                "jp": "ヘカーティア・ラピスラズリ",
+                "jp_alt": [],
+                "en": "Hecatia Lapislazuli"
+            },
+            {
+                "type": "Character",
+                "jp": "稗田阿求",
+                "jp_alt": [
+                    "ひえだのあきゅう"
+                ],
+                "en": "Hieda no Akyuu"
+            },
+            {
+                "type": "Character",
+                "jp": "聖白蓮",
+                "jp_alt": [
+                    "ひじりびゃくれん"
+                ],
+                "en": "Hijiri Byakuren"
+            },
+            {
+                "type": "Character",
+                "jp": "姫海棠はたて",
+                "jp_alt": [
+                    "ひめかいどうはたて"
+                ],
+                "en": "Himekaidou Hatate"
+            },
+            {
+                "type": "Character",
+                "jp": "比那名居天子",
+                "jp_alt": [
+                    "ひななゐてんし"
+                ],
+                "en": "Hinanawi Tenshi"
+            },
+            {
+                "type": "Character",
+                "jp": "紅美鈴",
+                "jp_alt": [
+                    "ホンメイリン"
+                ],
+                "en": "Hong Meiling"
+            },
+            {
+                "type": "Character",
+                "jp": "堀川雷鼓",
+                "jp_alt": [
+                    "ほりかわらいこ"
+                ],
+                "en": "Horikawa Raiko"
+            },
+            {
+                "type": "Character",
+                "jp": "星熊勇儀",
+                "jp_alt": "ほしぐまゆうぎ",
+                "en": "Hoshiguma Yuugi"
+            },
+            {
+                "type": "Character",
+                "jp": "封獣ぬえ",
+                "jp_alt": [
+                    "ほうじゅうぬえ"
+                ],
+                "en": "Houjuu Nue"
+            },
+            {
+                "type": "Character",
+                "jp": "蓬莱山輝夜",
+                "jp_alt": [
+                    "ほうらいさんかぐや"
+                ],
+                "en": "Houraisan Kaguya"
+            },
+            {
+                "type": "Character",
+                "jp": "茨木華扇",
+                "jp_alt": [
+                    "いばらきかせん"
+                ],
+                "en": "Ibaraki Kasen"
+            },
+            {
+                "type": "Character",
+                "jp": "伊吹萃香",
+                "jp_alt": [
+                    "いぶきすいか"
+                ],
+                "en": "Ibuki Suika"
+            },
+            {
+                "type": "Character",
+                "jp": "今泉影狼",
+                "jp_alt": [
+                    "いまいずみかげろう"
+                ],
+                "en": "Imaizumi Kagerou"
+            },
+            {
+                "type": "Character",
+                "jp": "因幡てゐ",
+                "jp_alt": [
+                    "いなばてゐ"
+                ],
+                "en": "Inaba Tewi"
+            },
+            {
+                "type": "Character",
+                "jp": "犬走椛",
+                "jp_alt": [
+                    "いぬばしりもみじ"
+                ],
+                "en": "Inubashiri Momiji"
+            },
+            {
+                "type": "Character",
+                "jp": "十六夜咲夜",
+                "jp_alt": "いざよいさくや",
+                "en": "Izayoi Sakuya"
+            },
+            {
+                "type": "Character",
+                "jp": "杖刀偶磨弓",
+                "jp_alt": [
+                    "じょうとうぐうまゆみ"
+                ],
+                "en": "Joutouguu Mayumi"
+            },
+            {
+                "type": "Character",
+                "jp": "純狐",
+                "jp_alt": [
+                    "じゅんこ"
+                ],
+                "en": "Junko"
+            },
+            {
+                "type": "Character",
+                "jp": "火焔猫燐",
+                "jp_alt": [
+                    "かえんびょうりん"
+                ],
+                "en": "Kaenbyou Rin"
+            },
+            {
+                "type": "Character",
+                "jp": "鍵山雛",
+                "jp_alt": [
+                    "かぎやまひな"
+                ],
+                "en": "Kagiyama Hina"
+            },
+            {
+                "type": "Character",
+                "jp": "霍青娥",
+                "jp_alt": [
+                    "かくせいが"
+                ],
+                "en": "Kaku Seiga"
+            },
+            {
+                "type": "Character",
+                "jp": "上白沢慧音",
+                "jp_alt": [
+                    "かみしらさわけいね"
+                ],
+                "en": "Kamishirasawa Keine"
+            },
+            {
+                "type": "Character",
+                "jp": "幽谷響子",
+                "jp_alt": [
+                    "かそだにきょうこ"
+                ],
+                "en": "Kasodani Kyouko"
+            },
+            {
+                "type": "Character",
+                "jp": "河城にとり",
+                "jp_alt": [
+                    "かわしろにとり"
+                ],
+                "en": "Kawashiro Nitori"
+            },
+            {
+                "type": "Character",
+                "jp": "風見幽香",
+                "jp_alt": [
+                    "かざみゆうか"
+                ],
+                "en": "Kazami Yuuka"
+            },
+            {
+                "type": "Character",
+                "jp": "吉弔八千慧",
+                "jp_alt": [
+                    "きっちょうやちえ"
+                ],
+                "en": "Kicchou Yachie"
+            },
+            {
+                "type": "Character",
+                "jp": "鬼人正邪",
+                "jp_alt": [
+                    "きじんせいじゃ"
+                ],
+                "en": "Kijin Seija"
+            },
+            {
+                "type": "Character",
+                "jp": "霧雨魔理沙",
+                "jp_alt": [
+                    "きりさめまりさ"
+                ],
+                "en": "Kirisame Marisa"
+            },
+            {
+                "type": "Character",
+                "jp": "稀神サグメ",
+                "jp_alt": [
+                    "きしんサグメ"
+                ],
+                "en": "Kishin Sagume"
+            },
+            {
+                "type": "Character",
+                "jp": "小悪魔",
+                "jp_alt": [
+                    "こあくま"
+                ],
+                "en": "Koakuma"
+            },
+            {
+                "type": "Character",
+                "jp": "東風谷早苗",
+                "jp_alt": [
+                    "こちやさなえ"
+                ],
+                "en": "Kochiya Sanae"
+            },
+            {
+                "type": "Character",
+                "jp": "高麗野あうん",
+                "jp_alt": [
+                    "こまのあうん"
+                ],
+                "en": "Komano Aunn"
+            },
+            {
+                "type": "Character",
+                "jp": "古明地こいし",
+                "jp_alt": [
+                    "こめいじこいし"
+                ],
+                "en": "Komeiji Koishi"
+            },
+            {
+                "type": "Character",
+                "jp": "古明地さとり",
+                "jp_alt": [
+                    "こめいじさとり"
+                ],
+                "en": "Komeiji Satori"
+            },
+            {
+                "type": "Character",
+                "jp": "魂魄妖夢",
+                "jp_alt": [
+                    "こんぱくようむ"
+                ],
+                "en": "Konpaku Youmu"
+            },
+            {
+                "type": "Character",
+                "jp": "雲居一輪",
+                "jp_alt": [
+                    "くもいいちりん"
+                ],
+                "en": "Kumoi Ichirin"
+            },
+            {
+                "type": "Character",
+                "jp": "黒谷ヤマメ",
+                "jp_alt": [
+                    "くろだにやめめ"
+                ],
+                "en": "Kurodani Yamame"
+            },
+            {
+                "type": "Character",
+                "jp": "驪駒早鬼",
+                "jp_alt": [
+                    "くろこまさき"
+                ],
+                "en": "Kurokoma Saki"
+            },
+            {
+                "type": "Character",
+                "jp": "レティ・ホワイトロック",
+                "jp_alt": [],
+                "en": "Letty Whiterock"
+            },
+            {
+                "type": "Character",
+                "jp": "リリーホワイト",
+                "jp_alt": [],
+                "en": "Lily White"
+            },
+            {
+                "type": "Character",
+                "jp": "ルナサ・プリズムリバー",
+                "jp_alt": [],
+                "en": "Lunasa Prismriver"
+            },
+            {
+                "type": "Character",
+                "jp": "リリカ・プリズムリバー",
+                "jp_alt": [],
+                "en": "Lyrica Prismriver"
+            },
+            {
+                "type": "Character",
+                "jp": "マエリベリー・ハーン",
+                "jp_alt": [],
+                "en": "Maribel Hearn"
+            },
+            {
+                "type": "Character",
+                "jp": "摩多羅隠岐奈",
+                "jp_alt": [
+                    "またらおきな"
+                ],
+                "en": "Matara Okina"
+            },
+            {
+                "type": "Character",
+                "jp": "メディスン・メランコリー",
+                "jp_alt": [],
+                "en": "Medicine Melancholy"
+            },
+            {
+                "type": "Character",
+                "jp": "メルラン・プリズムリバー",
+                "jp_alt": [],
+                "en": "Merlin Prismriver"
+            },
+            {
+                "type": "Character",
+                "jp": "魅魔",
+                "jp_alt": [
+                    "みま"
+                ],
+                "en": "Mima"
+            },
+            {
+                "type": "Character",
+                "jp": "水橋パルスィ",
+                "jp_alt": [
+                    "みずはしパルスィ"
+                ],
+                "en": "Mizuhashi Parsee"
+            },
+            {
+                "type": "Character",
+                "jp": "物部布都",
+                "jp_alt": [
+                    "もののべのふと"
+                ],
+                "en": "Mononobe no Futo"
+            },
+            {
+                "type": "Character",
+                "jp": "森近霖之助",
+                "jp_alt": [
+                    "もりちかりんのすけ"
+                ],
+                "en": "Morichika Rinnosuke"
+            },
+            {
+                "type": "Character",
+                "jp": "洩矢諏訪子",
+                "jp_alt": [
+                    "もりやすわこ"
+                ],
+                "en": "Moriya Suwako"
+            },
+            {
+                "type": "Character",
+                "jp": "村紗水蜜",
+                "jp_alt": [
+                    "むらさみなみつ"
+                ],
+                "en": "Murasa Minamitsu"
+            },
+            {
+                "type": "Character",
+                "jp": "ミスティア・ローレライ",
+                "jp_alt": [],
+                "en": "Mystia Lorelei"
+            },
+            {
+                "type": "Character",
+                "jp": "永江衣玖",
+                "jp_alt": [
+                    "ながえいく"
+                ],
+                "en": "Nagae Iku"
+            },
+            {
+                "type": "Character",
+                "jp": "ナズーリン",
+                "jp_alt": [],
+                "en": "Nazrin"
+            },
+            {
+                "type": "Character",
+                "jp": "爾子田里乃",
+                "jp_alt": [
+                    "にしださとの"
+                ],
+                "en": "Nishida Satono"
+            },
+            {
+                "type": "Character",
+                "jp": "庭渡久侘歌",
+                "jp_alt": [
+                    "にわたりくたか"
+                ],
+                "en": "Niwatari Kutaka"
+            },
+            {
+                "type": "Character",
+                "jp": "奥野田美宵",
+                "jp_alt": [
+                    "おくのだみよい"
+                ],
+                "en": "Okunoda Miyoi"
+            },
+            {
+                "type": "Character",
+                "jp": "小野塚小町",
+                "jp_alt": [
+                    "おのづかこまち"
+                ],
+                "en": "Onozuka Komachi"
+            },
+            {
+                "type": "Character",
+                "jp": "パチュリー・ノーレッジ",
+                "jp_alt": [],
+                "en": "Patchouli Knowledge"
+            },
+            {
+                "type": "Character",
+                "jp": "鈴仙・優曇華院・イナバ",
+                "jp_alt": [
+                    "鈴仙・Ｕ・イナバ",
+                    "れいせん・うどんげいん・イナバ"
+                ],
+                "en": "Reisen Udongein Inaba"
+            },
+            {
+                "type": "Character",
+                "jp": "霊烏路空",
+                "jp_alt": [
+                    "れいうじうつほ"
+                ],
+                "en": "Reiuji Utsuho"
+            },
+            {
+                "type": "Character",
+                "jp": "レミリア・スカーレット",
+                "jp_alt": [],
+                "en": "Remilia Scarlet"
+            },
+            {
+                "type": "Character",
+                "jp": "ルーミア",
+                "jp_alt": [],
+                "en": "Rumia"
+            },
+            {
+                "type": "Character",
+                "jp": "西行寺幽々子",
+                "jp_alt": [
+                    "さいぎょうじゆゆこ"
+                ],
+                "en": "Saigyouji Yuyuko"
+            },
+            {
+                "type": "Character",
+                "jp": "坂田ネムノ",
+                "jp_alt": [
+                    "さかたネムノ"
+                ],
+                "en": "Sakata Nemuno"
+            },
+            {
+                "type": "Character",
+                "jp": "赤蛮奇",
+                "jp_alt": [
+                    "せきばんき"
+                ],
+                "en": "Sekibanki"
+            },
+            {
+                "type": "Character",
+                "jp": "射命丸文",
+                "jp_alt": [
+                    "しゃめいまるあや"
+                ],
+                "en": "Shameimaru Aya"
+            },
+            {
+                "type": "Character",
+                "jp": "四季映姫・ヤマザナドゥ",
+                "jp_alt": [
+                    "四季映姫",
+                    "しきえいき"
+                ],
+                "en": "Shiki Eiki, Yamaxanadu"
+            },
+            {
+                "type": "Character",
+                "jp": "蘇我屠自古",
+                "jp_alt": [
+                    "そがのとじこ"
+                ],
+                "en": "Soga no Tojiko"
+            },
+            {
+                "type": "Character",
+                "jp": "スターサファイア",
+                "jp_alt": [],
+                "en": "Star Sapphire"
+            },
+            {
+                "type": "Character",
+                "jp": "少名針妙丸",
+                "jp_alt": [
+                    "すくなしんみょうまる"
+                ],
+                "en": "Sukuna Shinmyoumaru"
+            },
+            {
+                "type": "Character",
+                "jp": "多々良小傘",
+                "jp_alt": [
+                    "たたらこがさ"
+                ],
+                "en": "Tatara Kogasa"
+            },
+            {
+                "type": "Character",
+                "jp": "丁礼田舞",
+                "jp_alt": [
+                    "ていれいだまい"
+                ],
+                "en": "Teireida Mai"
+            },
+            {
+                "type": "Character",
+                "jp": "寅丸星",
+                "jp_alt": [
+                    "とらまるしょう"
+                ],
+                "en": "Toramaru Shou"
+            },
+            {
+                "type": "Character",
+                "jp": "豊聡耳神子",
+                "jp_alt": [
+                    "とよさとみみのみこ"
+                ],
+                "en": "Toyosatomimi no Miko"
+            },
+            {
+                "type": "Character",
+                "jp": "九十九八橋",
+                "jp_alt": [
+                    "つくもやつはし"
+                ],
+                "en": "Tsukumo Yatsuhashi"
+            },
+            {
+                "type": "Character",
+                "jp": "雲山",
+                "jp_alt": [
+                    "うんざん"
+                ],
+                "en": "Unzan"
+            },
+            {
+                "type": "Character",
+                "jp": "牛崎潤美",
+                "jp_alt": [
+                    "うしざきうるみ"
+                ],
+                "en": "Ushizaki Urumi"
+            },
+            {
+                "type": "Character",
+                "jp": "宇佐見蓮子",
+                "jp_alt": [
+                    "うさみれんこ"
+                ],
+                "en": "Usami Renko"
+            },
+            {
+                "type": "Character",
+                "jp": "宇佐見菫子",
+                "jp_alt": [
+                    "うさみすみれこ"
+                ],
+                "en": "Usami Sumireko"
+            },
+            {
+                "type": "Character",
+                "jp": "わかさぎ姫",
+                "jp_alt": [
+                    "わかさぎひめ"
+                ],
+                "en": "Wakasagihime"
+            },
+            {
+                "type": "Character",
+                "jp": "綿月豊姫",
+                "jp_alt": [
+                    "わたつきのとよひめ"
+                ],
+                "en": "Watatsuki no Toyohime"
+            },
+            {
+                "type": "Character",
+                "jp": "綿月依姫",
+                "jp_alt": [
+                    "わたつきのよりひめ"
+                ],
+                "en": "Watatsuki no Yorihime"
+            },
+            {
+                "type": "Character",
+                "jp": "リグル・ナイトバグ",
+                "jp_alt": [],
+                "en": "Wriggle Nightbug"
+            },
+            {
+                "type": "Character",
+                "jp": "八意永琳",
+                "jp_alt": [
+                    "やごころえいりん"
+                ],
+                "en": "Yagokoro Eirin"
+            },
+            {
+                "type": "Character",
+                "jp": "八雲藍",
+                "jp_alt": [
+                    "やくもらん"
+                ],
+                "en": "Yakumo Ran"
+            },
+            {
+                "type": "Character",
+                "jp": "八雲紫",
+                "jp_alt": [
+                    "やくもゆかり"
+                ],
+                "en": "Yakumo Yukari"
+            },
+            {
+                "type": "Character",
+                "jp": "八坂神奈子",
+                "jp_alt": [
+                    "やさかかなこ"
+                ],
+                "en": "Yasaka Kanako"
+            },
+            {
+                "type": "Character",
+                "jp": "矢田寺成美",
+                "jp_alt": [
+                    "やたでらなるみ"
+                ],
+                "en": "Yatadera Narumi"
+            },
+            {
+                "type": "Character",
+                "jp": "依神女苑",
+                "jp_alt": [
+                    "よりがみじょおん"
+                ],
+                "en": "Yorigami Joon"
+            },
+            {
+                "type": "Character",
+                "jp": "依神紫苑",
+                "jp_alt": [
+                    "よりがみしおん"
+                ],
+                "en": "Yorigami Shion"
+            }
+        ]
+    },
+    "forwarders": [
+        {
+            "name": "Big in Japan",
+            "link": "https://www.biginjap.com/",
+            "per_package": "￥500",
+            "consolidation": "￥1500 for any number of packages",
+            "notes": ""
+        },
+        {
+            "name": "Blackship",
+            "link": "https://blackship.com/",
+            "per_package": "$1",
+            "consolidation": "$3 per package",
+            "notes": "There is an optional monthly subscription service and many optional features"
+        },
+        {
+            "name": "Japamart",
+            "link": "https://japamart.com/",
+            "per_package": "5% + a commission based on total price - about $6 for a single Fumo",
+            "consolidation": "Apparently free",
+            "notes": "Does not accept forwards from auction sites; only accepts PayPal"
+        },
+        {
+            "name": "JPN-DEPOT",
+            "link": "https://www.jpn-depot.com/",
+            "per_package": "￥200",
+            "consolidation": "￥100 per package",
+            "notes": ""
+        },
+        {
+            "name": "Tenso",
+            "link": "https://www.tenso.com/en/",
+            "per_package": "Based on weight - about ￥150 for a single Fumo",
+            "consolidation": "￥200 + ￥300 per package beyond the first",
+            "notes": "Partnered with Buyee"
+        }
+    ],
+    "proxies": [
+        {
+            "name": "Big in Japan",
+            "link": "https://www.biginjap.com/",
+            "per_order": "￥500 + 15%",
+            "other_fees": "",
+            "consolidation": "Not offered",
+            "sniper_bids": "Not offered",
+            "notes": "Sends invoices via PayPal"
+        },
+        {
+            "name": "Buyee",
+            "link": "https://buyee.jp/",
+            "per_order": "￥300; Optional ￥0-500 for insurance/inspection",
+            "other_fees": "￥200 per successful bid on Yahoo Auctions",
+            "consolidation": "￥500 for two packages or ￥1000 for 3 or more",
+            "sniper_bids": "5 minutes",
+            "notes": ""
+        },
+        {
+            "name": "From Japan",
+            "link": "https://www.fromjapan.co.jp/en/",
+            "per_order": "￥300, or ￥700 if you want insurance",
+            "other_fees": "￥200 per successful bid on Yahoo Auctions",
+            "consolidation": "Free",
+            "sniper_bids": "10 minutes",
+            "notes": ""
+        },
+        {
+            "name": "J-Subculture",
+            "link": "https://www.j-subculture.com/",
+            "per_order": "￥500, or ￥850 if you want insurance",
+            "other_fees": "￥50 per item won at auction",
+            "consolidation": "Free for up to 5 items",
+            "sniper_bids": "15 minutes",
+            "notes": ""
+        },
+        {
+            "name": "Japamart",
+            "link": "https://japamart.com/",
+            "per_order": "5% + $2 + a commission based on total price, about $10 for a single Fumo",
+            "other_fees": "Some shenanigans if multiple Japamart users bid on the same item",
+            "consolidation": "Apparently free",
+            "sniper_bids": "Not specified, but near auction close",
+            "notes": "Only accepts PayPal"
+        },
+        {
+            "name": "Jauce",
+            "link": "https://www.jauce.com/",
+            "per_order": "1300￥ + 8% for non-auction; 700￥ + 8% for auctions",
+            "other_fees": "",
+            "consolidation": "￥300 per package + ￥120/kg",
+            "sniper_bids": "6 minutes",
+            "notes": ""
+        },
+        {
+            "name": "JPN-DEPOT",
+            "link": "https://www.jpn-depot.com/",
+            "per_order": "￥400",
+            "other_fees": "￥200 per auction on Yahoo Auctions",
+            "consolidation": "￥100 per package",
+            "sniper_bids": "Not offered",
+            "notes": ""
+        },
+        {
+            "name": "Kuboten",
+            "link": "https://www.kuboten.com/",
+            "per_order": "￥1000 + 10%",
+            "other_fees": "3.9% money transfer fee",
+            "consolidation": "Apparently free",
+            "sniper_bids": "Not offered",
+            "notes": "Suggests placing orders 12 hours before auctions close"
+        },
+        {
+            "name": "Noppin",
+            "link": "https://noppin.com/",
+            "per_order": "Non-auction: ￥1000 + 10%; 12.5% (minimum ￥500) for auctions",
+            "other_fees": "Additional charges based on size and weight; 3.5% money transfer fee",
+            "consolidation": "Free",
+            "sniper_bids": "Not offered",
+            "notes": "Packing takes about 3 business days"
+        },
+        {
+            "name": "Proxy Rabbit Japan",
+            "link": "https://www.proxyrabbitjapan.com/",
+            "per_order": "￥400 + 5%",
+            "other_fees": "3.6% money transfer fee",
+            "consolidation": "Free for up to 5 items",
+            "sniper_bids": "Not offered",
+            "notes": "Temporarily closed due to COVID"
+        },
+        {
+            "name": "Sendico",
+            "link": "https://www.sendico.com/",
+            "per_order": "￥500",
+            "other_fees": "",
+            "consolidation": "￥500 per item",
+            "sniper_bids": "Not offered",
+            "notes": ""
+        },
+        {
+            "name": "Treasure Japan",
+            "link": "https://treasure-japan.com/",
+            "per_order": "Rates vary by price range and weight; minimum ￥700.",
+            "other_fees": "4% money transfer fee",
+            "consolidation": "Not offered",
+            "sniper_bids": "Not offered",
+            "notes": "Estimated total fee for a single Fumo is around 10%"
+        },
+        {
+            "name": "White Rabbit Express",
+            "link": "https://www.whiterabbitexpress.com/",
+            "per_order": "$5 + 9.9%",
+            "other_fees": "",
+            "consolidation": "Free",
+            "sniper_bids": "Not offered",
+            "notes": "Partnered with Blackship."
+        },
+        {
+            "name": "Zenmarket",
+            "link": "https://zenmarket.jp/en/",
+            "per_order": "￥300",
+            "other_fees": "3.5% money transfer fee",
+            "consolidation": "Free",
+            "sniper_bids": "5 minutes",
+            "notes": ""
+        }
+    ],
+    "storefronts": [
+        {
+            "name": "Gift Online Shop",
+            "link": "http://giftshop.jz.shopserve.jp/",
+            "desc": [
+                "The source of all Fumos. Prices are always cheapest here.",
+                "The most popular Fumos tend to sell out in an hour or less.",
+                "Proxies are often too slow, or sometimes reach order limits."
+            ]
+        },
+        {
+            "name": "Suruga-ya",
+            "link": "https://www.suruga-ya.jp/",
+            "desc": [
+                "Second-hand retailer of lots of hobby goods.",
+                "Will nearly always have Fumos in stock.",
+                "Prices vary wildly but tend to be a bit more expensive than Gift's.",
+                "Also has an <a href='https://www.suruga-ya.com/en/index'>English storefront</a>."
+            ]
+        },
+        {
+            "name": "Mandrake",
+            "link": "https://order.mandarake.co.jp/order/",
+            "desc": [
+                "Sells preowned hobby goods.",
+                "Fumos here tend to sell very quickly.",
+                "This is a digital storefront for physical stores, so staff has to confirm that nobody has bought your item before you can pay."
+            ]
+        },
+        {
+            "name": "Amazon Japan",
+            "link": "https://www.amazon.co.jp/",
+            "desc": [
+                "It's Amazon but in Japanese.",
+                "Fumos are rarely listed here and are usually very expensive."
+            ]
+        },
+        {
+            "name": "SolarisJapan",
+            "link": "https://solarisjapan.com/",
+            "desc": [
+                "English storefront for Japanese figures and merchandise.",
+                "Prices are very high."
+            ]
+        },
+        {
+            "name": "Goods Republic",
+            "link": "https://goodsrepublic.com/",
+            "desc": [
+                "English storefront for Japanese figures and merchandise.",
+                "Prices are <i>very</i> high.",
+                "Although the site is in English, searches still need to be in Japanese."
+            ]
+        },
+        {
+            "name": "JPFigures",
+            "link": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+            "desc": [
+                "Literally a scam. Do not purchase anything from them.",
+                "They have a nice looking webpage. Don't be fooled.",
+                "The link above is a rickroll."
+            ]
+        }
+    ],
+    "auction_houses": [
+        {
+            "name": "Yahoo Auctions JP",
+            "link": "https://auctions.yahoo.co.jp/",
+            "desc": [
+                "Basically Japanese eBay. Every proxy can interact with it.",
+                "Always has Fumos listed, and mostly at reasonable prices.",
+                "Just like eBay, you can be sniped or outbid.",
+                "Some sellers have blacklisted some proxies."
+            ]
+        },
+        {
+            "name": "Mercari",
+            "link": "https://www.mercari.com/jp/",
+            "desc": [
+                "No auctions, just direct sales.",
+                "Often has individual and group batches of fumos.",
+                "Proxies can be too slow for some of the quicker deals."
+            ]
+        },
+        {
+            "name": "Rakuten",
+            "link": "https://search.rakuten.co.jp/",
+            "desc": [
+                "A storefront for both corporations and individual sellers.",
+                "When searching, use 東方ぬいぐるみ (Touhou Plush) not 東方ふもふも (Touhou Fumo).",
+                "Prices might be fair for newer Fumos, but are <i>very</i> expensive for older ones."
+            ]
+        }
+    ]
+}
