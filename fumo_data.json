@@ -878,6 +878,18 @@
                     "rarity": "Common",
                     "link": "https://www.gift-gift.jp/nui/nui808.html"
                 }
+            ],
+            "dekas":  [
+              {
+                    "name": "Deka - Version 1",
+                    "id": "820",
+                    "img": "https://www.gift-gift.jp/nui/files/images/nui820_01.jpg",
+                    "release_dates":[
+                      2021
+                    ],
+                    "rarity": "Rare",
+                    "link": "https://www.gift-gift.jp/nui/nui820.html"
+              }
             ]
         },
         {
@@ -912,6 +924,18 @@
                     ],
                     "rarity": "Common",
                     "link": "https://www.gift-gift.jp/nui/nui809.html"
+                }
+            ],
+            "dekas": [
+                {
+                    "name": "Deka - Version 1",
+                    "id": "821",
+                    "img": "https://www.gift-gift.jp/nui/files/images/nui821_01.jpg",
+                    "release_dates": [
+                        2021
+                    ],
+                    "rarity": "Super Rare",
+                    "link": "https://www.gift-gift.jp/nui/nui821.html"
                 }
             ]
         },
