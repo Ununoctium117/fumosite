@@ -1399,14 +1399,17 @@
             {
                 "type": "Character",
                 "jp": "クラウンピース",
-                "jp_alt": [],
+                "jp_alt": [
+                    "クラピ"
+                ],
                 "en": "Clownpiece"
             },
             {
                 "type": "Character",
                 "jp": "大妖精",
                 "jp_alt": [
-                    "だいようせい"
+                    "だいようせい",
+                    "大ちゃん"
                 ],
                 "en": "Daiyousei"
             },
@@ -1433,14 +1436,17 @@
             {
                 "type": "Character",
                 "jp": "フランドール・スカーレット",
-                "jp_alt": [],
+                "jp_alt": [
+                    "フラン"
+                ],
                 "en": "Flandre Scarlet"
             },
             {
                 "type": "Character",
                 "jp": "藤原妹紅",
                 "jp_alt": [
-                    "ふじわらのもこう"
+                    "ふじわらのもこう",
+                    "もこたん"
                 ],
                 "en": "Fujiwara no Mokou"
             },
@@ -1454,7 +1460,7 @@
             },
             {
                 "type": "Character",
-                "jp": "博霊霊夢",
+                "jp": "博麗霊夢",
                 "jp_alt": [
                     "はくれいれいむ"
                 ],
@@ -1548,7 +1554,8 @@
                 "type": "Character",
                 "jp": "蓬莱山輝夜",
                 "jp_alt": [
-                    "ほうらいさんかぐや"
+                    "ほうらいさんかぐや",
+                    "ニート姫"
                 ],
                 "en": "Houraisan Kaguya"
             },
@@ -1618,7 +1625,8 @@
                 "type": "Character",
                 "jp": "火焔猫燐",
                 "jp_alt": [
-                    "かえんびょうりん"
+                    "かえんびょうりん",
+                    "お燐"
                 ],
                 "en": "Kaenbyou Rin"
             },
@@ -1706,7 +1714,8 @@
                 "type": "Character",
                 "jp": "小悪魔",
                 "jp_alt": [
-                    "こあくま"
+                    "こあくま",
+                    "こあ"
                 ],
                 "en": "Koakuma"
             },
@@ -1801,7 +1810,9 @@
             {
                 "type": "Character",
                 "jp": "マエリベリー・ハーン",
-                "jp_alt": [],
+                "jp_alt": [
+                    "メリー"
+                ],
                 "en": "Maribel Hearn"
             },
             {
@@ -1875,7 +1886,10 @@
             {
                 "type": "Character",
                 "jp": "ミスティア・ローレライ",
-                "jp_alt": [],
+                "jp_alt": [
+                    "ミスチー",
+                    "みすちー"
+                ],
                 "en": "Mystia Lorelei"
             },
             {
@@ -1927,7 +1941,10 @@
             {
                 "type": "Character",
                 "jp": "パチュリー・ノーレッジ",
-                "jp_alt": [],
+                "jp_alt": [
+                    "パチェ",
+                    "むきゅー"
+                ],
                 "en": "Patchouli Knowledge"
             },
             {
@@ -1935,7 +1952,9 @@
                 "jp": "鈴仙・優曇華院・イナバ",
                 "jp_alt": [
                     "鈴仙・Ｕ・イナバ",
-                    "れいせん・うどんげいん・イナバ"
+                    "れいせん・うどんげいん・イナバ",
+                    "優曇華",
+                    "うどんげ"
                 ],
                 "en": "Reisen Udongein Inaba"
             },
@@ -1943,14 +1962,17 @@
                 "type": "Character",
                 "jp": "霊烏路空",
                 "jp_alt": [
-                    "れいうじうつほ"
+                    "れいうじうつほ",
+                    "お空"
                 ],
                 "en": "Reiuji Utsuho"
             },
             {
                 "type": "Character",
                 "jp": "レミリア・スカーレット",
-                "jp_alt": [],
+                "jp_alt": [
+                    "レミィ"
+                ],
                 "en": "Remilia Scarlet"
             },
             {
