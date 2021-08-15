@@ -279,7 +279,7 @@ table.checkered {
 
 .jp {
     &:not(:last-child):after {
-        content: ", ";
+        content: "、";
     }
 
     user-select: all;
