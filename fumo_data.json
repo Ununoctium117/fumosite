@@ -1162,6 +1162,71 @@
                     "link": "https://www.gift-gift.jp/nui/nui807.html"
                 }
             ]
+        },
+        {
+            "name": "Rumia",
+            "thwiki": "https://en.touhouwiki.net/wiki/Rumia",
+            "regular": [
+                {
+                    "name": "Version 1",
+                    "id": "834",
+                    "img": "https://www.gift-gift.jp/nui/files/images/nui834_01.jpg",
+                    "release_dates": [
+                        2021
+                    ],
+                    "rarity": "Common",
+                    "link": "https://www.gift-gift.jp/nui/nui834.html"
+                }
+            ]
+        },
+        {
+            "name": "Shiki Eiki, Yamaxanadu",
+            "thwiki": "https://en.touhouwiki.net/wiki/Eiki_Shiki_Yamaxanadu",
+            "regular": [
+                {
+                    "name": "Version 1",
+                    "id": "835",
+                    "img": "https://www.gift-gift.jp/nui/files/images/nui835_01.jpg",
+                    "release_dates": [
+                        2021
+                    ],
+                    "rarity": "Common",
+                    "link": "https://www.gift-gift.jp/nui/nui835.html"
+                }
+            ]
+        },
+        {
+            "name": "Kawashiro Nitori",
+            "thwiki": "https://en.touhouwiki.net/wiki/Nitori_Kawashiro",
+            "regular": [
+                {
+                    "name": "Version 1",
+                    "id": "836",
+                    "img": "https://www.gift-gift.jp/nui/files/images/nui836_01.jpg",
+                    "release_dates": [
+                        2021
+                    ],
+                    "rarity": "Common",
+                    "link": "https://www.gift-gift.jp/nui/nui836.html"
+                }
+            ]
+        },
+
+        {
+            "name": "Joon Yorigami",
+            "thwiki": "https://en.touhouwiki.net/wiki/Joon_Yorigami",
+            "regular": [
+                {
+                    "name": "Version 1",
+                    "id": "837",
+                    "img": "https://www.gift-gift.jp/nui/files/images/nui837_01.jpg",
+                    "release_dates": [
+                        2021
+                    ],
+                    "rarity": "Common",
+                    "link": "https://www.gift-gift.jp/nui/nui837.html"
+                }
+            ]
         }
     ],
     "faq": [
