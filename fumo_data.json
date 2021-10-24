@@ -373,7 +373,17 @@
                     "link": "https://www.gift-gift.jp/nui/nui168.html"
                 }
             ],
-            "dekas": [
+             "dekas": [
+                {
+                    "name": "version 1",
+                    "id": "",
+                    "img": "https://pbs.twimg.com/media/FCbFo5QUYAIoIrT?format=jpg&name=large",
+                    "release_dates":[2021?
+                    ],
+                    "rarity": "unknown",
+                    "price_range": "unknown",
+                    "link": "unknown"
+                },
                 {
                     "name": "Version 1",
                     "id": "124",
