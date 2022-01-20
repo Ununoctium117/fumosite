@@ -308,6 +308,18 @@
                     "rarity": "Rare",
                     "link": "https://www.gift-gift.jp/nui/nui152.html"
                 }
+            ],
+            "dekas": [
+                {
+                    "name": "Version 1",
+                    "id": "853",
+                    "img": "https://www.gift-gift.jp/nui/files/images/nui853_01.jpg",
+                    "release_dates": [
+                        2022
+                    ],
+                    "rarity": "Super Rare",
+                    "link": "https://www.gift-gift.jp/nui/nui853.html"
+                }
             ]
         },
         {
@@ -383,7 +395,18 @@
                     ],
                     "rarity": "Super Super Rare",
                     "link": "https://www.gift-gift.jp/archive/nui/nui124.html"
+                },
+                {
+                    "name": "Version 1.5",
+                    "id": "851",
+                    "img": "https://www.gift-gift.jp/nui/files/images/nui851_01.jpg",
+                    "release_dates": [
+                        2022
+                    ],
+                    "rarity": "Super Rare",
+                    "link": "https://www.gift-gift.jp/nui/nui851.html"
                 }
+            
             ]
         },
         {
@@ -500,6 +523,16 @@
                     ],
                     "rarity": "Super Super Rare",
                     "link": "https://www.gift-gift.jp/archive/nui/nui189.html"
+                },
+                {
+                    "name": "Version 1.5",
+                    "id": "852",
+                    "img": "https://www.gift-gift.jp/nui/files/images/nui852_01.jpg",
+                    "release_dates": [
+                        2022
+                    ],
+                    "rarity": "Super Rare",
+                    "link": "https://www.gift-gift.jp/nui/nui852.html"
                 }
             ],
             "straps": [
@@ -891,7 +924,8 @@
                     "id": "820",
                     "img": "https://www.gift-gift.jp/nui/files/images/nui820_01.jpg",
                     "release_dates":[
-                      2021
+                      2021,
+                      2022
                     ],
                     "rarity": "Super Rare",
                     "link": "https://www.gift-gift.jp/nui/nui820.html"
@@ -938,7 +972,8 @@
                     "id": "821",
                     "img": "https://www.gift-gift.jp/nui/files/images/nui821_01.jpg",
                     "release_dates": [
-                        2021
+                        2021,
+                        2022
                     ],
                     "rarity": "Super Rare",
                     "link": "https://www.gift-gift.jp/nui/nui821.html"
