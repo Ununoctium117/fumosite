@@ -2520,6 +2520,16 @@
             ]
         },
         {
+            "name": "Amiami",
+            "link": "https://www.amiami.com/eng/",
+            "desc": [
+                "Starting from August 2021, Gift has been officially selling new fumo releases through here.",
+                "Offers shipping through DHL, EMS, and surface mail to most international locations.",
+                "Tend to experience reliability issues when traffic is high (i.e., around starting time of fumo sales).",
+                "Also has a <a href='https://www.amiami.jp/'>Japanese storefront</a> that only ships to addresses inside Japan."
+            ]
+        },
+        {
             "name": "Suruga-ya",
             "link": "https://www.suruga-ya.jp/",
             "desc": [
