@@ -15,7 +15,8 @@
                         2011,
                         2012
                     ],
-                    "rarity": "Common",
+                    "rarity": "Uncommon",
+                    "second_hand_cost": "High",
                     "price_range": "$70 - $120",
                     "link": "https://www.gift-gift.jp/nui/nui001.html"
                 },
@@ -26,7 +27,8 @@
                     "release_dates": [
                         2010
                     ],
-                    "rarity": "Uncommon",
+                    "rarity": "Rare",
+                    "second_hand_cost": "High",
                     "price_range": "$80 - $120",
                     "link": "https://www.gift-gift.jp/archive/nui/nui029.html"
                 },
@@ -42,6 +44,7 @@
                         2020
                     ],
                     "rarity": "Common",
+                    "second_hand_cost": "Normal",
                     "price_range": "$40 - $60",
                     "link": "https://www.gift-gift.jp/nui/nui345.html"
                 }
@@ -55,6 +58,7 @@
                         2011
                     ],
                     "rarity": "Rare",
+                    "second_hand_cost": "Normal",
                     "link": "https://www.gift-gift.jp/nui/nui122.html"
                 },
                 {
@@ -65,6 +69,7 @@
                         2016
                     ],
                     "rarity": "Rare",
+                    "second_hand_cost": "Normal",
                     "price_range": "$100 - $200+",
                     "link": "https://www.gift-gift.jp/nui/nui452.html"
                 },
@@ -76,6 +81,7 @@
                         2020
                     ],
                     "rarity": "Common",
+                    "second_hand_cost": "Low",
                     "price_range": "$20",
                     "link": "https://www.gift-gift.jp/nui/nui745.html"
                 }
@@ -92,6 +98,7 @@
                         2012
                     ],
                     "rarity": "Super Rare",
+                    "second_hand_cost": "High",
                     "price_range": "$500 - $750+",
                     "link": "https://www.gift-gift.jp/archive/nui/nui009.html"
                 },
@@ -103,6 +110,7 @@
                         2020
                     ],
                     "rarity": "Super Rare",
+                    "second_hand_cost": "Normal",
                     "price_range": "$500",
                     "link": "https://www.gift-gift.jp/nui/nui739.html"
                 }
@@ -116,6 +124,7 @@
                         2009
                     ],
                     "rarity": "Rare",
+                    "second_hand_cost": "High",
                     "price_range": "$120+",
                     "link": "https://www.gift-gift.jp/nui/nui021.html"
                 }
@@ -136,7 +145,8 @@
                         2011,
                         2012
                     ],
-                    "rarity": "Common",
+                    "rarity": "Uncommon",
+                    "second_hand_cost": "Normal",
                     "link": "https://www.gift-gift.jp/nui/nui002.html"
                 },
                 {
@@ -146,7 +156,8 @@
                     "release_dates": [
                         2010
                     ],
-                    "rarity": "Uncommon",
+                    "rarity": "Rare",
+                    "second_hand_cost": "High",
                     "link": "https://www.gift-gift.jp/archive/nui/nui030.html"
                 },
                 {
@@ -159,6 +170,7 @@
                         2020
                     ],
                     "rarity": "Rare",
+                    "second_hand_cost": "Normal",
                     "link": "https://www.gift-gift.jp/nui/nui278.html"
                 },
                 {
@@ -172,6 +184,7 @@
                         2020
                     ],
                     "rarity": "Common",
+                    "second_hand_cost": "Normal",
                     "link": "https://www.gift-gift.jp/nui/nui423.html"
                 }
             ],
@@ -184,6 +197,7 @@
                         2011
                     ],
                     "rarity": "Rare",
+                    "second_hand_cost": "Normal",
                     "link": "https://www.gift-gift.jp/nui/nui123.html"
                 },
                 {
@@ -194,6 +208,7 @@
                         2016
                     ],
                     "rarity": "Rare",
+                    "second_hand_cost": "Normal",
                     "link": "https://www.gift-gift.jp/nui/nui453.html"
                 },
                 {
@@ -218,6 +233,7 @@
                         2011
                     ],
                     "rarity": "Super Rare",
+                    "second_hand_cost": "High",
                     "link": "https://www.gift-gift.jp/archive/nui/nui023.html"
                 },
                 {
@@ -228,6 +244,7 @@
                         2020
                     ],
                     "rarity": "Super Rare",
+                    "second_hand_cost": "Normal",
                     "link": "https://www.gift-gift.jp/nui/nui740.html"
                 }
             ],
@@ -240,6 +257,7 @@
                         2009
                     ],
                     "rarity": "Rare",
+                    "second_hand_cost": "High",
                     "link": "https://www.gift-gift.jp/nui/nui022.html"
                 }
             ]
@@ -258,7 +276,8 @@
                         2011,
                         2012
                     ],
-                    "rarity": "Common",
+                    "rarity": "Rare",
+                    "second_hand_cost": "Normal",
                     "link": "https://www.gift-gift.jp/nui/nui004.html"
                 },
                 {
@@ -268,7 +287,8 @@
                     "release_dates": [
                         2010
                     ],
-                    "rarity": "Common",
+                    "rarity": "Rare",
+                    "second_hand_cost": "High",
                     "link": "https://www.gift-gift.jp/archive/nui/nui044.html"
                 },
                 {
@@ -283,6 +303,7 @@
                         2019
                     ],
                     "rarity": "Common",
+                    "second_hand_cost": "Normal",
                     "link": "https://www.gift-gift.jp/nui/nui356.html"
                 },
                 {
@@ -293,7 +314,8 @@
                         2009
                     ],
                     "link": "",
-                    "rarity": "Uncommon",
+                    "rarity": "Rare",
+                    "second_hand_cost": "Very High",
                     "price_range": "$70 - $110"
                 }
             ],
@@ -306,6 +328,7 @@
                         2011
                     ],
                     "rarity": "Rare",
+                    "second_hand_cost": "Normal",
                     "link": "https://www.gift-gift.jp/nui/nui152.html"
                 }
             ],
@@ -318,6 +341,7 @@
                         2022
                     ],
                     "rarity": "Super Rare",
+                    "second_hand_cost": "Normal",
                     "link": "https://www.gift-gift.jp/nui/nui853.html"
                 }
             ]
@@ -337,6 +361,7 @@
                         2012
                     ],
                     "rarity": "Common",
+                    "second_hand_cost": "Normal",
                     "link": "https://www.gift-gift.jp/nui/nui005.html"
                 },
                 {
@@ -347,7 +372,8 @@
                         2011,
                         2012
                     ],
-                    "rarity": "Uncommon",
+                    "rarity": "Rare",
+                    "second_hand_cost": "High",
                     "link": "https://www.gift-gift.jp/archive/nui/nui105.html"
                 },
                 {
@@ -357,9 +383,11 @@
                     "release_dates": [
                         2015,
                         2017,
-                        2018
+                        2018,
+                        2020
                     ],
-                    "rarity": "Rare",
+                    "rarity": "Common",
+                    "second_hand_cost": "Normal",
                     "link": "https://www.gift-gift.jp/nui/nui364.html"
                 },
                 {
@@ -367,9 +395,11 @@
                     "id": "686",
                     "img": "https://www.gift-gift.jp/nui/files/images/nui686_01.jpg",
                     "release_dates": [
-                        2019
+                        2019,
+                        2020
                     ],
-                    "rarity": "Uncommon",
+                    "rarity": "Common",
+                    "second_hand_cost": "Normal",
                     "link": "https://www.gift-gift.jp/nui/nui686.html"
                 }
             ],
@@ -382,6 +412,7 @@
                         2011
                     ],
                     "rarity": "Rare",
+                    "second_hand_cost": "Normal",
                     "link": "https://www.gift-gift.jp/nui/nui168.html"
                 }
             ],
@@ -394,6 +425,7 @@
                         2011
                     ],
                     "rarity": "Super Super Rare",
+                    "second_hand_cost": "High",
                     "link": "https://www.gift-gift.jp/archive/nui/nui124.html"
                 },
                 {
@@ -404,9 +436,10 @@
                         2022
                     ],
                     "rarity": "Super Rare",
+                    "second_hand_cost": "Normal",
                     "link": "https://www.gift-gift.jp/nui/nui851.html"
                 }
-            
+
             ]
         },
         {
@@ -424,6 +457,7 @@
                         2012
                     ],
                     "rarity": "Uncommon",
+                    "second_hand_cost": "Normal",
                     "link": "https://www.gift-gift.jp/nui/nui006.html"
                 },
                 {
@@ -435,6 +469,7 @@
                         2021
                     ],
                     "rarity": "Common",
+                    "second_hand_cost": "Normal",
                     "link": "https://www.gift-gift.jp/nui/nui492.html"
                 }
             ]
@@ -454,6 +489,7 @@
                         2012
                     ],
                     "rarity": "Common",
+                    "second_hand_cost": "Normal",
                     "link": "https://www.gift-gift.jp/nui/nui007.html"
                 },
                 {
@@ -466,6 +502,7 @@
                         2021
                     ],
                     "rarity": "Common",
+                    "second_hand_cost": "Normal",
                     "link": "https://www.gift-gift.jp/nui/nui491.html"
                 }
             ]
@@ -485,6 +522,7 @@
                         2012
                     ],
                     "rarity": "Common",
+                    "second_hand_cost": "Normal",
                     "link": "https://www.gift-gift.jp/nui/nui008.html"
                 },
                 {
@@ -495,7 +533,8 @@
                         2011,
                         2012
                     ],
-                    "rarity": "Uncommon",
+                    "rarity": "Rare",
+                    "second_hand_cost": "High",
                     "link": "https://www.gift-gift.jp/archive/nui/nui106.html"
                 },
                 {
@@ -507,9 +546,11 @@
                         2016,
                         2017,
                         2018,
-                        2019
+                        2019,
+                        2020
                     ],
                     "rarity": "Common",
+                    "second_hand_cost": "Normal",
                     "link": "https://www.gift-gift.jp/nui/nui346.html"
                 }
             ],
@@ -522,6 +563,7 @@
                         2012
                     ],
                     "rarity": "Super Super Rare",
+                    "second_hand_cost": "High",
                     "link": "https://www.gift-gift.jp/archive/nui/nui189.html"
                 },
                 {
@@ -532,6 +574,7 @@
                         2022
                     ],
                     "rarity": "Super Rare",
+                    "second_hand_cost": "Normal",
                     "link": "https://www.gift-gift.jp/nui/nui852.html"
                 }
             ],
@@ -544,6 +587,7 @@
                         2012
                     ],
                     "rarity": "Rare",
+                    "second_hand_cost": "Normal",
                     "link": "https://www.gift-gift.jp/nui/nui181.html"
                 }
             ]
@@ -562,6 +606,7 @@
                         2011
                     ],
                     "rarity": "Common",
+                    "second_hand_cost": "Normal",
                     "link": "https://www.gift-gift.jp/nui/nui013.html"
                 },
                 {
@@ -571,7 +616,8 @@
                     "release_dates": [
                         2010
                     ],
-                    "rarity": "Uncommon",
+                    "rarity": "Rare",
+                    "second_hand_cost": "Normal",
                     "link": "https://www.gift-gift.jp/archive/nui/nui045.html"
                 },
                 {
@@ -580,9 +626,11 @@
                     "img": "https://www.gift-gift.jp/nui/files/images/nui290_01.jpg",
                     "release_dates": [
                         2014,
-                        2019
+                        2019,
+                        2020
                     ],
                     "rarity": "Common",
+                    "second_hand_cost": "Normal",
                     "link": "https://www.gift-gift.jp/nui/nui290.html"
                 }
             ],
@@ -595,6 +643,7 @@
                         2011
                     ],
                     "rarity": "Rare",
+                    "second_hand_cost": "Normal",
                     "link": "https://www.gift-gift.jp/nui/nui153.html"
                 }
             ]
@@ -614,6 +663,7 @@
                         2013
                     ],
                     "rarity": "Common",
+                    "second_hand_cost": "Very High",
                     "link": "https://www.gift-gift.jp/nui/nui014.html"
                 },
                 {
@@ -623,7 +673,8 @@
                     "release_dates": [
                         2012
                     ],
-                    "rarity": "Uncommon",
+                    "rarity": "Rare",
+                    "second_hand_cost": "Very High",
                     "link": "https://www.gift-gift.jp/archive/nui/nui195.html"
                 },
                 {
@@ -632,9 +683,12 @@
                     "img": "https://www.gift-gift.jp/nui/files/images/nui558_01.jpg",
                     "release_dates": [
                         2018,
-                        2019
+                        2019,
+                        2020,
+                        2021
                     ],
-                    "rarity": "Uncommon",
+                    "rarity": "Common",
+                    "second_hand_cost": "Very High",
                     "link": "https://www.gift-gift.jp/nui/nui558.html"
                 },
                 {
@@ -646,6 +700,7 @@
                         2019
                     ],
                     "rarity": "Common",
+                    "second_hand_cost": "Very High",
                     "link": "https://www.gift-gift.jp/nui/nui559.html"
                 }
             ],
@@ -659,6 +714,7 @@
                         2011
                     ],
                     "rarity": "Super Super Rare",
+                    "second_hand_cost": "Very High",
                     "link": "https://www.gift-gift.jp/archive/nui/nui050.html"
                 }
             ]
@@ -676,7 +732,8 @@
                         2010,
                         2011
                     ],
-                    "rarity": "Common",
+                    "rarity": "Uncommon",
+                    "second_hand_cost": "High",
                     "link": "https://www.gift-gift.jp/nui/nui015.html"
                 }
             ]
@@ -695,6 +752,7 @@
                         2011
                     ],
                     "rarity": "Uncommon",
+                    "second_hand_cost": "Normal",
                     "link": "https://www.gift-gift.jp/nui/nui039.html"
                 },
                 {
@@ -709,6 +767,7 @@
                         2021
                     ],
                     "rarity": "Common",
+                    "second_hand_cost": "Normal",
                     "link": "https://www.gift-gift.jp/nui/nui489.html"
                 }
             ]
@@ -727,6 +786,7 @@
                         2012
                     ],
                     "rarity": "Uncommon",
+                    "second_hand_cost": "Normal",
                     "link": "https://www.gift-gift.jp/nui/nui040.html"
                 },
                 {
@@ -741,6 +801,7 @@
                         2021
                     ],
                     "rarity": "Common",
+                    "second_hand_cost": "Normal",
                     "link": "https://www.gift-gift.jp/nui/nui490.html"
                 }
             ]
@@ -758,6 +819,7 @@
                         2011
                     ],
                     "rarity": "Rare",
+                    "second_hand_cost": "High",
                     "link": "https://www.gift-gift.jp/nui/nui056.html"
                 }
             ]
@@ -776,6 +838,7 @@
                         2013
                     ],
                     "rarity": "Uncommon",
+                    "second_hand_cost": "Normal",
                     "link": "https://www.gift-gift.jp/nui/nui080.html"
                 },
                 {
@@ -784,9 +847,11 @@
                     "img": "https://www.gift-gift.jp/nui/files/images/nui523_01.jpg",
                     "release_dates": [
                         2017,
-                        2018
+                        2018,
+                        2020
                     ],
                     "rarity": "Rare",
+                    "second_hand_cost": "Normal",
                     "link": "https://www.gift-gift.jp/nui/nui523.html"
                 }
             ]
@@ -805,6 +870,7 @@
                         2013
                     ],
                     "rarity": "Uncommon",
+                    "second_hand_cost": "High",
                     "link": "https://www.gift-gift.jp/nui/nui081.html"
                 },
                 {
@@ -813,9 +879,11 @@
                     "img": "https://www.gift-gift.jp/nui/files/images/nui524_01.jpg",
                     "release_dates": [
                         2017,
-                        2018
+                        2018,
+                        2020
                     ],
                     "rarity": "Super Rare",
+                    "second_hand_cost": "High",
                     "link": "https://www.gift-gift.jp/nui/nui524.html"
                 }
             ]
@@ -834,6 +902,7 @@
                         2013
                     ],
                     "rarity": "Uncommon",
+                    "second_hand_cost": "Normal",
                     "link": "https://www.gift-gift.jp/nui/nui082.html"
                 },
                 {
@@ -845,6 +914,7 @@
                         2018
                     ],
                     "rarity": "Rare",
+                    "second_hand_cost": "Normal",
                     "link": "https://www.gift-gift.jp/nui/nui525.html"
                 }
             ]
@@ -859,9 +929,11 @@
                     "img": "https://www.gift-gift.jp/nui/files/images/nui138_01.jpg",
                     "release_dates": [
                         2011,
+                        2020,
                         2021
                     ],
-                    "rarity": "Super Rare",
+                    "rarity": "Uncommon",
+                    "second_hand_cost": "Normal",
                     "link": "https://www.gift-gift.jp/nui/nui138.html"
                 }
             ]
@@ -878,9 +950,11 @@
                         2011,
                         2016,
                         2018,
+                        2020,
                         2021
                     ],
                     "rarity": "Uncommon",
+                    "second_hand_cost": "Normal",
                     "link": "https://www.gift-gift.jp/nui/nui139.html"
                 }
             ]
@@ -903,6 +977,7 @@
                         2020
                     ],
                     "rarity": "Common",
+                    "second_hand_cost": "Normal",
                     "link": "https://www.gift-gift.jp/nui/nui196.html"
                 }
             ],
@@ -915,6 +990,7 @@
                         2021
                     ],
                     "rarity": "Common",
+                    "second_hand_cost": "Normal",
                     "link": "https://www.gift-gift.jp/nui/nui808.html"
                 }
             ],
@@ -928,6 +1004,7 @@
                       2022
                     ],
                     "rarity": "Super Rare",
+                    "second_hand_cost": "Normal",
                     "link": "https://www.gift-gift.jp/nui/nui820.html"
               }
             ]
@@ -951,6 +1028,7 @@
                         2020
                     ],
                     "rarity": "Common",
+                    "second_hand_cost": "Normal",
                     "link": "https://www.gift-gift.jp/nui/nui197.html"
                 }
             ],
@@ -963,6 +1041,7 @@
                         2021
                     ],
                     "rarity": "Common",
+                    "second_hand_cost": "Normal",
                     "link": "https://www.gift-gift.jp/nui/nui809.html"
                 }
             ],
@@ -976,6 +1055,7 @@
                         2022
                     ],
                     "rarity": "Super Rare",
+                    "second_hand_cost": "Normal",
                     "link": "https://www.gift-gift.jp/nui/nui821.html"
                 }
             ]
@@ -991,9 +1071,11 @@
                     "release_dates": [
                         2013,
                         2016,
+                        2020,
                         2021
                     ],
-                    "rarity": "Super Rare",
+                    "rarity": "Uncommon",
+                    "second_hand_cost": "Normal",
                     "link": "https://www.gift-gift.jp/nui/nui236.html"
                 },
                 {
@@ -1001,9 +1083,11 @@
                     "id": "424",
                     "img": "https://www.gift-gift.jp/nui/files/images/nui424_01.jpg",
                     "release_dates": [
-                        2016
+                        2016,
+                        2020
                     ],
-                    "rarity": "Super Rare",
+                    "rarity": "Uncommon",
+                    "second_hand_cost": "Normal",
                     "link": "https://www.gift-gift.jp/nui/nui424.html"
                 }
             ]
@@ -1019,9 +1103,11 @@
                     "release_dates": [
                         2013,
                         2015,
+                        2020,
                         2021
                     ],
-                    "rarity": "Super Rare",
+                    "rarity": "Uncommon",
+                    "second_hand_cost": "Normal",
                     "link": "https://www.gift-gift.jp/nui/nui237.html"
                 }
             ]
@@ -1044,6 +1130,7 @@
                         2021
                     ],
                     "rarity": "Common",
+                    "second_hand_cost": "Normal",
                     "link": "https://www.gift-gift.jp/nui/nui310.html"
                 }
             ]
@@ -1058,9 +1145,11 @@
                     "img": "https://www.gift-gift.jp/nui/files/images/nui454_01.jpg",
                     "release_dates": [
                         2016,
-                        2017
+                        2017,
+                        2020
                     ],
                     "rarity": "Rare",
+                    "second_hand_cost": "Normal",
                     "link": "https://www.gift-gift.jp/nui/nui454.html"
                 }
             ]
@@ -1076,7 +1165,8 @@
                     "release_dates": [
                         2010
                     ],
-                    "rarity": "Unknown",
+                    "rarity": "Rare",
+                    "second_hand_cost": "High",
                     "link": "https://www.gift-gift.jp/archive/nui/images/nui058_01.jpg"
                 },
                 {
@@ -1091,6 +1181,7 @@
                         2021
                     ],
                     "rarity": "Common",
+                    "second_hand_cost": "Normal",
                     "link": "https://www.gift-gift.jp/nui/nui493.html"
                 }
             ]
@@ -1109,6 +1200,7 @@
                         2021
                     ],
                     "rarity": "Common",
+                    "second_hand_cost": "Normal",
                     "link": "https://www.gift-gift.jp/nui/nui494.html"
                 }
             ]
@@ -1124,9 +1216,11 @@
                     "release_dates": [
                         2018,
                         2019,
+                        2020,
                         2021
                     ],
                     "rarity": "Uncommon",
+                    "second_hand_cost": "Normal",
                     "link": "https://www.gift-gift.jp/nui/nui593.html"
                 }
             ]
@@ -1145,6 +1239,7 @@
                         2021
                     ],
                     "rarity": "Common",
+                    "second_hand_cost": "Normal",
                     "link": "https://www.gift-gift.jp/nui/nui644.html"
                 }
             ]
@@ -1158,9 +1253,12 @@
                     "id": "685",
                     "img": "https://www.gift-gift.jp/nui/files/images/nui685_01.jpg",
                     "release_dates": [
-                        2019
+                        2019,
+                        2020,
+                        2021
                     ],
                     "rarity": "Common",
+                    "second_hand_cost": "Normal",
                     "link": "https://www.gift-gift.jp/nui/nui685.html"
                 }
             ]
@@ -1178,6 +1276,7 @@
                         2021
                     ],
                     "rarity": "Common",
+                    "second_hand_cost": "Normal",
                     "link": "https://www.gift-gift.jp/nui/nui773.html"
                 }
             ]
@@ -1194,6 +1293,7 @@
                         2021
                     ],
                     "rarity": "Common",
+                    "second_hand_cost": "Normal",
                     "link": "https://www.gift-gift.jp/nui/nui807.html"
                 }
             ]
@@ -1210,6 +1310,7 @@
                         2021
                     ],
                     "rarity": "Common",
+                    "second_hand_cost": "Normal",
                     "link": "https://www.gift-gift.jp/nui/nui834.html"
                 }
             ]
@@ -1226,6 +1327,7 @@
                         2021
                     ],
                     "rarity": "Common",
+                    "second_hand_cost": "Normal",
                     "link": "https://www.gift-gift.jp/nui/nui835.html"
                 }
             ]
@@ -1242,11 +1344,11 @@
                         2021
                     ],
                     "rarity": "Common",
+                    "second_hand_cost": "Normal",
                     "link": "https://www.gift-gift.jp/nui/nui836.html"
                 }
             ]
         },
-
         {
             "name": "Joon Yorigami",
             "thwiki": "https://en.touhouwiki.net/wiki/Joon_Yorigami",
@@ -1259,6 +1361,7 @@
                         2021
                     ],
                     "rarity": "Common",
+                    "second_hand_cost": "Normal",
                     "link": "https://www.gift-gift.jp/nui/nui837.html"
                 }
             ]
