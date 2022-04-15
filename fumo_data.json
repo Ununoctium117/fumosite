@@ -44,6 +44,14 @@
                     "rarity": "Common",
                     "price_range": "$40 - $60",
                     "link": "https://www.gift-gift.jp/nui/nui345.html"
+                },
+                {
+                    "name": "Version 1.5",
+                    "id": "897",
+                    "img": "https://www.gift-gift.jp/nui/files/images/nui897_01.jpg",
+                    "release_dates": [2022],
+                    "rarity": "Common",
+                    "link": "https://www.gift-gift.jp/nui/nui897.html"
                 }
             ],
             "straps": [
@@ -173,6 +181,14 @@
                     ],
                     "rarity": "Common",
                     "link": "https://www.gift-gift.jp/nui/nui423.html"
+                },
+                {
+                    "name": "Version 1.5",
+                    "id": "898",
+                    "img": "https://www.gift-gift.jp/nui/files/images/nui898_01.jpg",
+                    "release_dates": [2022],
+                    "rarity": "Common",
+                    "link": "https://www.gift-gift.jp/nui/nui898.html"
                 }
             ],
             "straps": [
@@ -280,7 +296,8 @@
                         2016,
                         2017,
                         2018,
-                        2019
+                        2019,
+                        2022
                     ],
                     "rarity": "Common",
                     "link": "https://www.gift-gift.jp/nui/nui356.html"
@@ -307,6 +324,17 @@
                     ],
                     "rarity": "Rare",
                     "link": "https://www.gift-gift.jp/nui/nui152.html"
+                },
+                {
+                    "name": "Plush Strap",
+                    "id": "903",
+                    "img": "https://www.gift-gift.jp/nui/files/images/nui903.jpg",
+                    "release_dates": [
+                        2022
+                    ],
+                    "rarity": "Common",
+                    "price_range": "$20",
+                    "link": "https://www.gift-gift.jp/nui/nui903.html"
                 }
             ],
             "dekas": [
@@ -357,9 +385,10 @@
                     "release_dates": [
                         2015,
                         2017,
-                        2018
+                        2018,
+                        2022
                     ],
-                    "rarity": "Rare",
+                    "rarity": "Common",
                     "link": "https://www.gift-gift.jp/nui/nui364.html"
                 },
                 {
@@ -367,9 +396,10 @@
                     "id": "686",
                     "img": "https://www.gift-gift.jp/nui/files/images/nui686_01.jpg",
                     "release_dates": [
-                        2019
+                        2019,
+                        2022
                     ],
-                    "rarity": "Uncommon",
+                    "rarity": "Common",
                     "link": "https://www.gift-gift.jp/nui/nui686.html"
                 }
             ],
@@ -383,6 +413,17 @@
                     ],
                     "rarity": "Rare",
                     "link": "https://www.gift-gift.jp/nui/nui168.html"
+                },
+                {
+                    "name": "Plush Strap",
+                    "id": "901",
+                    "img": "https://www.gift-gift.jp/nui/files/images/nui901.jpg",
+                    "release_dates": [
+                        2022
+                    ],
+                    "rarity": "Common",
+                    "price_range": "$20",
+                    "link": "https://www.gift-gift.jp/nui/nui901.html"
                 }
             ],
             "dekas": [
@@ -507,7 +548,8 @@
                         2016,
                         2017,
                         2018,
-                        2019
+                        2019,
+                        2022
                     ],
                     "rarity": "Common",
                     "link": "https://www.gift-gift.jp/nui/nui346.html"
@@ -545,6 +587,17 @@
                     ],
                     "rarity": "Rare",
                     "link": "https://www.gift-gift.jp/nui/nui181.html"
+                },
+                {
+                    "name": "Plush Strap",
+                    "id": "902",
+                    "img": "https://www.gift-gift.jp/nui/files/images/nui902.jpg",
+                    "release_dates": [
+                        2022
+                    ],
+                    "rarity": "Common",
+                    "price_range": "$20",
+                    "link": "https://www.gift-gift.jp/nui/nui902.html"
                 }
             ]
         },
@@ -580,7 +633,8 @@
                     "img": "https://www.gift-gift.jp/nui/files/images/nui290_01.jpg",
                     "release_dates": [
                         2014,
-                        2019
+                        2019,
+                        2022
                     ],
                     "rarity": "Common",
                     "link": "https://www.gift-gift.jp/nui/nui290.html"
@@ -632,9 +686,10 @@
                     "img": "https://www.gift-gift.jp/nui/files/images/nui558_01.jpg",
                     "release_dates": [
                         2018,
-                        2019
+                        2019,
+                        2022
                     ],
-                    "rarity": "Uncommon",
+                    "rarity": "Common",
                     "link": "https://www.gift-gift.jp/nui/nui558.html"
                 },
                 {
@@ -643,9 +698,10 @@
                     "img": "https://www.gift-gift.jp/nui/files/images/nui559_01.jpg",
                     "release_dates": [
                         2018,
-                        2019
+                        2019,
+                        2022
                     ],
-                    "rarity": "Common",
+                    "rarity": "Uncommon",
                     "link": "https://www.gift-gift.jp/nui/nui559.html"
                 }
             ],
@@ -676,7 +732,7 @@
                         2010,
                         2011
                     ],
-                    "rarity": "Common",
+                    "rarity": "Super Rare",
                     "link": "https://www.gift-gift.jp/nui/nui015.html"
                 }
             ]
@@ -757,7 +813,7 @@
                         2010,
                         2011
                     ],
-                    "rarity": "Rare",
+                    "rarity": "Super Rare",
                     "link": "https://www.gift-gift.jp/nui/nui056.html"
                 }
             ]
@@ -784,9 +840,10 @@
                     "img": "https://www.gift-gift.jp/nui/files/images/nui523_01.jpg",
                     "release_dates": [
                         2017,
-                        2018
+                        2018,
+                        2022
                     ],
-                    "rarity": "Rare",
+                    "rarity": "Common",
                     "link": "https://www.gift-gift.jp/nui/nui523.html"
                 }
             ]
@@ -813,9 +870,10 @@
                     "img": "https://www.gift-gift.jp/nui/files/images/nui524_01.jpg",
                     "release_dates": [
                         2017,
-                        2018
+                        2018,
+                        2022
                     ],
-                    "rarity": "Super Rare",
+                    "rarity": "Rare",
                     "link": "https://www.gift-gift.jp/nui/nui524.html"
                 }
             ]
@@ -842,9 +900,10 @@
                     "img": "https://www.gift-gift.jp/nui/files/images/nui525_01.jpg",
                     "release_dates": [
                         2017,
-                        2018
+                        2018,
+                        2022
                     ],
-                    "rarity": "Rare",
+                    "rarity": "Common",
                     "link": "https://www.gift-gift.jp/nui/nui525.html"
                 }
             ]
@@ -900,7 +959,8 @@
                         2016,
                         2017,
                         2018,
-                        2020
+                        2020,
+                        2022
                     ],
                     "rarity": "Common",
                     "link": "https://www.gift-gift.jp/nui/nui196.html"
@@ -948,7 +1008,8 @@
                         2017,
                         2018,
                         2019,
-                        2020
+                        2020,
+                        2022
                     ],
                     "rarity": "Common",
                     "link": "https://www.gift-gift.jp/nui/nui197.html"
@@ -993,7 +1054,7 @@
                         2016,
                         2021
                     ],
-                    "rarity": "Super Rare",
+                    "rarity": "Rare",
                     "link": "https://www.gift-gift.jp/nui/nui236.html"
                 },
                 {
@@ -1001,9 +1062,10 @@
                     "id": "424",
                     "img": "https://www.gift-gift.jp/nui/files/images/nui424_01.jpg",
                     "release_dates": [
-                        2016
+                        2016,
+                        2022
                     ],
-                    "rarity": "Super Rare",
+                    "rarity": "Rare",
                     "link": "https://www.gift-gift.jp/nui/nui424.html"
                 }
             ]
@@ -1021,7 +1083,7 @@
                         2015,
                         2021
                     ],
-                    "rarity": "Super Rare",
+                    "rarity": "Uncommon",
                     "link": "https://www.gift-gift.jp/nui/nui237.html"
                 }
             ]
@@ -1058,9 +1120,10 @@
                     "img": "https://www.gift-gift.jp/nui/files/images/nui454_01.jpg",
                     "release_dates": [
                         2016,
-                        2017
+                        2017,
+                        2022
                     ],
-                    "rarity": "Rare",
+                    "rarity": "Common",
                     "link": "https://www.gift-gift.jp/nui/nui454.html"
                 }
             ]
@@ -1158,7 +1221,8 @@
                     "id": "685",
                     "img": "https://www.gift-gift.jp/nui/files/images/nui685_01.jpg",
                     "release_dates": [
-                        2019
+                        2019,
+                        2022
                     ],
                     "rarity": "Common",
                     "link": "https://www.gift-gift.jp/nui/nui685.html"
@@ -1191,7 +1255,8 @@
                     "id": "807",
                     "img": "https://www.gift-gift.jp/nui/files/images/nui807_01.jpg",
                     "release_dates": [
-                        2021
+                        2021,
+                        2022
                     ],
                     "rarity": "Common",
                     "link": "https://www.gift-gift.jp/nui/nui807.html"
@@ -1207,7 +1272,8 @@
                     "id": "834",
                     "img": "https://www.gift-gift.jp/nui/files/images/nui834_01.jpg",
                     "release_dates": [
-                        2021
+                        2021,
+                        2022
                     ],
                     "rarity": "Common",
                     "link": "https://www.gift-gift.jp/nui/nui834.html"
@@ -1223,7 +1289,8 @@
                     "id": "835",
                     "img": "https://www.gift-gift.jp/nui/files/images/nui835_01.jpg",
                     "release_dates": [
-                        2021
+                        2021,
+                        2022
                     ],
                     "rarity": "Common",
                     "link": "https://www.gift-gift.jp/nui/nui835.html"
@@ -1239,7 +1306,8 @@
                     "id": "836",
                     "img": "https://www.gift-gift.jp/nui/files/images/nui836_01.jpg",
                     "release_dates": [
-                        2021
+                        2021,
+                        2022
                     ],
                     "rarity": "Common",
                     "link": "https://www.gift-gift.jp/nui/nui836.html"
@@ -1256,10 +1324,45 @@
                     "id": "837",
                     "img": "https://www.gift-gift.jp/nui/files/images/nui837_01.jpg",
                     "release_dates": [
-                        2021
+                        2021,
+                        2022
                     ],
                     "rarity": "Common",
                     "link": "https://www.gift-gift.jp/nui/nui837.html"
+                }
+            ]
+        },
+
+        {
+            "name": "Usami Renko",
+            "thwiki": "https://en.touhouwiki.net/wiki/Renko_Usami",
+            "regular": [
+                {
+                    "name": "Version 1",
+                    "id": "899",
+                    "img": "https://www.gift-gift.jp/nui/files/images/nui899_01.jpg",
+                    "release_dates": [
+                        2022
+                    ],
+                    "rarity": "Common",
+                    "link": "https://www.gift-gift.jp/nui/nui899.html"
+                }
+            ]
+        },
+
+        {
+            "name": "Toyosatomimi no Miko",
+            "thwiki": "https://en.touhouwiki.net/wiki/Toyosatomimi_no_Miko",
+            "regular": [
+                {
+                    "name": "Version 1",
+                    "id": "900",
+                    "img": "https://www.gift-gift.jp/nui/files/images/nui900_01.jpg",
+                    "release_dates": [
+                        2022
+                    ],
+                    "rarity": "Common",
+                    "link": "https://www.gift-gift.jp/nui/nui900.html"
                 }
             ]
         }
@@ -2526,7 +2629,7 @@
             "desc": [
                 "Starting from August 2021, Gift has been officially selling new fumo releases through here.",
                 "Offers shipping through DHL, EMS, and surface mail to most international locations.",
-                "Tend to experience reliability issues when traffic is high (i.e., around starting time of fumo sales).",
+                "Tends to experience reliability issues when traffic is high (i.e., around starting time of fumo sales).",
                 "Also has a <a href='https://www.amiami.jp/'>Japanese storefront</a> that only ships to addresses inside Japan."
             ]
         },
@@ -2536,7 +2639,7 @@
             "desc": [
                 "Second-hand retailer of lots of hobby goods.",
                 "Will nearly always have Fumos in stock.",
-                "Prices vary wildly but tend to be a bit more expensive than Gift's.",
+                "Prices vary wildly but tend to be more expensive than Gift's.",
                 "Also has an <a href='https://www.suruga-ya.com/en/index'>English storefront</a>."
             ]
         },
