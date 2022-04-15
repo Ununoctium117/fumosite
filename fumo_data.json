@@ -1270,8 +1270,9 @@
             "question": "How do I get a Fumo?",
             "answer": [
                 "You have two main options: find a trustworthy",
-                "<a href='reseller.html'>reseller</a> at a reasonable price, or",
-                "order one from Gift directly using a",
+                "<a href='reseller.html'>reseller</a> at a reasonable price,",
+                "order one from Amiami's international site, or", 
+                "order from Gift or Amiami's Japanese site directly using a",
                 "<a href='proxy_forward.html'>Proxy or Forwarding Service</a>.",
                 "You may need to use both, depending on the reseller."
             ]
