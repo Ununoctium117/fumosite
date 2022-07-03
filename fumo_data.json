@@ -47,6 +47,17 @@
                     "second_hand_cost": "Normal",
                     "price_range": "$40 - $60",
                     "link": "https://www.gift-gift.jp/nui/nui345.html"
+                },
+                {    
+                    "name": "Version 1.5",
+                    "id": "897",
+                    "img": "https://www.gift-gift.jp/nui/files/images/nui897_01.jpg",
+                    "release_dates": [
+                        2022
+                    ],
+                    "rarity": "Common",
+                    "price_range": "$70 - $120",
+                    "link": "https://www.gift-gift.jp/nui/nui897.html"
                 }
             ],
             "straps": [
@@ -186,6 +197,17 @@
                     "rarity": "Common",
                     "second_hand_cost": "Normal",
                     "link": "https://www.gift-gift.jp/nui/nui423.html"
+                },
+                {    
+                    "name": "Version 1.5",
+                    "id": "898",
+                    "img": "https://www.gift-gift.jp/nui/files/images/nui898_01.jpg",
+                    "release_dates": [
+                        2022
+                    ],
+                    "rarity": "Common",
+                    "price_range": "$70 - $120",
+                    "link": "https://www.gift-gift.jp/nui/nui898.html"
                 }
             ],
             "straps": [
@@ -1363,6 +1385,38 @@
                     "rarity": "Common",
                     "second_hand_cost": "Normal",
                     "link": "https://www.gift-gift.jp/nui/nui837.html"
+                }
+            ]
+        },
+        {
+            "name": "Usami Renko",
+            "thwiki": "https://en.touhouwiki.net/wiki/Renko_Usami",
+            "regular": [
+                {
+                    "name": "Version 1",
+                    "id": "899",
+                    "img": "https://www.gift-gift.jp/nui/files/images/nui899_01.jpg",
+                    "release_dates": [
+                        2022
+                    ],
+                    "rarity": "Common",
+                    "link": "https://www.gift-gift.jp/nui/nui899.html"
+                }
+            ]
+        },
+        {
+            "name": "Toyosatomimi no Miko",
+            "thwiki": "https://en.touhouwiki.net/wiki/Toyosatomimi_no_Miko",
+            "regular": [
+                {
+                    "name": "Version 1",
+                    "id": "900",
+                    "img": "https://www.gift-gift.jp/nui/files/images/nui900_01.jpg",
+                    "release_dates": [
+                        2022
+                    ],
+                    "rarity": "Common",
+                    "link": "https://www.gift-gift.jp/nui/nui900.html"
                 }
             ]
         }
