@@ -248,19 +248,31 @@ table.checkered {
 
     .rarity {
         &[data-rarity=Common]:after {
-            content: " (always in stock; can be picky with price in auctions)";
+            content: " (always in stock)";
         }
         &[data-rarity=Uncommon]:after {
-            content: " (usually in stock; can wait for fair price in auctions)";
+            content: " (usually in stock)";
         }
         &[data-rarity=Rare]:after {
-            content: " (occasionally in stock; auctions are competitive)";
+            content: " (not always in stock)";
         }
         &[data-rarity="Super Rare"]:after {
-            content: " (rarely in stock; auctions are very competitive)";
+            content: " (rarely in stock; might have to wait before any show up)";
         }
         &[data-rarity="Super Super Rare"]:after {
-            content: " (practically never in stock; auctions are insanely competitive)";
+            content: " (practically never in stock)";
+        }
+    }
+
+    .second-hand-cost {
+        &[data-second-hand-cost=Normal]:after {
+            content: " (price tends to be the same as other fumos of the same type's)";
+        }
+        &[data-second-hand-cost=High]:after {
+            content: " (price tends to be higher than other fumos of the same type's)";
+        }
+        &[data-second-hand-cost="Very High"]:after {
+            content: " (price tends to be significantly higher than other fumos of the same type's)";
         }
     }
 }
