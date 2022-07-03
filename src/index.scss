@@ -266,13 +266,13 @@ table.checkered {
 
     .second-hand-cost {
         &[data-second-hand-cost=Normal]:after {
-            content: " (price tends to be the same as other fumos of the same type's)";
+            content: " (price tends to be the same as other fumos of the same type)";
         }
         &[data-second-hand-cost=High]:after {
-            content: " (price tends to be higher than other fumos of the same type's)";
+            content: " (price tends to be higher than other fumos of the same type)";
         }
         &[data-second-hand-cost="Very High"]:after {
-            content: " (price tends to be significantly higher than other fumos of the same type's)";
+            content: " (price tends to be significantly higher than other fumos of the same type)";
         }
     }
 }
