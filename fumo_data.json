@@ -48,7 +48,7 @@
                     "price_range": "$40 - $60",
                     "link": "https://www.gift-gift.jp/nui/nui345.html"
                 },
-                {    
+                {
                     "name": "Version 1.5",
                     "id": "897",
                     "img": "https://www.gift-gift.jp/nui/files/images/nui897_01.jpg",
@@ -56,6 +56,7 @@
                         2022
                     ],
                     "rarity": "Common",
+                    "second_hand_cost": "Normal",
                     "price_range": "$70 - $120",
                     "link": "https://www.gift-gift.jp/nui/nui897.html"
                 }
@@ -198,7 +199,7 @@
                     "second_hand_cost": "Normal",
                     "link": "https://www.gift-gift.jp/nui/nui423.html"
                 },
-                {    
+                {
                     "name": "Version 1.5",
                     "id": "898",
                     "img": "https://www.gift-gift.jp/nui/files/images/nui898_01.jpg",
@@ -206,6 +207,7 @@
                         2022
                     ],
                     "rarity": "Common",
+                    "second_hand_cost": "Normal",
                     "price_range": "$70 - $120",
                     "link": "https://www.gift-gift.jp/nui/nui898.html"
                 }
@@ -1400,6 +1402,7 @@
                         2022
                     ],
                     "rarity": "Common",
+                    "second_hand_cost": "Normal",
                     "link": "https://www.gift-gift.jp/nui/nui899.html"
                 }
             ]
@@ -1416,6 +1419,7 @@
                         2022
                     ],
                     "rarity": "Common",
+                    "second_hand_cost": "Normal",
                     "link": "https://www.gift-gift.jp/nui/nui900.html"
                 }
             ]
