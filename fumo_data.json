@@ -57,7 +57,6 @@
                     ],
                     "rarity": "Common",
                     "second_hand_cost": "Normal",
-                    "price_range": "$70 - $120",
                     "link": "https://www.gift-gift.jp/nui/nui897.html"
                 }
             ],
@@ -324,7 +323,8 @@
                         2016,
                         2017,
                         2018,
-                        2019
+                        2019,
+                        2022
                     ],
                     "rarity": "Common",
                     "second_hand_cost": "Normal",
@@ -354,6 +354,17 @@
                     "rarity": "Rare",
                     "second_hand_cost": "Normal",
                     "link": "https://www.gift-gift.jp/nui/nui152.html"
+                },
+                {
+                    "name": "Plush Strap",
+                    "id": "903",
+                    "img": "https://www.gift-gift.jp/nui/files/images/nui903.jpg",
+                    "release_dates": [
+                        2022
+                    ],
+                    "rarity": "Common",
+                    "price_range": "$20",
+                    "link": "https://www.gift-gift.jp/nui/nui903.html"
                 }
             ],
             "dekas": [
@@ -408,7 +419,8 @@
                         2015,
                         2017,
                         2018,
-                        2020
+                        2020,
+                        2022
                     ],
                     "rarity": "Common",
                     "second_hand_cost": "Normal",
@@ -420,7 +432,8 @@
                     "img": "https://www.gift-gift.jp/nui/files/images/nui686_01.jpg",
                     "release_dates": [
                         2019,
-                        2020
+                        2020,
+                        2022
                     ],
                     "rarity": "Common",
                     "second_hand_cost": "Normal",
@@ -438,6 +451,17 @@
                     "rarity": "Rare",
                     "second_hand_cost": "Normal",
                     "link": "https://www.gift-gift.jp/nui/nui168.html"
+                },
+                {
+                    "name": "Plush Strap",
+                    "id": "901",
+                    "img": "https://www.gift-gift.jp/nui/files/images/nui901.jpg",
+                    "release_dates": [
+                        2022
+                    ],
+                    "rarity": "Common",
+                    "price_range": "$20",
+                    "link": "https://www.gift-gift.jp/nui/nui901.html"
                 }
             ],
             "dekas": [
@@ -571,7 +595,8 @@
                         2017,
                         2018,
                         2019,
-                        2020
+                        2020,
+                        2022
                     ],
                     "rarity": "Common",
                     "second_hand_cost": "Normal",
@@ -613,6 +638,17 @@
                     "rarity": "Rare",
                     "second_hand_cost": "Normal",
                     "link": "https://www.gift-gift.jp/nui/nui181.html"
+                },
+                {
+                    "name": "Plush Strap",
+                    "id": "902",
+                    "img": "https://www.gift-gift.jp/nui/files/images/nui902.jpg",
+                    "release_dates": [
+                        2022
+                    ],
+                    "rarity": "Common",
+                    "price_range": "$20",
+                    "link": "https://www.gift-gift.jp/nui/nui902.html"
                 }
             ]
         },
@@ -651,7 +687,8 @@
                     "release_dates": [
                         2014,
                         2019,
-                        2020
+                        2020,
+                        2022
                     ],
                     "rarity": "Common",
                     "second_hand_cost": "Normal",
@@ -709,7 +746,8 @@
                         2018,
                         2019,
                         2020,
-                        2021
+                        2021,
+                        2022
                     ],
                     "rarity": "Common",
                     "second_hand_cost": "Very High",
@@ -721,9 +759,10 @@
                     "img": "https://www.gift-gift.jp/nui/files/images/nui559_01.jpg",
                     "release_dates": [
                         2018,
-                        2019
+                        2019,
+                        2022
                     ],
-                    "rarity": "Common",
+                    "rarity": "Unommon",
                     "second_hand_cost": "Very High",
                     "link": "https://www.gift-gift.jp/nui/nui559.html"
                 }
@@ -756,7 +795,7 @@
                         2010,
                         2011
                     ],
-                    "rarity": "Uncommon",
+                    "rarity": "Super Rare",
                     "second_hand_cost": "High",
                     "link": "https://www.gift-gift.jp/nui/nui015.html"
                 }
@@ -852,7 +891,7 @@
                         2010,
                         2011
                     ],
-                    "rarity": "Rare",
+                    "rarity": "Super Rare",
                     "second_hand_cost": "High",
                     "link": "https://www.gift-gift.jp/nui/nui056.html"
                 }
@@ -882,9 +921,10 @@
                     "release_dates": [
                         2017,
                         2018,
-                        2020
+                        2020,
+                        2022
                     ],
-                    "rarity": "Rare",
+                    "rarity": "Common",
                     "second_hand_cost": "Normal",
                     "link": "https://www.gift-gift.jp/nui/nui523.html"
                 }
@@ -914,9 +954,10 @@
                     "release_dates": [
                         2017,
                         2018,
-                        2020
+                        2020,
+                        2022
                     ],
-                    "rarity": "Super Rare",
+                    "rarity": "Rare",
                     "second_hand_cost": "High",
                     "link": "https://www.gift-gift.jp/nui/nui524.html"
                 }
@@ -945,9 +986,10 @@
                     "img": "https://www.gift-gift.jp/nui/files/images/nui525_01.jpg",
                     "release_dates": [
                         2017,
-                        2018
+                        2018,
+                        2022
                     ],
-                    "rarity": "Rare",
+                    "rarity": "Common",
                     "second_hand_cost": "Normal",
                     "link": "https://www.gift-gift.jp/nui/nui525.html"
                 }
@@ -1008,7 +1050,8 @@
                         2016,
                         2017,
                         2018,
-                        2020
+                        2020,
+                        2022
                     ],
                     "rarity": "Common",
                     "second_hand_cost": "Normal",
@@ -1059,7 +1102,8 @@
                         2017,
                         2018,
                         2019,
-                        2020
+                        2020,
+                        2022
                     ],
                     "rarity": "Common",
                     "second_hand_cost": "Normal",
@@ -1108,7 +1152,7 @@
                         2020,
                         2021
                     ],
-                    "rarity": "Uncommon",
+                    "rarity": "Rare",
                     "second_hand_cost": "Normal",
                     "link": "https://www.gift-gift.jp/nui/nui236.html"
                 },
@@ -1120,7 +1164,7 @@
                         2016,
                         2020
                     ],
-                    "rarity": "Uncommon",
+                    "rarity": "Rare",
                     "second_hand_cost": "Normal",
                     "link": "https://www.gift-gift.jp/nui/nui424.html"
                 }
@@ -1180,9 +1224,10 @@
                     "release_dates": [
                         2016,
                         2017,
-                        2020
+                        2020,
+                        2022
                     ],
-                    "rarity": "Rare",
+                    "rarity": "Common",
                     "second_hand_cost": "Normal",
                     "link": "https://www.gift-gift.jp/nui/nui454.html"
                 }
@@ -1289,7 +1334,8 @@
                     "release_dates": [
                         2019,
                         2020,
-                        2021
+                        2021,
+                        2022
                     ],
                     "rarity": "Common",
                     "second_hand_cost": "Normal",
@@ -1324,7 +1370,8 @@
                     "id": "807",
                     "img": "https://www.gift-gift.jp/nui/files/images/nui807_01.jpg",
                     "release_dates": [
-                        2021
+                        2021,
+                        2022
                     ],
                     "rarity": "Common",
                     "second_hand_cost": "Normal",
@@ -1341,7 +1388,8 @@
                     "id": "834",
                     "img": "https://www.gift-gift.jp/nui/files/images/nui834_01.jpg",
                     "release_dates": [
-                        2021
+                        2021,
+                        2022
                     ],
                     "rarity": "Common",
                     "second_hand_cost": "Normal",
@@ -1358,7 +1406,8 @@
                     "id": "835",
                     "img": "https://www.gift-gift.jp/nui/files/images/nui835_01.jpg",
                     "release_dates": [
-                        2021
+                        2021,
+                        2022
                     ],
                     "rarity": "Common",
                     "second_hand_cost": "Normal",
@@ -1375,7 +1424,8 @@
                     "id": "836",
                     "img": "https://www.gift-gift.jp/nui/files/images/nui836_01.jpg",
                     "release_dates": [
-                        2021
+                        2021,
+                        2022
                     ],
                     "rarity": "Common",
                     "second_hand_cost": "Normal",
@@ -1392,7 +1442,8 @@
                     "id": "837",
                     "img": "https://www.gift-gift.jp/nui/files/images/nui837_01.jpg",
                     "release_dates": [
-                        2021
+                        2021,
+                        2022
                     ],
                     "rarity": "Common",
                     "second_hand_cost": "Normal",
@@ -1441,8 +1492,9 @@
             "question": "How do I get a Fumo?",
             "answer": [
                 "You have two main options: find a trustworthy",
-                "<a href='reseller.html'>reseller</a> at a reasonable price, or",
-                "order one from Gift directly using a",
+                "<a href='reseller.html'>reseller</a> at a reasonable price,",
+                "order one from Amiami's international site, or",
+                "order from Gift or Amiami's Japanese site directly using a",
                 "<a href='proxy_forward.html'>Proxy or Forwarding Service</a>.",
                 "You may need to use both, depending on the reseller."
             ]
@@ -2696,7 +2748,7 @@
             "desc": [
                 "Starting from August 2021, Gift has been officially selling new fumo releases through here.",
                 "Offers shipping through DHL, EMS, and surface mail to most international locations.",
-                "Tend to experience reliability issues when traffic is high (i.e., around starting time of fumo sales).",
+                "Tends to experience reliability issues when traffic is high (i.e., around starting time of fumo sales).",
                 "Also has a <a href='https://www.amiami.jp/'>Japanese storefront</a> that only ships to addresses inside Japan."
             ]
         },
@@ -2706,12 +2758,12 @@
             "desc": [
                 "Second-hand retailer of lots of hobby goods.",
                 "Will nearly always have Fumos in stock.",
-                "Prices vary wildly but tend to be a bit more expensive than Gift's.",
+                "Prices vary wildly but tend to be more expensive than Gift's.",
                 "Also has an <a href='https://www.suruga-ya.com/en/index'>English storefront</a>."
             ]
         },
         {
-            "name": "Mandrake",
+            "name": "Mandarake",
             "link": "https://order.mandarake.co.jp/order/",
             "desc": [
                 "Sells preowned hobby goods.",
