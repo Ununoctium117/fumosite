@@ -1491,12 +1491,11 @@
             "id": "how-get",
             "question": "How do I get a Fumo?",
             "answer": [
-                "You have two main options: find a trustworthy",
+                "You have three main options: find a trustworthy",
                 "<a href='reseller.html'>reseller</a> at a reasonable price,",
                 "order one from Amiami's international site, or",
                 "order from Gift or Amiami's Japanese site directly using a",
-                "<a href='proxy_forward.html'>Proxy or Forwarding Service</a>.",
-                "You may need to use both, depending on the reseller."
+                "<a href='proxy_forward.html'>Proxy or Forwarding Service</a>."
             ]
         },
         {
@@ -2739,17 +2738,19 @@
             "desc": [
                 "The source of all Fumos. Prices are always cheapest here.",
                 "The most popular Fumos tend to sell out in an hour or less.",
-                "Proxies are often too slow, or sometimes reach order limits."
+                "Proxies are often too slow, or sometimes reach order limits.",
+                "Since August 2021, Gift has preferred AmiAmi over its own storefront for fumo releases."
             ]
         },
         {
             "name": "Amiami",
             "link": "https://www.amiami.com/eng/",
             "desc": [
-                "Starting from August 2021, Gift has been officially selling new fumo releases through here.",
+                "Since August 2021, Gift has been officially releasing fumos on AmiAmi.",
                 "Offers shipping through DHL, EMS, and surface mail to most international locations.",
-                "Tends to experience reliability issues when traffic is high (i.e., around starting time of fumo sales).",
-                "Also has a <a href='https://www.amiami.jp/'>Japanese storefront</a> that only ships to addresses inside Japan."
+                "AmiAmi's site tends to experience reliability issues when traffic is high (i.e., around starting time of fumo sales).",
+                "There is a separate <a href='https://www.amiami.jp/'>Japanese storefront</a> that only ships to addresses inside Japan.",
+                "Warning: The Japanese storefront has been rumored to reject orders that would ship to known forwarders."
             ]
         },
         {
