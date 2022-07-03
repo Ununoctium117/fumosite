@@ -793,6 +793,16 @@
                     "rarity": "Common",
                     "second_hand_cost": "Normal",
                     "link": "https://www.gift-gift.jp/nui/nui489.html"
+                },
+                {
+                    "name": "Mysterious Sword Master Version",
+                    "id": "918",
+                    "img": "https://www.gift-gift.jp/nui/files/images/nui918.jpg",
+                    "release_dates": [
+                        2022
+                    ],
+                    "rarity": "Uncommon",
+                    "link": "https://www.gift-gift.jp/nui/nui918.html"
                 }
             ]
         },
@@ -1374,7 +1384,7 @@
             ]
         },
         {
-            "name": "Joon Yorigami",
+            "name": "Yorigami Joon",
             "thwiki": "https://en.touhouwiki.net/wiki/Joon_Yorigami",
             "regular": [
                 {
