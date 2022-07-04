@@ -1,0 +1,331 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8" />
+    <title>Fumo Checklist</title>
+    <link rel="stylesheet" href="/index.css" />
+</head>
+
+<body>
+    <a href="https://github.com/Ununoctium117/fumosite">
+        <img class="github-banner" src="https://s3.amazonaws.com/github/ribbons/forkme_right_darkblue_121621.png" alt="Fork me on GitHub">
+    </a>
+
+    <h1>Fumo Checklist</h1>
+
+    <p>
+        Welcome to the fumo checklist!
+        Use this page to track your fumo collection and share it with your friends.
+        <br>
+        Your data is saved <i>locally</i>!
+        If you clear your brower data or switch computers, your data will be lost!
+    </p>
+
+    <input type="checkbox" id="hide-obtained" name="hide-obtained" class="hidden checklist-control">
+    <input type="checkbox" id="hide-unobtained" name="hide-unobtained" class="hidden checklist-control">
+    <div id="checklist-controls">
+        <div>
+            <label for="hide-obtained">Hide already-collected fumos</label>
+            <label for="hide-unobtained">Hide fumos you don't own</label>
+        </div>
+        <div>
+            <span id="reset-checklist-button">⚠️ Reset checklist</span>
+            <span id="share-checklist-button">🔗 Share checklist</span>
+        </div>
+    </div>
+
+    <div id="fumo-checklist">
+        {{#characters}}
+        <div class="checklist-character">
+            <h4>{{name}}</h4>
+            <ul>
+                {{#regular}}
+                <input type="checkbox" id='checkbox-{{id}}' name='checkbox-{{id}}' class="hidden checklist-checkbox" />
+                <li>
+                    <label for='checkbox-{{id}}'>
+                        <div class="checklist-item">
+                            <h5>{{name}}</h5>
+                            <img src='img/{{id}}.jpg' />
+                        </div>
+                    </label>
+                </li>
+                {{/regular}}
+                {{#straps}}
+                <input type="checkbox" id='checkbox-{{id}}' name='checkbox-{{id}}' class="hidden checklist-checkbox" />
+                <li>
+                    <label for='checkbox-{{id}}'>
+                        <div class="checklist-item">
+                            <h5>{{name}}</h5>
+                            <img src='img/{{id}}.jpg' />
+                        </div>
+                    </label>
+                </li>
+                {{/straps}}
+                {{#dekas}}
+                <input type="checkbox" id='checkbox-{{id}}' name='checkbox-{{id}}' class="hidden checklist-checkbox" />
+                <li>
+                    <label for='checkbox-{{id}}'>
+                        <div class="checklist-item">
+                            <h5>Deka - {{name}}</h5>
+                            <img src='img/{{id}}.jpg' />
+                        </div>
+                    </label>
+                </li>
+                {{/dekas}}
+                {{#puppets}}
+                <input type="checkbox" id='checkbox-{{id}}' name='checkbox-{{id}}' class="hidden checklist-checkbox" />
+                <li>
+                    <label for='checkbox-{{id}}'>
+                        <div class="checklist-item">
+                            <h5>{{name}}</h5>
+                            <img src='img/{{id}}.jpg' />
+                        </div>
+                    </label>
+                </li>
+                {{/puppets}}
+            </ul>
+        </div>
+        {{/characters}}
+    </div>
+
+    <script type="text/javascript">
+        (async () => {
+            const LOCAL_STORAGE_KEY = 'CHECKLIST_STATE_V1';
+            const INU_SAKUYA_NYBBLE = 0b1010;
+            const NULL_NYBBLE = 0b1110;
+            const END_OF_ID_NYBBLE = 0b1111;
+
+            function loadLocalStorage() {
+                const data = localStorage.getItem(LOCAL_STORAGE_KEY);
+                if (data === null) {
+                    console.log('No data found for', LOCAL_STORAGE_KEY);
+                    return {
+                        'hideObtained': false,
+                        'hideUnobtained': false,
+                        'external': false,
+                        'owned': true,
+                        'fumos': [],
+                    };
+                }
+
+                return JSON.parse(data);
+            }
+
+            function saveLocalStorage(data) {
+                localStorage.setItem(LOCAL_STORAGE_KEY, JSON.stringify(data));
+            }
+
+            function fumoIdFromCheckbox(checkbox) {
+                return checkbox.id.substring(9);
+            }
+
+            function generateJsonDataFromCheckboxState() {
+                let fumosOwned = [];
+                let fumosNotOwned = [];
+                for (let node of document.querySelectorAll('.checklist-checkbox')) {
+                    if (node.checked) {
+                        fumosOwned.push(fumoIdFromCheckbox(node));
+                    } else {
+                        fumosNotOwned.push(fumoIdFromCheckbox(node));
+                    }
+                }
+
+                let data = {
+                    'hideObtained': document.querySelector('#hide-obtained').checked,
+                    'hideUnobtained': document.querySelector('#hide-unobtained').checked,
+                    'external': false,
+                };
+
+                if (fumosOwned.length >= fumosNotOwned.length) {
+                    data['fumos'] = fumosNotOwned;
+                    data['owned'] = false;
+                } else {
+                    data['fumos'] = fumosOwned;
+                    data['owned'] = true;
+                }
+
+                return data;
+            }
+
+            function saveCheckboxStateToLocalStorage() {
+                const data = generateJsonDataFromCheckboxState();
+                saveLocalStorage(data);
+            }
+
+            function restoreJsonDataToCheckboxes(data) {
+                document.querySelector('#hide-obtained').checked = data['hideObtained'];
+                document.querySelector('#hide-unobtained').checked = data['hideUnobtained'];
+
+                const fumos = new Set(data['fumos']);
+                for (let checkbox of document.querySelectorAll('.checklist-checkbox')) {
+                    const id = fumoIdFromCheckbox(checkbox);
+                    // present and list is list of owned fumos: turn on
+                    // not present and list is list of unowned fumos: turn on
+                    checkbox.checked = (fumos.has(id) === data['owned']);
+                }
+            }
+
+            function restoreCheckboxesFromLocalStorage() {
+                const data = loadLocalStorage();
+                restoreJsonDataToCheckboxes(data);
+            }
+
+            function generateShareableJsonDataFromCheckboxState() {
+                let data = generateJsonDataFromCheckboxState();
+                data['external'] = true;
+                return data;
+            }
+
+            async function arrayToUnpaddedUrlSafeBase64(data) {
+                const url = await new Promise((r) => {
+                    const reader = new FileReader();
+                    reader.onload = () => r(reader.result);
+                    reader.readAsDataURL(new Blob([data]));
+                });
+                return url.split(',', 2)[1].replace(/\//g, '_').replace(/\+/g, '-').replace(/\=+$/, '');
+            }
+
+            // Via experimentation: this is a better compression ratio than using lz-string
+            async function compressJsonData(data) {
+                let fumoNybbles = [];
+
+                let flags = 0;
+                if (data['hideObtained']) {
+                    flags |= 0b0001;
+                }
+                if (data['hideUnobtained']) {
+                    flags |= 0b0010;
+                }
+                if (data['owned']) {
+                    flags |= 0b0100;
+                }
+                if (data['external']) {
+                    flags |= 0b1000;
+                }
+                fumoNybbles.push(flags);
+
+                for (let fumo of data['fumos']) {
+                    if (fumo === 'inu-sakuya') {
+                        fumoNybbles.push(INU_SAKUYA_NYBBLE);
+                    } else {
+                        for (let char of fumo) {
+                            fumoNybbles.push({
+                                '0': 0b0000,
+                                '1': 0b0001,
+                                '2': 0b0010,
+                                '3': 0b0011,
+                                '4': 0b0100,
+                                '5': 0b0101,
+                                '6': 0b0110,
+                                '7': 0b0111,
+                                '8': 0b1000,
+                                '9': 0b1001,
+                            }[char]);
+                        }
+                    }
+
+                    fumoNybbles.push(END_OF_ID_NYBBLE);
+                }
+
+                if (fumoNybbles.length % 2 !== 0) {
+                    fumoNybbles.push(NULL_NYBBLE);
+                }
+
+                let fumoBytes = new Uint8Array(fumoNybbles.length / 2);
+                for (let i = 0; i < fumoNybbles.length; i += 2) {
+                    fumoBytes[i / 2] = (fumoNybbles[i] << 4 | fumoNybbles[i + 1]);
+                }
+
+                return await arrayToUnpaddedUrlSafeBase64(fumoBytes);
+            }
+
+            function decompressJsonData(string) {
+                let nonUrlSafe = string.replace(/_/g, '/').replace(/-/g, '+');
+                const lenMod4 = nonUrlSafe.length % 4;
+                if (lenMod4 !== 0) {
+                    nonUrlSafe += ('===').slice(0, 4 - lenMod4);
+                }
+                const fumoBytes = Uint8Array.from(atob(nonUrlSafe), c => c.charCodeAt(0));
+
+                const fumoNybbles = [];
+                for (let byte of fumoBytes) {
+                    fumoNybbles.push(byte >>> 4);
+                    fumoNybbles.push(byte & 0x0F);
+                }
+
+                let result = {};
+                result['hideObtained'] = (fumoNybbles[0] & 0b0001) !== 0;
+                result['hideUnobtained'] = (fumoNybbles[0] & 0b0010) !== 0;
+                result['owned'] = (fumoNybbles[0] & 0b0100) !== 0;
+                result['external'] = (fumoNybbles[0] & 0b1000) !== 0;
+                fumoNybbles.shift();
+
+                let fumoIds = [];
+                let inProgressId = '';
+                for (let nybble of fumoNybbles) {
+                    if (nybble === END_OF_ID_NYBBLE) {
+                        fumoIds.push(inProgressId);
+                        inProgressId = '';
+                    } else if (nybble === INU_SAKUYA_NYBBLE) {
+                        inProgressId = 'inu-sakuya';
+                    } else if (nybble === NULL_NYBBLE) {
+                        continue;
+                    } else {
+                        inProgressId += [
+                            '0', '1', '2', '3', '4', '5', '6', '7', '8', '9'
+                        ][nybble];
+                    }
+                }
+                result['fumos'] = fumoIds;
+                return result;
+            }
+
+            // Add event listeners
+            document.querySelector('#reset-checklist-button').addEventListener('click', () => {
+                if (confirm('Are you sure?')) {
+                    localStorage.clear();
+                    restoreCheckboxesFromLocalStorage();
+                }
+            });
+
+            document.querySelector('#share-checklist-button').addEventListener('click', async () => {
+                const shareableData = await compressJsonData(generateShareableJsonDataFromCheckboxState());
+                const shareableUrl = new URL('/', location.href);
+                shareableUrl.hash = shareableData;
+                try {
+                    await navigator.clipboard.writeText(shareableUrl.toString());
+                    alert('Sharing link copied to clipboard!');
+                } catch(err) {
+                    alert('Failed to copy sharing link!');
+                    console.err(err);
+                }
+            });
+
+            for (let selector of ['.checklist-checkbox', '#hide-obtained', '#hide-unobtained']) {
+                for (let element of document.querySelectorAll(selector)) {
+                    element.addEventListener('change', () => {
+                        saveCheckboxStateToLocalStorage();
+                    });
+                }
+            }
+
+            // Check for a sharing link
+            if (location.hash.length > 0) {
+                const data = decompressJsonData(location.hash.substring(1));
+                restoreJsonDataToCheckboxes(data);
+
+                let replacementUrl = new URL(location.href);
+                replacementUrl.hash = '';
+                history.replaceState(null, '', replacementUrl.toString());
+            } else {
+                restoreCheckboxesFromLocalStorage();
+            }
+
+            window.g = generateJsonDataFromCheckboxState;
+            window.h = compressJsonData;
+            window.j = decompressJsonData;
+        })();
+    </script>
+</body>
+</html>

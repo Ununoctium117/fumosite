@@ -69,6 +69,7 @@ img.github-banner {
     margin-top: 2rem;
     border-radius: 1rem;
 }
+
 .faq-section {
     &:not(:nth-child(2)) {
         padding-top: 1rem;
@@ -224,6 +225,146 @@ table.checkered {
     }
 }
 
+input.hidden {
+    display: none;
+}
+
+input[id="hide-obtained"].checklist-control {
+    &:checked {
+        &~ #checklist-controls label[for="hide-obtained"] {
+            &::before {
+                content: "✔️"
+            }
+
+            border-color: green;
+            background-color: lightgreen;
+        }
+
+        &~ #fumo-checklist input.checklist-checkbox:checked + li {
+            display: none;
+        }
+    }
+
+    &:not(:checked) ~ #checklist-controls label[for="hide-obtained"] {
+        &::before {
+            content: "❌"
+        }
+
+        border-color: red;
+    }
+}
+
+input[id="hide-unobtained"].checklist-control {
+    &:checked {
+        &~ #checklist-controls label[for="hide-unobtained"] {
+            border-color: green;
+            background-color: lightgreen;
+
+            &::before {
+                content: "✔️"
+            }
+        }
+
+        &~ #fumo-checklist input.checklist-checkbox:not(:checked) + li {
+            display: none;
+        }
+    }
+
+    &:not(:checked) ~ #checklist-controls label[for="hide-unobtained"] {
+        border-color: red;
+
+        &::before {
+            content: "❌"
+        }
+    }
+}
+
+#checklist-controls {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    align-items: center;
+
+    div {
+        flex: 1;
+
+        &:first-child {
+            margin-bottom: 1rem;
+        }
+
+        label {
+            user-select: none;
+            border: 1px solid;
+            border-radius: 0.3rem;
+            padding: 0.3rem;
+            cursor: pointer;
+        }
+
+        span {
+            border: 1px solid black;
+            border-radius: 0.3rem;
+            padding: 0.3rem;
+            user-select: none;
+            cursor: pointer;
+        }
+    }
+}
+
+
+
+#fumo-checklist {
+    width: 100%;
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: space-evenly;
+    row-gap: 1rem;
+
+    ul {
+        display: inline-block;
+        list-style-type: none;
+        padding-left: 0px;
+
+        li {
+            padding: 0.3rem;
+
+            label {
+                cursor: pointer;
+            }
+        }
+    }
+
+    input.checklist-checkbox:checked + li div.checklist-item {
+        border: 2px solid green;
+        background-color: lightgreen;
+    }
+
+    input.checklist-checkbox:not(:checked) + li div.checklist-item {
+        border: 2px solid red;
+    }
+
+    .checklist-character {
+        flex: 1 0 21%;
+        border-bottom: 2px solid black;
+        user-select: none;
+
+        .checklist-item {
+            border-radius: 0.3rem;
+            padding-left: 1rem;
+            padding-right: 1rem;
+            padding-top: 0.3rem;
+            padding-bottom: 0.3rem;
+
+            h5 {
+                margin-top: 0.3rem;
+            }
+
+            img {
+                width: 5rem;
+            }
+        }
+    }
+}
+
 .list-entry {
     display: flex;
     flex-direction: row;
@@ -250,15 +391,19 @@ table.checkered {
         &[data-rarity=Common]:after {
             content: " (always in stock)";
         }
+
         &[data-rarity=Uncommon]:after {
             content: " (usually in stock)";
         }
+
         &[data-rarity=Rare]:after {
             content: " (not always in stock)";
         }
+
         &[data-rarity="Super Rare"]:after {
             content: " (rarely in stock; might have to wait before any show up)";
         }
+
         &[data-rarity="Super Super Rare"]:after {
             content: " (practically never in stock)";
         }
@@ -268,9 +413,11 @@ table.checkered {
         &[data-second-hand-cost=Normal]:after {
             content: " (price tends to be the same as other fumos of the same type)";
         }
+
         &[data-second-hand-cost=High]:after {
             content: " (price tends to be higher than other fumos of the same type)";
         }
+
         &[data-second-hand-cost="Very High"]:after {
             content: " (price tends to be significantly higher than other fumos of the same type)";
         }
@@ -283,6 +430,7 @@ table.checkered {
         content: ", ";
         user-select: text;
     }
+
     &:last-child:not(:first-child):not(:nth-child(2)):before {
         content: "and ";
         user-select: text;
@@ -309,6 +457,7 @@ table.checkered {
     text-decoration: none;
     border-radius: 1rem;
 }
+
 .button:hover {
     background-color: #2a2b2a;
 }
@@ -325,6 +474,7 @@ p {
 a {
     color: inherit;
 }
+
 a:visited {
     color: inherit;
 }

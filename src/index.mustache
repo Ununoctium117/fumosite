@@ -26,6 +26,11 @@
                 Fumo Table
             </div>
         </a>
+        {{! <a href="fumo_checklist.html" class="button">
+            <div>
+                Fumo Checklist
+            </div>
+        </a> }}
         <a href="japanese.html" class="button">
             <div>
                 Helpful Japanese Phrases
@@ -84,6 +89,15 @@
             {{/faq}}
         </fieldset>
     </div>
+
+    <script type="text/javascript">
+        // support for sharing links
+        if (location.hash.length > 0) {
+            const newUrl = new URL('/fumo_checklist.html', location.href);
+            newUrl.hash = location.hash;
+            location.href = newUrl.toString();
+        }
+    </script>
 
 </body>
 
