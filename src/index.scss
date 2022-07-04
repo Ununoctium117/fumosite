@@ -22,6 +22,10 @@ img.github-banner {
     z-index: 0;
 }
 
+.hidden {
+    display: none !important;
+}
+
 #top-button-group {
     margin-top: 2rem;
     width: 100%;
@@ -225,13 +229,9 @@ table.checkered {
     }
 }
 
-input.hidden {
-    display: none;
-}
-
 input[id="hide-obtained"].checklist-control {
     &:checked {
-        &~ #checklist-controls label[for="hide-obtained"] {
+        &~ .checklist-controls label[for="hide-obtained"] {
             &::before {
                 content: "✔️"
             }
@@ -245,7 +245,7 @@ input[id="hide-obtained"].checklist-control {
         }
     }
 
-    &:not(:checked) ~ #checklist-controls label[for="hide-obtained"] {
+    &:not(:checked) ~ .checklist-controls label[for="hide-obtained"] {
         &::before {
             content: "❌"
         }
@@ -256,7 +256,7 @@ input[id="hide-obtained"].checklist-control {
 
 input[id="hide-unobtained"].checklist-control {
     &:checked {
-        &~ #checklist-controls label[for="hide-unobtained"] {
+        &~ .checklist-controls label[for="hide-unobtained"] {
             border-color: green;
             background-color: lightgreen;
 
@@ -270,7 +270,7 @@ input[id="hide-unobtained"].checklist-control {
         }
     }
 
-    &:not(:checked) ~ #checklist-controls label[for="hide-unobtained"] {
+    &:not(:checked) ~ .checklist-controls label[for="hide-unobtained"] {
         border-color: red;
 
         &::before {
@@ -279,7 +279,7 @@ input[id="hide-unobtained"].checklist-control {
     }
 }
 
-#checklist-controls {
+.checklist-controls {
     display: flex;
     flex-direction: column;
     justify-content: space-evenly;
