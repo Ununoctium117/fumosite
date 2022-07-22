@@ -378,7 +378,7 @@
                     "rarity": "Super Rare",
                     "second_hand_cost": "Normal",
                     "link": "https://www.gift-gift.jp/nui/nui853.html"
-                }
+                }   
             ]
         },
         {
@@ -878,6 +878,19 @@
                     "rarity": "Common",
                     "second_hand_cost": "Normal",
                     "link": "https://www.gift-gift.jp/nui/nui490.html"
+                }
+            ],
+            "dekas": [
+                {
+                    "name": "Version 1",
+                    "id": "921",
+                    "img": "https://www.gift-gift.jp/nui/files/images/nui921_01.jpg",
+                    "release_dates": [
+                        2022
+                    ],
+                    "rarity": "Super Rare",
+                    "second_hand_cost": "Normal",
+                    "link": "https://www.gift-gift.jp/nui/nui921.html"
                 }
             ]
         },
