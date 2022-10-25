@@ -1287,6 +1287,17 @@
                     "rarity": "Common",
                     "second_hand_cost": "Normal",
                     "link": "https://www.gift-gift.jp/nui/nui493.html"
+                },
+                {
+                    "name": "Fujinroku Version",
+                    "id": "937",
+                    "img": "https://www.gift-gift.jp/nui/files/images/nui937_01.jpg",
+                    "release_dates": [
+                        2022
+                    ],
+                    "rarity": "Common",
+                    "second_hand_cost": "Normal",
+                    "link": "https://www.gift-gift.jp/nui/nui937.html"
                 }
             ]
         },
