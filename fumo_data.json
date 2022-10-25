@@ -1521,6 +1521,23 @@
                     "link": "https://www.gift-gift.jp/nui/nui900.html"
                 }
             ]
+        },
+        {
+            "name": "Junko",
+            "thwiki": "https://en.touhouwiki.net/wiki/Junko",
+            "regular": [
+                {
+                    "name": "Version 1",
+                    "id": "938",
+                    "img": "https://www.gift-gift.jp/nui/files/images/nui938_01.jpg",
+                    "release_dates": [
+                        2022
+                    ],
+                    "rarity": "Common",
+                    "second_hand_cost": "Normal",
+                    "link": "https://www.gift-gift.jp/nui/nui938.html"
+                }
+            ]
         }
     ],
     "faq": [
