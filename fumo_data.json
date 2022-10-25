@@ -808,7 +808,7 @@
                     "release_dates": [
                         2022
                     ],
-                    "rarity": "Uncommon",
+                    "rarity": "Common",
                     "second_hand_cost": "Normal",
                     "link": "https://www.gift-gift.jp/nui/nui936.html"
                 }
@@ -907,6 +907,17 @@
                     "rarity": "Super Rare",
                     "second_hand_cost": "High",
                     "link": "https://www.gift-gift.jp/nui/nui056.html"
+                },
+                {
+                    "name": "Version 1.5",
+                    "id": "935",
+                    "img": "https://www.gift-gift.jp/nui/files/images/nui935_01.jpg",
+                    "release_dates": [
+                        2022
+                    ],
+                    "rarity": "Common",
+                    "second_hand_cost": "Normal",
+                    "link": "https://www.gift-gift.jp/nui/nui935.html"
                 }
             ]
         },
