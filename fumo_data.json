@@ -1538,6 +1538,23 @@
                     "link": "https://www.gift-gift.jp/nui/nui938.html"
                 }
             ]
+        },
+        {
+            "name": "Haniyasushin Keiki",
+            "thwiki": "https://en.touhouwiki.net/wiki/Keiki_Haniyasushin",
+            "regular": [
+                {
+                    "name": "Version 1",
+                    "id": "939",
+                    "img": "https://www.gift-gift.jp/nui/files/images/nui939_01.jpg",
+                    "release_dates": [
+                        2022
+                    ],
+                    "rarity": "Common",
+                    "second_hand_cost": "Normal",
+                    "link": "https://www.gift-gift.jp/nui/nui939.html"
+                }
+            ]
         }
     ],
     "faq": [
