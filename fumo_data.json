@@ -883,6 +883,19 @@
                     "rarity": "Uncommon",
                     "link": "https://www.gift-gift.jp/nui/nui918.html"
                 }
+            ],
+            "straps": [
+                {
+                    "name": "Plush Strap",
+                    "id": "946",
+                    "img": "https://www.gift-gift.jp/nui/files/images/nui946_01.jpg",
+                    "release_dates": [
+                        2022
+                    ],
+                    "rarity": "Common",
+                    "second_hand_cost": "Normal",
+                    "link": "https://www.gift-gift.jp/nui/nui946.html"
+                }
             ]
         },
         {
