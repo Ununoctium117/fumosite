@@ -1096,18 +1096,31 @@
                 }
             ],
             "dekas":  [
-              {
+                {
                     "name": "Version 1",
                     "id": "820",
                     "img": "https://www.gift-gift.jp/nui/files/images/nui820_01.jpg",
                     "release_dates":[
-                      2021,
-                      2022
+                        2021,
+                        2022
                     ],
                     "rarity": "Super Rare",
                     "second_hand_cost": "Normal",
                     "link": "https://www.gift-gift.jp/nui/nui820.html"
-              }
+                }
+            ],
+            "middle": [
+                {
+                    "name": "Version 1",
+                    "id": "940",
+                    "img": "https://www.gift-gift.jp/nui/files/images/nui940_01.jpg",
+                    "release_dates":[
+                        2022
+                    ],
+                    "rarity": "Uncommon",
+                    "second_hand_cost": "Normal",
+                    "link": "https://www.gift-gift.jp/nui/nui940.html"
+                }
             ]
         },
         {

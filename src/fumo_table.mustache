@@ -21,6 +21,7 @@
                 <th class="left">Regular Fumos</th>
                 <th class="left">Toy Straps</th>
                 <th class="left">Deka Fumos</th>
+                <th class="left">Middle Size Fumos</th>
                 <th class="left">Puppets</th>
             </tr>
         </thead>
@@ -51,6 +52,14 @@
                     {{^dekas}}
                     &nbsp;
                     {{/dekas}}
+                </td>
+                <td class="left">
+                    {{#middle}}
+                    <a href='/fumo_list.html#{{id}}'>{{name}}</a><br />
+                    {{/middle}}
+                    {{^middle}}
+                    &nbsp;
+                    {{/middle}}
                 </td>
                 <td class="left">
                     {{#puppets}}
