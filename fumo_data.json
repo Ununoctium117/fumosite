@@ -568,6 +568,19 @@
                     "second_hand_cost": "Normal",
                     "link": "https://www.gift-gift.jp/nui/nui491.html"
                 }
+            ],
+            "straps": [
+                {
+                    "name": "Plush Strap",
+                    "id": "944",
+                    "img": "https://www.gift-gift.jp/nui/files/images/nui944.jpg",
+                    "release_dates": [
+                        2022
+                    ],
+                    "rarity": "Common",
+                    "price_range": "$20",
+                    "link": "https://www.gift-gift.jp/nui/nui944.html"
+                }
             ]
         },
         {
