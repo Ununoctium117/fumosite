@@ -18,7 +18,8 @@
                     "rarity": "Uncommon",
                     "second_hand_cost": "High",
                     "price_range": "$70 - $120",
-                    "gift_link": "https://www.gift-gift.jp/nui/nui001.html"
+                    "gift_link": "https://www.gift-gift.jp/nui/nui001.html",
+                    "amiami_link": "https://www.amiami.com/eng/detail/?gcode=CGD-2206"
                 },
                 {
                     "name": "Nendroid Plus",
@@ -46,7 +47,8 @@
                     "rarity": "Common",
                     "second_hand_cost": "Normal",
                     "price_range": "$40 - $60",
-                    "gift_link": "https://www.gift-gift.jp/nui/nui345.html"
+                    "gift_link": "https://www.gift-gift.jp/nui/nui345.html",
+                    "amiami_link": "https://www.amiami.com/eng/detail/?gcode=GOODS-00099826"
                 },
                 {
                     "name": "Version 1.5",
@@ -57,7 +59,27 @@
                     ],
                     "rarity": "Common",
                     "second_hand_cost": "Normal",
-                    "gift_link": "https://www.gift-gift.jp/nui/nui897.html"
+                    "gift_link": "https://www.gift-gift.jp/nui/nui897.html",
+                    "amiami_link": "https://www.amiami.com/eng/detail/?gcode=GOODS-04230781"
+                },
+                {
+                    "name": "Phantasmagoria of Dim. Dream Version",
+                    "id": "1035",
+                    "img": "https://www.gift-gift.jp/nui/files/images/42cc88423f061963c36e659d8895b881b121239b.jpg",
+                    "release_dates": [
+                        2023
+                    ],
+                    "gift_link": "https://www.gift-gift.jp/nui/nui1035.html",
+                    "amiami_link": "https://www.amiami.com/eng/detail/?gcode=GOODS-04417656"
+                },
+                {
+                    "name": "Lost Word ~ The Shaman Who Takes Down the Gods Version",
+                    "id": "983",
+                    "img": "https://www.gift-gift.jp/nui/files/images/nui983_01.jpg",
+                    "release_dates": [
+                        2023
+                    ],
+                    "gift_link": "https://www.gift-gift.jp/nui/nui983.html"
                 }
             ],
             "straps": [
@@ -836,7 +858,7 @@
                     "gift_link": "https://www.gift-gift.jp/nui/nui489.html"
                 },
                 {
-                    "name": "Lost Word Mysterious Sword Master Version",
+                    "name": "Lost Word ~ Mysterious Sword Master Version",
                     "id": "918",
                     "img": "https://www.gift-gift.jp/nui/files/images/nui918.jpg",
                     "release_dates": [
