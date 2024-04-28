@@ -543,6 +543,19 @@
                     "second_hand_cost": "Normal",
                     "gift_link": "https://www.gift-gift.jp/nui/nui492.html"
                 }
+            ],
+            "straps": [
+                {
+                    "name": "Plush Strap",
+                    "id": "943",
+                    "img": "https://www.gift-gift.jp/nui/files/images/nui943_01.jpg",
+                    "release_dates": [
+                        2022
+                    ],
+                    "rarity": "Common",
+                    "price_range": "$20",
+                    "gift_link": "https://www.gift-gift.jp/nui/nui943.html"
+                }
             ]
         },
         {
@@ -576,6 +589,19 @@
                     "rarity": "Common",
                     "second_hand_cost": "Normal",
                     "gift_link": "https://www.gift-gift.jp/nui/nui491.html"
+                }
+            ],
+            "straps": [
+                {
+                    "name": "Plush Strap",
+                    "id": "944",
+                    "img": "https://www.gift-gift.jp/nui/files/images/nui944_01.jpg",
+                    "release_dates": [
+                        2022
+                    ],
+                    "rarity": "Common",
+                    "price_range": "$20",
+                    "gift_link": "https://www.gift-gift.jp/nui/nui944.html"
                 }
             ]
         },
@@ -822,6 +848,17 @@
                     "rarity": "Super Rare",
                     "second_hand_cost": "High",
                     "gift_link": "https://www.gift-gift.jp/nui/nui015.html"
+                },
+                {
+                    "name": "Version 1.5",
+                    "id": "936",
+                    "img": "https://www.gift-gift.jp/nui/files/images/nui936_01.jpg",
+                    "release_dates": [
+                        2022
+                    ],
+                    "rarity": "Common",
+                    "second_hand_cost": "Normal",
+                    "gift_link": "https://www.gift-gift.jp/nui/nui936.html"
                 }
             ]
         },
@@ -851,7 +888,8 @@
                         2018,
                         2019,
                         2020,
-                        2021
+                        2021,
+                        2023
                     ],
                     "rarity": "Common",
                     "second_hand_cost": "Normal",
@@ -866,6 +904,19 @@
                     ],
                     "rarity": "Uncommon",
                     "gift_link": "https://www.gift-gift.jp/nui/nui918.html"
+                }
+            ],
+            "straps": [
+                {
+                    "name": "Plush Strap",
+                    "id": "946",
+                    "img": "https://www.gift-gift.jp/nui/files/images/nui946_01.jpg",
+                    "release_dates": [
+                        2022
+                    ],
+                    "rarity": "Common",
+                    "second_hand_cost": "Normal",
+                    "gift_link": "https://www.gift-gift.jp/nui/nui946.html"
                 }
             ],
             "dekas": [
@@ -908,11 +959,25 @@
                         2018,
                         2019,
                         2020,
-                        2021
+                        2021,
+                        2023
                     ],
                     "rarity": "Common",
                     "second_hand_cost": "Normal",
                     "gift_link": "https://www.gift-gift.jp/nui/nui490.html"
+                }
+            ],
+            "straps": [
+                {
+                    "name": "Plush Strap",
+                    "id": "945",
+                    "img": "https://www.gift-gift.jp/nui/files/images/nui945_01.jpg",
+                    "release_dates": [
+                        2022
+                    ],
+                    "rarity": "Common",
+                    "second_hand_cost": "Normal",
+                    "gift_link": "https://www.gift-gift.jp/nui/nui945.html"
                 }
             ],
             "dekas": [
@@ -944,6 +1009,17 @@
                     "rarity": "Super Rare",
                     "second_hand_cost": "High",
                     "gift_link": "https://www.gift-gift.jp/nui/nui056.html"
+                },
+                {
+                    "name": "Version 1.5",
+                    "id": "935",
+                    "img": "https://www.gift-gift.jp/nui/files/images/nui935_01.jpg",
+                    "release_dates": [
+                        2022
+                    ],
+                    "rarity": "Common",
+                    "second_hand_cost": "Normal",
+                    "gift_link": "https://www.gift-gift.jp/nui/nui935.html"
                 }
             ]
         },
@@ -1317,6 +1393,17 @@
                     "rarity": "Common",
                     "second_hand_cost": "Normal",
                     "gift_link": "https://www.gift-gift.jp/nui/nui493.html"
+                },
+                {
+                    "name": "Fujinroku Version",
+                    "id": "937",
+                    "img": "https://www.gift-gift.jp/nui/files/images/nui937_01.jpg",
+                    "release_dates": [
+                        2022
+                    ],
+                    "rarity": "Common",
+                    "second_hand_cost": "Normal",
+                    "gift_link": "https://www.gift-gift.jp/nui/nui937.html"
                 }
             ]
         },
@@ -1371,7 +1458,8 @@
                     "release_dates": [
                         2019,
                         2020,
-                        2021
+                        2021,
+                        2023
                     ],
                     "rarity": "Common",
                     "second_hand_cost": "Normal",
@@ -1499,7 +1587,8 @@
                     "img": "https://www.gift-gift.jp/nui/files/images/nui837_01.jpg",
                     "release_dates": [
                         2021,
-                        2022
+                        2022,
+                        2023
                     ],
                     "rarity": "Common",
                     "second_hand_cost": "Normal",
@@ -1538,6 +1627,40 @@
                     "rarity": "Common",
                     "second_hand_cost": "Normal",
                     "gift_link": "https://www.gift-gift.jp/nui/nui900.html"
+                }
+            ]
+        },
+        {
+            "name": "Junko",
+            "thwiki": "https://en.touhouwiki.net/wiki/Junko",
+            "regular": [
+                {
+                    "name": "Version 1",
+                    "id": "938",
+                    "img": "https://www.gift-gift.jp/nui/files/images/nui938_01.jpg",
+                    "release_dates": [
+                        2022
+                    ],
+                    "rarity": "Common",
+                    "second_hand_cost": "Normal",
+                    "gift_link": "https://www.gift-gift.jp/nui/nui938.html"
+                }
+            ]
+        },
+        {
+            "name": "Haniyasushin Keiki",
+            "thwiki": "https://en.touhouwiki.net/wiki/Keiki_Haniyasushin",
+            "regular": [
+                {
+                    "name": "Version 1",
+                    "id": "939",
+                    "img": "https://www.gift-gift.jp/nui/files/images/nui939_01.jpg",
+                    "release_dates": [
+                        2022
+                    ],
+                    "rarity": "Common",
+                    "second_hand_cost": "Normal",
+                    "gift_link": "https://www.gift-gift.jp/nui/nui939.html"
                 }
             ]
         }
