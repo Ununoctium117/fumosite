@@ -18,7 +18,7 @@
                     "rarity": "Uncommon",
                     "second_hand_cost": "High",
                     "price_range": "$70 - $120",
-                    "link": "https://www.gift-gift.jp/nui/nui001.html"
+                    "gift_link": "https://www.gift-gift.jp/nui/nui001.html"
                 },
                 {
                     "name": "Nendroid Plus",
@@ -30,7 +30,7 @@
                     "rarity": "Rare",
                     "second_hand_cost": "High",
                     "price_range": "$80 - $120",
-                    "link": "https://www.gift-gift.jp/archive/nui/nui029.html"
+                    "gift_link": "https://www.gift-gift.jp/archive/nui/nui029.html"
                 },
                 {
                     "name": "Kourindou Version",
@@ -46,7 +46,7 @@
                     "rarity": "Common",
                     "second_hand_cost": "Normal",
                     "price_range": "$40 - $60",
-                    "link": "https://www.gift-gift.jp/nui/nui345.html"
+                    "gift_link": "https://www.gift-gift.jp/nui/nui345.html"
                 },
                 {
                     "name": "Version 1.5",
@@ -57,7 +57,7 @@
                     ],
                     "rarity": "Common",
                     "second_hand_cost": "Normal",
-                    "link": "https://www.gift-gift.jp/nui/nui897.html"
+                    "gift_link": "https://www.gift-gift.jp/nui/nui897.html"
                 }
             ],
             "straps": [
@@ -70,7 +70,7 @@
                     ],
                     "rarity": "Rare",
                     "second_hand_cost": "Normal",
-                    "link": "https://www.gift-gift.jp/nui/nui122.html"
+                    "gift_link": "https://www.gift-gift.jp/nui/nui122.html"
                 },
                 {
                     "name": "Kourindou Version",
@@ -82,7 +82,7 @@
                     "rarity": "Rare",
                     "second_hand_cost": "Normal",
                     "price_range": "$100 - $200+",
-                    "link": "https://www.gift-gift.jp/nui/nui452.html"
+                    "gift_link": "https://www.gift-gift.jp/nui/nui452.html"
                 },
                 {
                     "name": "Plush Strap",
@@ -94,7 +94,7 @@
                     "rarity": "Common",
                     "second_hand_cost": "Low",
                     "price_range": "$20",
-                    "link": "https://www.gift-gift.jp/nui/nui745.html"
+                    "gift_link": "https://www.gift-gift.jp/nui/nui745.html"
                 }
             ],
             "dekas": [
@@ -111,7 +111,7 @@
                     "rarity": "Super Rare",
                     "second_hand_cost": "High",
                     "price_range": "$500 - $750+",
-                    "link": "https://www.gift-gift.jp/archive/nui/nui009.html"
+                    "gift_link": "https://www.gift-gift.jp/archive/nui/nui009.html"
                 },
                 {
                     "name": "Kourindou Version",
@@ -123,7 +123,7 @@
                     "rarity": "Super Rare",
                     "second_hand_cost": "Normal",
                     "price_range": "$500",
-                    "link": "https://www.gift-gift.jp/nui/nui739.html"
+                    "gift_link": "https://www.gift-gift.jp/nui/nui739.html"
                 }
             ],
             "puppets": [
@@ -137,7 +137,7 @@
                     "rarity": "Rare",
                     "second_hand_cost": "High",
                     "price_range": "$120+",
-                    "link": "https://www.gift-gift.jp/nui/nui021.html"
+                    "gift_link": "https://www.gift-gift.jp/nui/nui021.html"
                 }
             ]
         },
@@ -158,7 +158,7 @@
                     ],
                     "rarity": "Uncommon",
                     "second_hand_cost": "Normal",
-                    "link": "https://www.gift-gift.jp/nui/nui002.html"
+                    "gift_link": "https://www.gift-gift.jp/nui/nui002.html"
                 },
                 {
                     "name": "Nendroid Plus",
@@ -169,7 +169,7 @@
                     ],
                     "rarity": "Rare",
                     "second_hand_cost": "High",
-                    "link": "https://www.gift-gift.jp/archive/nui/nui030.html"
+                    "gift_link": "https://www.gift-gift.jp/archive/nui/nui030.html"
                 },
                 {
                     "name": "Version 2",
@@ -182,7 +182,7 @@
                     ],
                     "rarity": "Rare",
                     "second_hand_cost": "Normal",
-                    "link": "https://www.gift-gift.jp/nui/nui278.html"
+                    "gift_link": "https://www.gift-gift.jp/nui/nui278.html"
                 },
                 {
                     "name": "Kourindou Version",
@@ -196,7 +196,7 @@
                     ],
                     "rarity": "Common",
                     "second_hand_cost": "Normal",
-                    "link": "https://www.gift-gift.jp/nui/nui423.html"
+                    "gift_link": "https://www.gift-gift.jp/nui/nui423.html"
                 },
                 {
                     "name": "Version 1.5",
@@ -208,7 +208,7 @@
                     "rarity": "Common",
                     "second_hand_cost": "Normal",
                     "price_range": "$70 - $120",
-                    "link": "https://www.gift-gift.jp/nui/nui898.html"
+                    "gift_link": "https://www.gift-gift.jp/nui/nui898.html"
                 }
             ],
             "straps": [
@@ -221,7 +221,7 @@
                     ],
                     "rarity": "Rare",
                     "second_hand_cost": "Normal",
-                    "link": "https://www.gift-gift.jp/nui/nui123.html"
+                    "gift_link": "https://www.gift-gift.jp/nui/nui123.html"
                 },
                 {
                     "name": "Kourindou Version",
@@ -232,7 +232,7 @@
                     ],
                     "rarity": "Rare",
                     "second_hand_cost": "Normal",
-                    "link": "https://www.gift-gift.jp/nui/nui453.html"
+                    "gift_link": "https://www.gift-gift.jp/nui/nui453.html"
                 },
                 {
                     "name": "Plush Strap",
@@ -242,7 +242,7 @@
                         2020
                     ],
                     "rarity": "Common",
-                    "link": "https://www.gift-gift.jp/nui/nui746.html"
+                    "gift_link": "https://www.gift-gift.jp/nui/nui746.html"
                 }
             ],
             "dekas": [
@@ -257,7 +257,7 @@
                     ],
                     "rarity": "Super Rare",
                     "second_hand_cost": "High",
-                    "link": "https://www.gift-gift.jp/archive/nui/nui023.html"
+                    "gift_link": "https://www.gift-gift.jp/archive/nui/nui023.html"
                 },
                 {
                     "name": "Kourindou Version",
@@ -268,7 +268,7 @@
                     ],
                     "rarity": "Super Rare",
                     "second_hand_cost": "Normal",
-                    "link": "https://www.gift-gift.jp/nui/nui740.html"
+                    "gift_link": "https://www.gift-gift.jp/nui/nui740.html"
                 }
             ],
             "puppets": [
@@ -281,7 +281,7 @@
                     ],
                     "rarity": "Rare",
                     "second_hand_cost": "High",
-                    "link": "https://www.gift-gift.jp/nui/nui022.html"
+                    "gift_link": "https://www.gift-gift.jp/nui/nui022.html"
                 }
             ]
         },
@@ -301,7 +301,7 @@
                     ],
                     "rarity": "Rare",
                     "second_hand_cost": "Normal",
-                    "link": "https://www.gift-gift.jp/nui/nui004.html"
+                    "gift_link": "https://www.gift-gift.jp/nui/nui004.html"
                 },
                 {
                     "name": "Nendroid Plus",
@@ -312,7 +312,7 @@
                     ],
                     "rarity": "Rare",
                     "second_hand_cost": "High",
-                    "link": "https://www.gift-gift.jp/archive/nui/nui044.html"
+                    "gift_link": "https://www.gift-gift.jp/archive/nui/nui044.html"
                 },
                 {
                     "name": "Kourindou Version",
@@ -328,7 +328,7 @@
                     ],
                     "rarity": "Common",
                     "second_hand_cost": "Normal",
-                    "link": "https://www.gift-gift.jp/nui/nui356.html"
+                    "gift_link": "https://www.gift-gift.jp/nui/nui356.html"
                 },
                 {
                     "name": "Inu (Dog) Version",
@@ -337,7 +337,7 @@
                     "release_dates": [
                         2009
                     ],
-                    "link": "",
+                    "gift_link": "",
                     "rarity": "Rare",
                     "second_hand_cost": "Very High",
                     "price_range": "$70 - $110"
@@ -353,7 +353,7 @@
                     ],
                     "rarity": "Rare",
                     "second_hand_cost": "Normal",
-                    "link": "https://www.gift-gift.jp/nui/nui152.html"
+                    "gift_link": "https://www.gift-gift.jp/nui/nui152.html"
                 },
                 {
                     "name": "Plush Strap",
@@ -364,7 +364,7 @@
                     ],
                     "rarity": "Common",
                     "price_range": "$20",
-                    "link": "https://www.gift-gift.jp/nui/nui903.html"
+                    "gift_link": "https://www.gift-gift.jp/nui/nui903.html"
                 }
             ],
             "dekas": [
@@ -377,7 +377,7 @@
                     ],
                     "rarity": "Super Rare",
                     "second_hand_cost": "Normal",
-                    "link": "https://www.gift-gift.jp/nui/nui853.html"
+                    "gift_link": "https://www.gift-gift.jp/nui/nui853.html"
                 }
             ]
         },
@@ -397,7 +397,7 @@
                     ],
                     "rarity": "Common",
                     "second_hand_cost": "Normal",
-                    "link": "https://www.gift-gift.jp/nui/nui005.html"
+                    "gift_link": "https://www.gift-gift.jp/nui/nui005.html"
                 },
                 {
                     "name": "Nendroid Plus",
@@ -409,7 +409,7 @@
                     ],
                     "rarity": "Rare",
                     "second_hand_cost": "High",
-                    "link": "https://www.gift-gift.jp/archive/nui/nui105.html"
+                    "gift_link": "https://www.gift-gift.jp/archive/nui/nui105.html"
                 },
                 {
                     "name": "Kourindou Version",
@@ -424,7 +424,7 @@
                     ],
                     "rarity": "Common",
                     "second_hand_cost": "Normal",
-                    "link": "https://www.gift-gift.jp/nui/nui364.html"
+                    "gift_link": "https://www.gift-gift.jp/nui/nui364.html"
                 },
                 {
                     "name": "Version 1.5",
@@ -437,7 +437,7 @@
                     ],
                     "rarity": "Common",
                     "second_hand_cost": "Normal",
-                    "link": "https://www.gift-gift.jp/nui/nui686.html"
+                    "gift_link": "https://www.gift-gift.jp/nui/nui686.html"
                 }
             ],
             "straps": [
@@ -450,7 +450,7 @@
                     ],
                     "rarity": "Rare",
                     "second_hand_cost": "Normal",
-                    "link": "https://www.gift-gift.jp/nui/nui168.html"
+                    "gift_link": "https://www.gift-gift.jp/nui/nui168.html"
                 },
                 {
                     "name": "Plush Strap",
@@ -461,7 +461,7 @@
                     ],
                     "rarity": "Common",
                     "price_range": "$20",
-                    "link": "https://www.gift-gift.jp/nui/nui901.html"
+                    "gift_link": "https://www.gift-gift.jp/nui/nui901.html"
                 }
             ],
             "dekas": [
@@ -474,7 +474,7 @@
                     ],
                     "rarity": "Super Super Rare",
                     "second_hand_cost": "High",
-                    "link": "https://www.gift-gift.jp/archive/nui/nui124.html"
+                    "gift_link": "https://www.gift-gift.jp/archive/nui/nui124.html"
                 },
                 {
                     "name": "Version 1.5",
@@ -485,7 +485,7 @@
                     ],
                     "rarity": "Super Rare",
                     "second_hand_cost": "Normal",
-                    "link": "https://www.gift-gift.jp/nui/nui851.html"
+                    "gift_link": "https://www.gift-gift.jp/nui/nui851.html"
                 }
 
             ]
@@ -506,7 +506,7 @@
                     ],
                     "rarity": "Uncommon",
                     "second_hand_cost": "Normal",
-                    "link": "https://www.gift-gift.jp/nui/nui006.html"
+                    "gift_link": "https://www.gift-gift.jp/nui/nui006.html"
                 },
                 {
                     "name": "Version 1.5",
@@ -519,7 +519,7 @@
                     ],
                     "rarity": "Common",
                     "second_hand_cost": "Normal",
-                    "link": "https://www.gift-gift.jp/nui/nui492.html"
+                    "gift_link": "https://www.gift-gift.jp/nui/nui492.html"
                 }
             ]
         },
@@ -539,7 +539,7 @@
                     ],
                     "rarity": "Common",
                     "second_hand_cost": "Normal",
-                    "link": "https://www.gift-gift.jp/nui/nui007.html"
+                    "gift_link": "https://www.gift-gift.jp/nui/nui007.html"
                 },
                 {
                     "name": "Version 1.5",
@@ -553,7 +553,7 @@
                     ],
                     "rarity": "Common",
                     "second_hand_cost": "Normal",
-                    "link": "https://www.gift-gift.jp/nui/nui491.html"
+                    "gift_link": "https://www.gift-gift.jp/nui/nui491.html"
                 }
             ]
         },
@@ -573,7 +573,7 @@
                     ],
                     "rarity": "Common",
                     "second_hand_cost": "Normal",
-                    "link": "https://www.gift-gift.jp/nui/nui008.html"
+                    "gift_link": "https://www.gift-gift.jp/nui/nui008.html"
                 },
                 {
                     "name": "Nendroid Plus",
@@ -585,7 +585,7 @@
                     ],
                     "rarity": "Rare",
                     "second_hand_cost": "High",
-                    "link": "https://www.gift-gift.jp/archive/nui/nui106.html"
+                    "gift_link": "https://www.gift-gift.jp/archive/nui/nui106.html"
                 },
                 {
                     "name": "Version 1.5",
@@ -602,7 +602,7 @@
                     ],
                     "rarity": "Common",
                     "second_hand_cost": "Normal",
-                    "link": "https://www.gift-gift.jp/nui/nui346.html"
+                    "gift_link": "https://www.gift-gift.jp/nui/nui346.html"
                 }
             ],
             "dekas": [
@@ -615,7 +615,7 @@
                     ],
                     "rarity": "Super Super Rare",
                     "second_hand_cost": "High",
-                    "link": "https://www.gift-gift.jp/archive/nui/nui189.html"
+                    "gift_link": "https://www.gift-gift.jp/archive/nui/nui189.html"
                 },
                 {
                     "name": "Version 1.5",
@@ -626,7 +626,7 @@
                     ],
                     "rarity": "Super Rare",
                     "second_hand_cost": "Normal",
-                    "link": "https://www.gift-gift.jp/nui/nui852.html"
+                    "gift_link": "https://www.gift-gift.jp/nui/nui852.html"
                 }
             ],
             "straps": [
@@ -639,7 +639,7 @@
                     ],
                     "rarity": "Rare",
                     "second_hand_cost": "Normal",
-                    "link": "https://www.gift-gift.jp/nui/nui181.html"
+                    "gift_link": "https://www.gift-gift.jp/nui/nui181.html"
                 },
                 {
                     "name": "Plush Strap",
@@ -650,7 +650,7 @@
                     ],
                     "rarity": "Common",
                     "price_range": "$20",
-                    "link": "https://www.gift-gift.jp/nui/nui902.html"
+                    "gift_link": "https://www.gift-gift.jp/nui/nui902.html"
                 }
             ]
         },
@@ -669,7 +669,7 @@
                     ],
                     "rarity": "Common",
                     "second_hand_cost": "Normal",
-                    "link": "https://www.gift-gift.jp/nui/nui013.html"
+                    "gift_link": "https://www.gift-gift.jp/nui/nui013.html"
                 },
                 {
                     "name": "Nendroid Plus",
@@ -680,7 +680,7 @@
                     ],
                     "rarity": "Rare",
                     "second_hand_cost": "Normal",
-                    "link": "https://www.gift-gift.jp/archive/nui/nui045.html"
+                    "gift_link": "https://www.gift-gift.jp/archive/nui/nui045.html"
                 },
                 {
                     "name": "Version 2",
@@ -694,7 +694,7 @@
                     ],
                     "rarity": "Common",
                     "second_hand_cost": "Normal",
-                    "link": "https://www.gift-gift.jp/nui/nui290.html"
+                    "gift_link": "https://www.gift-gift.jp/nui/nui290.html"
                 }
             ],
             "straps": [
@@ -707,7 +707,7 @@
                     ],
                     "rarity": "Rare",
                     "second_hand_cost": "Normal",
-                    "link": "https://www.gift-gift.jp/nui/nui153.html"
+                    "gift_link": "https://www.gift-gift.jp/nui/nui153.html"
                 }
             ]
         },
@@ -727,7 +727,7 @@
                     ],
                     "rarity": "Common",
                     "second_hand_cost": "Very High",
-                    "link": "https://www.gift-gift.jp/nui/nui014.html"
+                    "gift_link": "https://www.gift-gift.jp/nui/nui014.html"
                 },
                 {
                     "name": "Nendroid Plus",
@@ -738,7 +738,7 @@
                     ],
                     "rarity": "Rare",
                     "second_hand_cost": "Very High",
-                    "link": "https://www.gift-gift.jp/archive/nui/nui195.html"
+                    "gift_link": "https://www.gift-gift.jp/archive/nui/nui195.html"
                 },
                 {
                     "name": "Version 1.5",
@@ -753,7 +753,7 @@
                     ],
                     "rarity": "Common",
                     "second_hand_cost": "Very High",
-                    "link": "https://www.gift-gift.jp/nui/nui558.html"
+                    "gift_link": "https://www.gift-gift.jp/nui/nui558.html"
                 },
                 {
                     "name": "Tanned Version",
@@ -766,7 +766,7 @@
                     ],
                     "rarity": "Unommon",
                     "second_hand_cost": "Very High",
-                    "link": "https://www.gift-gift.jp/nui/nui559.html"
+                    "gift_link": "https://www.gift-gift.jp/nui/nui559.html"
                 }
             ],
             "dekas": [
@@ -780,7 +780,7 @@
                     ],
                     "rarity": "Super Super Rare",
                     "second_hand_cost": "Very High",
-                    "link": "https://www.gift-gift.jp/archive/nui/nui050.html"
+                    "gift_link": "https://www.gift-gift.jp/archive/nui/nui050.html"
                 }
             ]
         },
@@ -799,7 +799,7 @@
                     ],
                     "rarity": "Super Rare",
                     "second_hand_cost": "High",
-                    "link": "https://www.gift-gift.jp/nui/nui015.html"
+                    "gift_link": "https://www.gift-gift.jp/nui/nui015.html"
                 }
             ]
         },
@@ -818,7 +818,7 @@
                     ],
                     "rarity": "Uncommon",
                     "second_hand_cost": "Normal",
-                    "link": "https://www.gift-gift.jp/nui/nui039.html"
+                    "gift_link": "https://www.gift-gift.jp/nui/nui039.html"
                 },
                 {
                     "name": "Version 1.5",
@@ -833,7 +833,7 @@
                     ],
                     "rarity": "Common",
                     "second_hand_cost": "Normal",
-                    "link": "https://www.gift-gift.jp/nui/nui489.html"
+                    "gift_link": "https://www.gift-gift.jp/nui/nui489.html"
                 },
                 {
                     "name": "Lost Word Mysterious Sword Master Version",
@@ -843,7 +843,7 @@
                         2022
                     ],
                     "rarity": "Uncommon",
-                    "link": "https://www.gift-gift.jp/nui/nui918.html"
+                    "gift_link": "https://www.gift-gift.jp/nui/nui918.html"
                 }
             ],
             "dekas": [
@@ -856,7 +856,7 @@
                     ],
                     "rarity": "Super Rare",
                     "second_hand_cost": "Normal",
-                    "link": "https://www.gift-gift.jp/nui/nui920.html"
+                    "gift_link": "https://www.gift-gift.jp/nui/nui920.html"
                 }
             ]
         },
@@ -875,7 +875,7 @@
                     ],
                     "rarity": "Uncommon",
                     "second_hand_cost": "Normal",
-                    "link": "https://www.gift-gift.jp/nui/nui040.html"
+                    "gift_link": "https://www.gift-gift.jp/nui/nui040.html"
                 },
                 {
                     "name": "Version 1.5",
@@ -890,7 +890,7 @@
                     ],
                     "rarity": "Common",
                     "second_hand_cost": "Normal",
-                    "link": "https://www.gift-gift.jp/nui/nui490.html"
+                    "gift_link": "https://www.gift-gift.jp/nui/nui490.html"
                 }
             ],
             "dekas": [
@@ -903,7 +903,7 @@
                     ],
                     "rarity": "Super Rare",
                     "second_hand_cost": "Normal",
-                    "link": "https://www.gift-gift.jp/nui/nui921.html"
+                    "gift_link": "https://www.gift-gift.jp/nui/nui921.html"
                 }
             ]
         },
@@ -921,7 +921,7 @@
                     ],
                     "rarity": "Super Rare",
                     "second_hand_cost": "High",
-                    "link": "https://www.gift-gift.jp/nui/nui056.html"
+                    "gift_link": "https://www.gift-gift.jp/nui/nui056.html"
                 }
             ]
         },
@@ -940,7 +940,7 @@
                     ],
                     "rarity": "Uncommon",
                     "second_hand_cost": "Normal",
-                    "link": "https://www.gift-gift.jp/nui/nui080.html"
+                    "gift_link": "https://www.gift-gift.jp/nui/nui080.html"
                 },
                 {
                     "name": "Version 1.5",
@@ -954,7 +954,7 @@
                     ],
                     "rarity": "Common",
                     "second_hand_cost": "Normal",
-                    "link": "https://www.gift-gift.jp/nui/nui523.html"
+                    "gift_link": "https://www.gift-gift.jp/nui/nui523.html"
                 }
             ]
         },
@@ -973,7 +973,7 @@
                     ],
                     "rarity": "Uncommon",
                     "second_hand_cost": "High",
-                    "link": "https://www.gift-gift.jp/nui/nui081.html"
+                    "gift_link": "https://www.gift-gift.jp/nui/nui081.html"
                 },
                 {
                     "name": "Version 1.5",
@@ -987,7 +987,7 @@
                     ],
                     "rarity": "Rare",
                     "second_hand_cost": "High",
-                    "link": "https://www.gift-gift.jp/nui/nui524.html"
+                    "gift_link": "https://www.gift-gift.jp/nui/nui524.html"
                 }
             ]
         },
@@ -1006,7 +1006,7 @@
                     ],
                     "rarity": "Uncommon",
                     "second_hand_cost": "Normal",
-                    "link": "https://www.gift-gift.jp/nui/nui082.html"
+                    "gift_link": "https://www.gift-gift.jp/nui/nui082.html"
                 },
                 {
                     "name": "Version 1.5",
@@ -1019,7 +1019,7 @@
                     ],
                     "rarity": "Common",
                     "second_hand_cost": "Normal",
-                    "link": "https://www.gift-gift.jp/nui/nui525.html"
+                    "gift_link": "https://www.gift-gift.jp/nui/nui525.html"
                 }
             ]
         },
@@ -1039,7 +1039,7 @@
                     ],
                     "rarity": "Uncommon",
                     "second_hand_cost": "Normal",
-                    "link": "https://www.gift-gift.jp/nui/nui138.html"
+                    "gift_link": "https://www.gift-gift.jp/nui/nui138.html"
                 }
             ]
         },
@@ -1061,7 +1061,7 @@
                     ],
                     "rarity": "Uncommon",
                     "second_hand_cost": "Normal",
-                    "link": "https://www.gift-gift.jp/nui/nui139.html"
+                    "gift_link": "https://www.gift-gift.jp/nui/nui139.html"
                 }
             ]
         },
@@ -1085,7 +1085,7 @@
                     ],
                     "rarity": "Common",
                     "second_hand_cost": "Normal",
-                    "link": "https://www.gift-gift.jp/nui/nui196.html"
+                    "gift_link": "https://www.gift-gift.jp/nui/nui196.html"
                 }
             ],
             "straps": [
@@ -1098,7 +1098,7 @@
                     ],
                     "rarity": "Common",
                     "second_hand_cost": "Normal",
-                    "link": "https://www.gift-gift.jp/nui/nui808.html"
+                    "gift_link": "https://www.gift-gift.jp/nui/nui808.html"
                 }
             ],
             "dekas":  [
@@ -1112,7 +1112,7 @@
                     ],
                     "rarity": "Super Rare",
                     "second_hand_cost": "Normal",
-                    "link": "https://www.gift-gift.jp/nui/nui820.html"
+                    "gift_link": "https://www.gift-gift.jp/nui/nui820.html"
               }
             ]
         },
@@ -1137,7 +1137,7 @@
                     ],
                     "rarity": "Common",
                     "second_hand_cost": "Normal",
-                    "link": "https://www.gift-gift.jp/nui/nui197.html"
+                    "gift_link": "https://www.gift-gift.jp/nui/nui197.html"
                 }
             ],
             "straps": [
@@ -1150,7 +1150,7 @@
                     ],
                     "rarity": "Common",
                     "second_hand_cost": "Normal",
-                    "link": "https://www.gift-gift.jp/nui/nui809.html"
+                    "gift_link": "https://www.gift-gift.jp/nui/nui809.html"
                 }
             ],
             "dekas": [
@@ -1164,7 +1164,7 @@
                     ],
                     "rarity": "Super Rare",
                     "second_hand_cost": "Normal",
-                    "link": "https://www.gift-gift.jp/nui/nui821.html"
+                    "gift_link": "https://www.gift-gift.jp/nui/nui821.html"
                 }
             ]
         },
@@ -1185,7 +1185,7 @@
                     ],
                     "rarity": "Rare",
                     "second_hand_cost": "Normal",
-                    "link": "https://www.gift-gift.jp/nui/nui236.html"
+                    "gift_link": "https://www.gift-gift.jp/nui/nui236.html"
                 },
                 {
                     "name": "Hisouten Version",
@@ -1197,7 +1197,7 @@
                     ],
                     "rarity": "Rare",
                     "second_hand_cost": "Normal",
-                    "link": "https://www.gift-gift.jp/nui/nui424.html"
+                    "gift_link": "https://www.gift-gift.jp/nui/nui424.html"
                 }
             ]
         },
@@ -1218,7 +1218,7 @@
                     ],
                     "rarity": "Uncommon",
                     "second_hand_cost": "Normal",
-                    "link": "https://www.gift-gift.jp/nui/nui237.html"
+                    "gift_link": "https://www.gift-gift.jp/nui/nui237.html"
                 }
             ]
         },
@@ -1242,7 +1242,7 @@
                     ],
                     "rarity": "Common",
                     "second_hand_cost": "Normal",
-                    "link": "https://www.gift-gift.jp/nui/nui310.html"
+                    "gift_link": "https://www.gift-gift.jp/nui/nui310.html"
                 }
             ]
         },
@@ -1262,7 +1262,7 @@
                     ],
                     "rarity": "Common",
                     "second_hand_cost": "Normal",
-                    "link": "https://www.gift-gift.jp/nui/nui454.html"
+                    "gift_link": "https://www.gift-gift.jp/nui/nui454.html"
                 }
             ]
         },
@@ -1279,7 +1279,7 @@
                     ],
                     "rarity": "Rare",
                     "second_hand_cost": "High",
-                    "link": "https://www.gift-gift.jp/archive/nui/images/nui058_01.jpg"
+                    "gift_link": "https://www.gift-gift.jp/archive/nui/images/nui058_01.jpg"
                 },
                 {
                     "name": "Version 1",
@@ -1294,7 +1294,7 @@
                     ],
                     "rarity": "Common",
                     "second_hand_cost": "Normal",
-                    "link": "https://www.gift-gift.jp/nui/nui493.html"
+                    "gift_link": "https://www.gift-gift.jp/nui/nui493.html"
                 }
             ]
         },
@@ -1313,7 +1313,7 @@
                     ],
                     "rarity": "Common",
                     "second_hand_cost": "Normal",
-                    "link": "https://www.gift-gift.jp/nui/nui494.html"
+                    "gift_link": "https://www.gift-gift.jp/nui/nui494.html"
                 }
             ]
         },
@@ -1334,7 +1334,7 @@
                     ],
                     "rarity": "Uncommon",
                     "second_hand_cost": "Normal",
-                    "link": "https://www.gift-gift.jp/nui/nui593.html"
+                    "gift_link": "https://www.gift-gift.jp/nui/nui593.html"
                 }
             ]
         },
@@ -1353,7 +1353,7 @@
                     ],
                     "rarity": "Common",
                     "second_hand_cost": "Normal",
-                    "link": "https://www.gift-gift.jp/nui/nui644.html"
+                    "gift_link": "https://www.gift-gift.jp/nui/nui644.html"
                 }
             ]
         },
@@ -1373,7 +1373,7 @@
                     ],
                     "rarity": "Common",
                     "second_hand_cost": "Normal",
-                    "link": "https://www.gift-gift.jp/nui/nui685.html"
+                    "gift_link": "https://www.gift-gift.jp/nui/nui685.html"
                 }
             ]
         },
@@ -1391,7 +1391,7 @@
                     ],
                     "rarity": "Common",
                     "second_hand_cost": "Normal",
-                    "link": "https://www.gift-gift.jp/nui/nui773.html"
+                    "gift_link": "https://www.gift-gift.jp/nui/nui773.html"
                 }
             ]
         },
@@ -1409,7 +1409,7 @@
                     ],
                     "rarity": "Common",
                     "second_hand_cost": "Normal",
-                    "link": "https://www.gift-gift.jp/nui/nui807.html"
+                    "gift_link": "https://www.gift-gift.jp/nui/nui807.html"
                 }
             ]
         },
@@ -1427,7 +1427,7 @@
                     ],
                     "rarity": "Common",
                     "second_hand_cost": "Normal",
-                    "link": "https://www.gift-gift.jp/nui/nui834.html"
+                    "gift_link": "https://www.gift-gift.jp/nui/nui834.html"
                 }
             ]
         },
@@ -1445,7 +1445,7 @@
                     ],
                     "rarity": "Common",
                     "second_hand_cost": "Normal",
-                    "link": "https://www.gift-gift.jp/nui/nui835.html"
+                    "gift_link": "https://www.gift-gift.jp/nui/nui835.html"
                 }
             ]
         },
@@ -1463,7 +1463,7 @@
                     ],
                     "rarity": "Common",
                     "second_hand_cost": "Normal",
-                    "link": "https://www.gift-gift.jp/nui/nui836.html"
+                    "gift_link": "https://www.gift-gift.jp/nui/nui836.html"
                 }
             ]
         },
@@ -1481,7 +1481,7 @@
                     ],
                     "rarity": "Common",
                     "second_hand_cost": "Normal",
-                    "link": "https://www.gift-gift.jp/nui/nui837.html"
+                    "gift_link": "https://www.gift-gift.jp/nui/nui837.html"
                 }
             ]
         },
@@ -1498,7 +1498,7 @@
                     ],
                     "rarity": "Common",
                     "second_hand_cost": "Normal",
-                    "link": "https://www.gift-gift.jp/nui/nui899.html"
+                    "gift_link": "https://www.gift-gift.jp/nui/nui899.html"
                 }
             ]
         },
@@ -1515,7 +1515,7 @@
                     ],
                     "rarity": "Common",
                     "second_hand_cost": "Normal",
-                    "link": "https://www.gift-gift.jp/nui/nui900.html"
+                    "gift_link": "https://www.gift-gift.jp/nui/nui900.html"
                 }
             ]
         }
@@ -2603,35 +2603,35 @@
     "forwarders": [
         {
             "name": "Big in Japan",
-            "link": "https://www.biginjap.com/",
+            "gift_link": "https://www.biginjap.com/",
             "per_package": "￥500",
             "consolidation": "￥1500 for any number of packages",
             "notes": ""
         },
         {
             "name": "Blackship",
-            "link": "https://blackship.com/",
+            "gift_link": "https://blackship.com/",
             "per_package": "$1",
             "consolidation": "$3 per package",
             "notes": "There is an optional monthly subscription service and many optional features"
         },
         {
             "name": "Japamart",
-            "link": "https://japamart.com/",
+            "gift_link": "https://japamart.com/",
             "per_package": "5% + a commission based on total price - about $6 for a single Fumo",
             "consolidation": "Apparently free",
             "notes": "Does not accept forwards from auction sites; only accepts PayPal"
         },
         {
             "name": "JPN-DEPOT",
-            "link": "https://www.jpn-depot.com/",
+            "gift_link": "https://www.jpn-depot.com/",
             "per_package": "￥200",
             "consolidation": "￥100 per package",
             "notes": ""
         },
         {
             "name": "Tenso",
-            "link": "https://www.tenso.com/en/",
+            "gift_link": "https://www.tenso.com/en/",
             "per_package": "Based on weight - about ￥150 for a single Fumo",
             "consolidation": "￥200 + ￥300 per package beyond the first",
             "notes": "Partnered with Buyee"
@@ -2640,7 +2640,7 @@
     "proxies": [
         {
             "name": "Big in Japan",
-            "link": "https://www.biginjap.com/",
+            "gift_link": "https://www.biginjap.com/",
             "per_order": "￥500 + 15%",
             "other_fees": "",
             "consolidation": "Not offered",
@@ -2649,7 +2649,7 @@
         },
         {
             "name": "Buyee",
-            "link": "https://buyee.jp/",
+            "gift_link": "https://buyee.jp/",
             "per_order": "￥300; Optional ￥0-500 for insurance/inspection",
             "other_fees": "￥200 per successful bid on Yahoo Auctions",
             "consolidation": "￥500 for two packages or ￥1000 for 3 or more",
@@ -2658,7 +2658,7 @@
         },
         {
             "name": "From Japan",
-            "link": "https://www.fromjapan.co.jp/en/",
+            "gift_link": "https://www.fromjapan.co.jp/en/",
             "per_order": "￥300, or ￥700 if you want insurance",
             "other_fees": "￥200 per successful bid on Yahoo Auctions",
             "consolidation": "Free",
@@ -2667,7 +2667,7 @@
         },
         {
             "name": "J-Subculture",
-            "link": "https://www.j-subculture.com/",
+            "gift_link": "https://www.j-subculture.com/",
             "per_order": "￥500, or ￥850 if you want insurance",
             "other_fees": "￥50 per item won at auction",
             "consolidation": "Free for up to 5 items",
@@ -2676,7 +2676,7 @@
         },
         {
             "name": "Japamart",
-            "link": "https://japamart.com/",
+            "gift_link": "https://japamart.com/",
             "per_order": "5% + $2 + a commission based on total price, about $10 for a single Fumo",
             "other_fees": "Some shenanigans if multiple Japamart users bid on the same item",
             "consolidation": "Apparently free",
@@ -2685,7 +2685,7 @@
         },
         {
             "name": "Jauce",
-            "link": "https://www.jauce.com/",
+            "gift_link": "https://www.jauce.com/",
             "per_order": "1300￥ + 8% for non-auction; 700￥ + 8% for auctions",
             "other_fees": "",
             "consolidation": "￥300 per package + ￥120/kg",
@@ -2694,7 +2694,7 @@
         },
         {
             "name": "JPN-DEPOT",
-            "link": "https://www.jpn-depot.com/",
+            "gift_link": "https://www.jpn-depot.com/",
             "per_order": "￥400",
             "other_fees": "￥200 per auction on Yahoo Auctions",
             "consolidation": "￥100 per package",
@@ -2703,7 +2703,7 @@
         },
         {
             "name": "Kuboten",
-            "link": "https://www.kuboten.com/",
+            "gift_link": "https://www.kuboten.com/",
             "per_order": "￥1000 + 10%",
             "other_fees": "3.9% money transfer fee",
             "consolidation": "Apparently free",
@@ -2712,7 +2712,7 @@
         },
         {
             "name": "Noppin",
-            "link": "https://noppin.com/",
+            "gift_link": "https://noppin.com/",
             "per_order": "Non-auction: ￥1000 + 10%; 12.5% (minimum ￥500) for auctions",
             "other_fees": "Additional charges based on size and weight; 3.5% money transfer fee",
             "consolidation": "Free",
@@ -2721,7 +2721,7 @@
         },
         {
             "name": "Proxy Rabbit Japan",
-            "link": "https://www.proxyrabbitjapan.com/",
+            "gift_link": "https://www.proxyrabbitjapan.com/",
             "per_order": "￥400 + 5%",
             "other_fees": "3.6% money transfer fee",
             "consolidation": "Free for up to 5 items",
@@ -2730,7 +2730,7 @@
         },
         {
             "name": "Sendico",
-            "link": "https://www.sendico.com/",
+            "gift_link": "https://www.sendico.com/",
             "per_order": "￥500",
             "other_fees": "",
             "consolidation": "￥500 per item",
@@ -2739,7 +2739,7 @@
         },
         {
             "name": "Treasure Japan",
-            "link": "https://treasure-japan.com/",
+            "gift_link": "https://treasure-japan.com/",
             "per_order": "Rates vary by price range and weight; minimum ￥700.",
             "other_fees": "4% money transfer fee",
             "consolidation": "Not offered",
@@ -2748,7 +2748,7 @@
         },
         {
             "name": "White Rabbit Express",
-            "link": "https://www.whiterabbitexpress.com/",
+            "gift_link": "https://www.whiterabbitexpress.com/",
             "per_order": "$5 + 9.9%",
             "other_fees": "",
             "consolidation": "Free",
@@ -2757,7 +2757,7 @@
         },
         {
             "name": "Zenmarket",
-            "link": "https://zenmarket.jp/en/",
+            "gift_link": "https://zenmarket.jp/en/",
             "per_order": "￥300",
             "other_fees": "3.5% money transfer fee",
             "consolidation": "Free",
@@ -2768,7 +2768,7 @@
     "storefronts": [
         {
             "name": "Gift Online Shop",
-            "link": "http://giftshop.jz.shopserve.jp/",
+            "gift_link": "http://giftshop.jz.shopserve.jp/",
             "desc": [
                 "The source of all Fumos. Prices are always cheapest here.",
                 "The most popular Fumos tend to sell out in an hour or less.",
@@ -2778,7 +2778,7 @@
         },
         {
             "name": "Amiami",
-            "link": "https://www.amiami.com/eng/",
+            "gift_link": "https://www.amiami.com/eng/",
             "desc": [
                 "Since August 2021, Gift has been officially releasing fumos on AmiAmi.",
                 "Offers shipping through DHL, EMS, and surface mail to most international locations.",
@@ -2789,7 +2789,7 @@
         },
         {
             "name": "Suruga-ya",
-            "link": "https://www.suruga-ya.jp/",
+            "gift_link": "https://www.suruga-ya.jp/",
             "desc": [
                 "Second-hand retailer of lots of hobby goods.",
                 "Will nearly always have Fumos in stock.",
@@ -2799,7 +2799,7 @@
         },
         {
             "name": "Mandarake",
-            "link": "https://order.mandarake.co.jp/order/",
+            "gift_link": "https://order.mandarake.co.jp/order/",
             "desc": [
                 "Sells preowned hobby goods.",
                 "Fumos here tend to sell very quickly.",
@@ -2808,7 +2808,7 @@
         },
         {
             "name": "Amazon Japan",
-            "link": "https://www.amazon.co.jp/",
+            "gift_link": "https://www.amazon.co.jp/",
             "desc": [
                 "It's Amazon but in Japanese.",
                 "Fumos are rarely listed here and are usually very expensive."
@@ -2816,7 +2816,7 @@
         },
         {
             "name": "SolarisJapan",
-            "link": "https://solarisjapan.com/",
+            "gift_link": "https://solarisjapan.com/",
             "desc": [
                 "English storefront for Japanese figures and merchandise.",
                 "Prices are very high."
@@ -2824,7 +2824,7 @@
         },
         {
             "name": "Goods Republic",
-            "link": "https://goodsrepublic.com/",
+            "gift_link": "https://goodsrepublic.com/",
             "desc": [
                 "English storefront for Japanese figures and merchandise.",
                 "Prices are <i>very</i> high.",
@@ -2833,7 +2833,7 @@
         },
         {
             "name": "JPFigures",
-            "link": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+            "gift_link": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
             "desc": [
                 "Literally a scam. Do not purchase anything from them.",
                 "They have a nice looking webpage. Don't be fooled.",
@@ -2844,7 +2844,7 @@
     "auction_houses": [
         {
             "name": "Yahoo Auctions JP",
-            "link": "https://auctions.yahoo.co.jp/",
+            "gift_link": "https://auctions.yahoo.co.jp/",
             "desc": [
                 "Basically Japanese eBay. Every proxy can interact with it.",
                 "Always has Fumos listed, and mostly at reasonable prices.",
@@ -2854,7 +2854,7 @@
         },
         {
             "name": "Mercari",
-            "link": "https://www.mercari.com/jp/",
+            "gift_link": "https://www.mercari.com/jp/",
             "desc": [
                 "No auctions, just direct sales.",
                 "Often has individual and group batches of fumos.",
@@ -2863,7 +2863,7 @@
         },
         {
             "name": "Rakuten",
-            "link": "https://search.rakuten.co.jp/",
+            "gift_link": "https://search.rakuten.co.jp/",
             "desc": [
                 "A storefront for both corporations and individual sellers.",
                 "When searching, use 東方ぬいぐるみ (Touhou Plush) not 東方ふもふも (Touhou Fumo).",
