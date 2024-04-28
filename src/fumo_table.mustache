@@ -14,12 +14,12 @@
 
     <h1>Fumo Table</h1>
     <table id="fumo-table" class="striped">
-        <!-- <caption>Years are initial release dates</caption> -->
         <thead>
             <tr>
                 <th>Character</th>
                 <th class="left">Regular Fumos</th>
                 <th class="left">Toy Straps</th>
+                <th class="left">Mannaka Fumos</th>
                 <th class="left">Deka Fumos</th>
                 <th class="left">Puppets</th>
             </tr>
@@ -43,6 +43,14 @@
                     {{^straps}}
                     &nbsp;
                     {{/straps}}
+                </td>
+                <td class="left">
+                    {{#mannakas}}
+                    <a href='/fumo_list.html#{{id}}'>{{name}}</a><br />
+                    {{/mannakas}}
+                    {{^mannakas}}
+                    &nbsp;
+                    {{/mannakas}}
                 </td>
                 <td class="left">
                     {{#dekas}}

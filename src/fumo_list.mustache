@@ -101,6 +101,46 @@
                     </div>
                 </li>
                 {{/straps}}
+                {{#mannakas}}
+                <li>
+                    <a name='{{id}}'></a>
+                    <h4>Deka - {{name}}</h4>
+                    <div class="list-entry">
+                        <img src='img/{{id}}.jpg' />
+                        <div>
+                            <ul>
+                                <li>Type: Mannaka Fumo</li>
+                                <!-- 
+                                <li>
+                                    Rarity:
+                                    <span class="rarity" data-rarity='{{rarity}}'>{{rarity}}</span>
+                                </li>
+                                <li>
+                                    Second Hand Cost:
+                                    <span class="second-hand-cost" data-second-hand-cost='{{second_hand_cost}}'>{{second_hand_cost}}</span>
+                                </li>
+                                <li>
+                                    Release Years:
+                                    {{#release_dates}}
+                                        <span class="comma-separated">{{.}}</span>
+                                    {{/release_dates}}
+                                </li>
+                                -->
+                                {{#amiami_link}}
+                                <li>
+                                    <a href='{{amiami_link}}'>AmiAmi Store Page</a>
+                                </li>
+                                {{/amiami_link}}
+                                {{#gift_link}}
+                                <li>
+                                    <a href='{{gift_link}}'>Gift Store Page</a>
+                                </li>
+                                {{/gift_link}}
+                            </ul>
+                        </div>
+                    </div>
+                </li>
+                {{/mannakas}}
                 {{#dekas}}
                 <li>
                     <a name='{{id}}'></a>
