@@ -36,7 +36,7 @@ async function doWork() {
     }
 
     for (let character of fumoData.characters) {
-        console.log('Downloading images of ' + character.name + ' fumos...');
+        console.log('Downloading images of ' + character.ch_name + ' fumos...');
         for (let key of ['regular', 'straps', 'puppets', 'dekas']) {
             if (character.hasOwnProperty(key)) {
                 for (let fumo of character[key]) {
