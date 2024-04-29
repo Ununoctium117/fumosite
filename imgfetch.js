@@ -16,7 +16,7 @@ function downloadFumo(fumo) {
             host: imgUrl.host,
             path: imgUrl.path,
             headers: {
-                'Referer': fumo.link,
+                'Referer': fumo.gift_link,
             }
         }, (resp) => {
             resp.pipe(file);

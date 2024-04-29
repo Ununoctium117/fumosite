@@ -16,7 +16,7 @@
 
     <div id="fumo-list">
         {{#characters}}
-            <h3><a href='{{thwiki}}' name='{{name}}'>{{name}}</a></h3>
+            <h3><a href='{{thwiki}}' name='{{ch_name}}'>{{ch_name}}</a></h3>
             <ul>
                 {{#regular}}
                 <li>
@@ -49,6 +49,12 @@
                                 {{#amiami_link}}
                                 <li>
                                     <a href='{{amiami_link}}'>AmiAmi Store Page</a>
+                                </li>
+                                {{/amiami_link}}
+                                {{^amiami_link}}
+                                <li>
+                                    AmiAmi store link unknown or not yet available.
+                                    <a href='https://www.amiami.com/eng/search/list/?s_keywords={{ch_name}}%20fumo'>AmiAmi Search Link</a>
                                 </li>
                                 {{/amiami_link}}
                                 {{#gift_link}}
@@ -91,6 +97,12 @@
                                     <a href='{{amiami_link}}'>AmiAmi Store Page</a>
                                 </li>
                                 {{/amiami_link}}
+                                {{^amiami_link}}
+                                <li>
+                                    AmiAmi store link unknown or not yet available.
+                                    <a href='https://www.amiami.com/eng/search/list/?s_keywords={{ch_name}}%20fumo'>AmiAmi Search Link</a>
+                                </li>
+                                {{/amiami_link}}
                                 {{#gift_link}}
                                 <li>
                                     <a href='{{gift_link}}'>Gift Store Page</a>
@@ -104,7 +116,7 @@
                 {{#mannakas}}
                 <li>
                     <a name='{{id}}'></a>
-                    <h4>Deka - {{name}}</h4>
+                    <h4>Mannaka - {{name}}</h4>
                     <div class="list-entry">
                         <img src='img/{{id}}.jpg' />
                         <div>
@@ -129,6 +141,12 @@
                                 {{#amiami_link}}
                                 <li>
                                     <a href='{{amiami_link}}'>AmiAmi Store Page</a>
+                                </li>
+                                {{/amiami_link}}
+                                {{^amiami_link}}
+                                <li>
+                                    AmiAmi store link unknown or not yet available.
+                                    <a href='https://www.amiami.com/eng/search/list/?s_keywords={{ch_name}}%20fumo'>AmiAmi Search Link</a>
                                 </li>
                                 {{/amiami_link}}
                                 {{#gift_link}}
@@ -171,6 +189,12 @@
                                     <a href='{{amiami_link}}'>AmiAmi Store Page</a>
                                 </li>
                                 {{/amiami_link}}
+                                {{^amiami_link}}
+                                <li>
+                                    AmiAmi store link unknown or not yet available.
+                                    <a href='https://www.amiami.com/eng/search/list/?s_keywords={{ch_name}}%20fumo'>AmiAmi Search Link</a>
+                                </li>
+                                {{/amiami_link}}
                                 {{#gift_link}}
                                 <li>
                                     <a href='{{gift_link}}'>Gift Store Page</a>
@@ -209,6 +233,12 @@
                                 {{#amiami_link}}
                                 <li>
                                     <a href='{{amiami_link}}'>AmiAmi Store Page</a>
+                                </li>
+                                {{/amiami_link}}
+                                {{^amiami_link}}
+                                <li>
+                                    AmiAmi store link unknown or not yet available.
+                                    <a href='https://www.amiami.com/eng/search/list/?s_keywords={{ch_name}}%20fumo'>AmiAmi Search Link</a>
                                 </li>
                                 {{/amiami_link}}
                                 {{#gift_link}}

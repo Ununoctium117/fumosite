@@ -27,10 +27,10 @@
         <tbody>
             {{#characters}}
             <tr>
-                <td><a href='/fumo_list.html#{{name}}'>{{name}}</a></td>
+                <td><a href='/fumo_list.html#{{ch_name}}'>{{ch_name}}</a></td>
                 <td class="left">
                     {{#regular}}
-                    <a href='/fumo_list.html#{{id}}'>{{name}}</a><br />
+                    <a href='/fumo_list.html#{{id}}' class='vertical-list'>{{name}}</a><br />
                     {{/regular}}
                     {{^regular}}
                     &nbsp;
@@ -38,7 +38,7 @@
                 </td>
                 <td class="left">
                     {{#straps}}
-                    <a href='/fumo_list.html#{{id}}'>{{name}}</a><br />
+                    <a href='/fumo_list.html#{{id}}' class='vertical-list'>{{name}}</a><br />
                     {{/straps}}
                     {{^straps}}
                     &nbsp;
@@ -46,7 +46,7 @@
                 </td>
                 <td class="left">
                     {{#mannakas}}
-                    <a href='/fumo_list.html#{{id}}'>{{name}}</a><br />
+                    <a href='/fumo_list.html#{{id}}' class='vertical-list'>{{name}}</a><br />
                     {{/mannakas}}
                     {{^mannakas}}
                     &nbsp;
@@ -54,7 +54,7 @@
                 </td>
                 <td class="left">
                     {{#dekas}}
-                    <a href='/fumo_list.html#{{id}}'>{{name}}</a><br />
+                    <a href='/fumo_list.html#{{id}}' class='vertical-list'>{{name}}</a><br />
                     {{/dekas}}
                     {{^dekas}}
                     &nbsp;
@@ -62,7 +62,7 @@
                 </td>
                 <td class="left">
                     {{#puppets}}
-                    <a href='/fumo_list.html#{{id}}'>{{name}}</a><br />
+                    <a href='/fumo_list.html#{{id}}' class='vertical-list'>{{name}}</a><br />
                     {{/puppets}}
                     {{^puppets}}
                     &nbsp;

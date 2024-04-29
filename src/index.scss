@@ -160,6 +160,13 @@ table {
     }
 }
 
+.vertical-list {
+    display: inline-block;
+    &:not(:first-child) {
+        margin-top: 0.5rem;
+    }
+}
+
 table.striped {
     tbody tr {
         &:nth-child(even) {

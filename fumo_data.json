@@ -1,7 +1,7 @@
 {
     "characters": [
         {
-            "name": "Hakurei Reimu",
+            "ch_name": "Hakurei Reimu",
             "thwiki": "https://en.touhouwiki.net/wiki/Reimu_Hakurei",
             "regular": [
                 {
@@ -146,6 +146,15 @@
                     "second_hand_cost": "Normal",
                     "price_range": "$500",
                     "gift_link": "https://www.gift-gift.jp/nui/nui739.html"
+                },
+                {
+                    "name": "Yukkuri (47cm)",
+                    "id": "1064",
+                    "img": "https://www.gift-gift.jp/nui/files/images/nui1064_01.jpg",
+                    "release_dates": [
+                        2024
+                    ],
+                    "gift_link": "https://www.gift-gift.jp/nui/nui1064.html"
                 }
             ],
             "puppets": [
@@ -164,7 +173,7 @@
             ]
         },
         {
-            "name": "Kirisame Marisa",
+            "ch_name": "Kirisame Marisa",
             "thwiki": "https://en.touhouwiki.net/wiki/Marisa_Kirisame",
             "regular": [
                 {
@@ -308,7 +317,7 @@
             ]
         },
         {
-            "name": "Izayoi Sakuya",
+            "ch_name": "Izayoi Sakuya",
             "thwiki": "https://en.touhouwiki.net/wiki/Sakuya_Izayoi",
             "regular": [
                 {
@@ -404,7 +413,7 @@
             ]
         },
         {
-            "name": "Remilia Scarlet",
+            "ch_name": "Remilia Scarlet",
             "thwiki": "https://en.touhouwiki.net/wiki/Remilia_Scarlet",
             "regular": [
                 {
@@ -513,7 +522,7 @@
             ]
         },
         {
-            "name": "Patchouli Knowledge",
+            "ch_name": "Patchouli Knowledge",
             "thwiki": "https://en.touhouwiki.net/wiki/Patchouli_Knowledge",
             "regular": [
                 {
@@ -559,7 +568,7 @@
             ]
         },
         {
-            "name": "Alice Margatroid",
+            "ch_name": "Alice Margatroid",
             "thwiki": "https://en.touhouwiki.net/wiki/Alice_Margatroid",
             "regular": [
                 {
@@ -606,7 +615,7 @@
             ]
         },
         {
-            "name": "Flandre Scarlet",
+            "ch_name": "Flandre Scarlet",
             "thwiki": "https://en.touhouwiki.net/wiki/Flandre_Scarlet",
             "regular": [
                 {
@@ -703,7 +712,7 @@
             ]
         },
         {
-            "name": "Kochiya Sanae",
+            "ch_name": "Kochiya Sanae",
             "thwiki": "https://en.touhouwiki.net/wiki/Sanae_Kochiya",
             "regular": [
                 {
@@ -760,7 +769,7 @@
             ]
         },
         {
-            "name": "Cirno",
+            "ch_name": "Cirno",
             "thwiki": "https://en.touhouwiki.net/wiki/Cirno",
             "regular": [
                 {
@@ -833,7 +842,7 @@
             ]
         },
         {
-            "name": "Moriya Suwako",
+            "ch_name": "Moriya Suwako",
             "thwiki": "https://en.touhouwiki.net/wiki/Suwako_Moriya",
             "regular": [
                 {
@@ -863,7 +872,7 @@
             ]
         },
         {
-            "name": "Konpaku Youmu",
+            "ch_name": "Konpaku Youmu",
             "thwiki": "https://en.touhouwiki.net/wiki/Youmu_Konpaku",
             "regular": [
                 {
@@ -934,7 +943,7 @@
             ]
         },
         {
-            "name": "Saigyouji Yuyuko",
+            "ch_name": "Saigyouji Yuyuko",
             "thwiki": "https://en.touhouwiki.net/wiki/Yuyuko_Saigyouji",
             "regular": [
                 {
@@ -995,7 +1004,7 @@
             ]
         },
         {
-            "name": "Hong Meiling",
+            "ch_name": "Hong Meiling",
             "thwiki": "https://en.touhouwiki.net/wiki/Hong_Meiling",
             "regular": [
                 {
@@ -1024,7 +1033,7 @@
             ]
         },
         {
-            "name": "Chen",
+            "ch_name": "Chen",
             "thwiki": "https://en.touhouwiki.net/wiki/Chen",
             "regular": [
                 {
@@ -1057,7 +1066,7 @@
             ]
         },
         {
-            "name": "Yakumo Ran",
+            "ch_name": "Yakumo Ran",
             "thwiki": "https://en.touhouwiki.net/wiki/Ran_Yakumo",
             "regular": [
                 {
@@ -1090,7 +1099,7 @@
             ]
         },
         {
-            "name": "Yakumo Yukari",
+            "ch_name": "Yakumo Yukari",
             "thwiki": "https://en.touhouwiki.net/wiki/Yukari_Yakumo",
             "regular": [
                 {
@@ -1122,7 +1131,7 @@
             ]
         },
         {
-            "name": "Houraisan Kaguya",
+            "ch_name": "Houraisan Kaguya",
             "thwiki": "https://en.touhouwiki.net/wiki/Kaguya_Houraisan",
             "regular": [
                 {
@@ -1142,7 +1151,7 @@
             ]
         },
         {
-            "name": "Fujiwara no Mokou",
+            "ch_name": "Fujiwara no Mokou",
             "thwiki": "https://en.touhouwiki.net/wiki/Fujiwara_no_Mokou",
             "regular": [
                 {
@@ -1164,7 +1173,7 @@
             ]
         },
         {
-            "name": "Komeiji Satori",
+            "ch_name": "Komeiji Satori",
             "thwiki": "https://en.touhouwiki.net/wiki/Satori_Komeiji",
             "regular": [
                 {
@@ -1215,7 +1224,7 @@
             ]
         },
         {
-            "name": "Komeiji Koishi",
+            "ch_name": "Komeiji Koishi",
             "thwiki": "https://en.touhouwiki.net/wiki/Koishi_Komeiji",
             "regular": [
                 {
@@ -1267,7 +1276,7 @@
             ]
         },
         {
-            "name": "Reisen Udongein Inaba",
+            "ch_name": "Reisen Udongein Inaba",
             "thwiki": "https://en.touhouwiki.net/wiki/Reisen_Udongein_Inaba",
             "regular": [
                 {
@@ -1300,7 +1309,7 @@
             ]
         },
         {
-            "name": "Inaba Tewi",
+            "ch_name": "Inaba Tewi",
             "thwiki": "https://en.touhouwiki.net/wiki/Tewi_Inaba",
             "regular": [
                 {
@@ -1321,7 +1330,7 @@
             ]
         },
         {
-            "name": "Hata no Kokoro",
+            "ch_name": "Hata no Kokoro",
             "thwiki": "https://en.touhouwiki.net/wiki/Hata_no_Kokoro",
             "regular": [
                 {
@@ -1345,7 +1354,7 @@
             ]
         },
         {
-            "name": "Ibaraki Kasen",
+            "ch_name": "Ibaraki Kasen",
             "thwiki": "https://en.touhouwiki.net/wiki/Kasen_Ibaraki",
             "regular": [
                 {
@@ -1365,7 +1374,7 @@
             ]
         },
         {
-            "name": "Shameimaru Aya",
+            "ch_name": "Shameimaru Aya",
             "thwiki": "https://en.touhouwiki.net/wiki/Aya_Shameimaru",
             "regular": [
                 {
@@ -1408,7 +1417,7 @@
             ]
         },
         {
-            "name": "Himekaidou Hatate",
+            "ch_name": "Himekaidou Hatate",
             "thwiki": "https://en.touhouwiki.net/wiki/Hatate_Himekaidou",
             "regular": [
                 {
@@ -1427,7 +1436,7 @@
             ]
         },
         {
-            "name": "Hinanawi Tenshi",
+            "ch_name": "Hinanawi Tenshi",
             "thwiki": "https://en.touhouwiki.net/wiki/Tenshi_Hinanawi",
             "regular": [
                 {
@@ -1448,7 +1457,7 @@
             ]
         },
         {
-            "name": "Yorigami Shion",
+            "ch_name": "Yorigami Shion",
             "thwiki": "https://en.touhouwiki.net/wiki/Shion_Yorigami",
             "regular": [
                 {
@@ -1468,7 +1477,7 @@
             ]
         },
         {
-            "name": "Kazami Yuuka",
+            "ch_name": "Kazami Yuuka",
             "thwiki": "https://en.touhouwiki.net/wiki/Yuuka_Kazami",
             "regular": [
                 {
@@ -1488,7 +1497,7 @@
             ]
         },
         {
-            "name": "Inubashiri Momiji",
+            "ch_name": "Inubashiri Momiji",
             "thwiki": "https://en.touhouwiki.net/wiki/Momiji_Inubashiri",
             "regular": [
                 {
@@ -1506,7 +1515,7 @@
             ]
         },
         {
-            "name": "Eirin Yagokoro",
+            "ch_name": "Eirin Yagokoro",
             "thwiki": "https://en.touhouwiki.net/wiki/Eirin_Yagokoro",
             "regular": [
                 {
@@ -1524,7 +1533,7 @@
             ]
         },
         {
-            "name": "Rumia",
+            "ch_name": "Rumia",
             "thwiki": "https://en.touhouwiki.net/wiki/Rumia",
             "regular": [
                 {
@@ -1542,7 +1551,7 @@
             ]
         },
         {
-            "name": "Shiki Eiki, Yamaxanadu",
+            "ch_name": "Shiki Eiki, Yamaxanadu",
             "thwiki": "https://en.touhouwiki.net/wiki/Eiki_Shiki_Yamaxanadu",
             "regular": [
                 {
@@ -1560,7 +1569,7 @@
             ]
         },
         {
-            "name": "Kawashiro Nitori",
+            "ch_name": "Kawashiro Nitori",
             "thwiki": "https://en.touhouwiki.net/wiki/Nitori_Kawashiro",
             "regular": [
                 {
@@ -1578,7 +1587,7 @@
             ]
         },
         {
-            "name": "Yorigami Joon",
+            "ch_name": "Yorigami Joon",
             "thwiki": "https://en.touhouwiki.net/wiki/Joon_Yorigami",
             "regular": [
                 {
@@ -1597,7 +1606,7 @@
             ]
         },
         {
-            "name": "Usami Renko",
+            "ch_name": "Usami Renko",
             "thwiki": "https://en.touhouwiki.net/wiki/Renko_Usami",
             "regular": [
                 {
@@ -1614,7 +1623,7 @@
             ]
         },
         {
-            "name": "Toyosatomimi no Miko",
+            "ch_name": "Toyosatomimi no Miko",
             "thwiki": "https://en.touhouwiki.net/wiki/Toyosatomimi_no_Miko",
             "regular": [
                 {
@@ -1631,7 +1640,7 @@
             ]
         },
         {
-            "name": "Junko",
+            "ch_name": "Junko",
             "thwiki": "https://en.touhouwiki.net/wiki/Junko",
             "regular": [
                 {
@@ -1648,7 +1657,7 @@
             ]
         },
         {
-            "name": "Haniyasushin Keiki",
+            "ch_name": "Haniyasushin Keiki",
             "thwiki": "https://en.touhouwiki.net/wiki/Keiki_Haniyasushin",
             "regular": [
                 {
