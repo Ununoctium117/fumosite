@@ -213,7 +213,8 @@
                     ],
                     "rarity": "Rare",
                     "second_hand_cost": "Normal",
-                    "gift_link": "https://www.gift-gift.jp/nui/nui278.html"
+                    "gift_link": "https://www.gift-gift.jp/nui/nui278.html",
+                    "amiami_link": "https://www.amiami.com/eng/detail/?gcode=CGD-2531"
                 },
                 {
                     "name": "Kourindou Version",
@@ -227,7 +228,8 @@
                     ],
                     "rarity": "Common",
                     "second_hand_cost": "Normal",
-                    "gift_link": "https://www.gift-gift.jp/nui/nui423.html"
+                    "gift_link": "https://www.gift-gift.jp/nui/nui423.html",
+                    "amiami_link": "https://www.amiami.com/eng/detail/?gcode=GOODS-00099828"
                 },
                 {
                     "name": "Version 1.5",
@@ -239,7 +241,28 @@
                     "rarity": "Common",
                     "second_hand_cost": "Normal",
                     "price_range": "$70 - $120",
-                    "gift_link": "https://www.gift-gift.jp/nui/nui898.html"
+                    "gift_link": "https://www.gift-gift.jp/nui/nui898.html",
+                    "amiami_link": "https://www.amiami.com/eng/detail/?gcode=GOODS-04230783"
+                },
+                {
+                    "name": "Lost Word ~ Witch of Scarlet Dreams Version",
+                    "id": "984",
+                    "img": "https://www.gift-gift.jp/nui/files/images/nui984_01.jpg",
+                    "release_dates": [
+                        2023
+                    ],
+                    "gift_link": "https://www.gift-gift.jp/nui/nui984.html",
+                    "amiami_link": "https://www.amiami.com/eng/detail/?gcode=GOODS-04366743"
+                },
+                {
+                    "name": "Phantasmagoria of Dim. Dream Version",
+                    "id": "1036",
+                    "img": "https://www.gift-gift.jp/nui/files/images/nui1036_01.jpg",
+                    "release_dates": [
+                        2023
+                    ],
+                    "gift_link": "https://www.gift-gift.jp/nui/nui1036.html",
+                    "amiami_link": "https://www.amiami.com/eng/detail/?gcode=GOODS-04417657"
                 }
             ],
             "straps": [
@@ -300,6 +323,15 @@
                     "rarity": "Super Rare",
                     "second_hand_cost": "Normal",
                     "gift_link": "https://www.gift-gift.jp/nui/nui740.html"
+                },
+                {
+                    "name": "Yukkuri (47cm)",
+                    "id": "1065",
+                    "img": "https://www.gift-gift.jp/nui/files/images/nui1065_01.jpg",
+                    "release_dates": [
+                        2024
+                    ],
+                    "gift_link": "https://www.gift-gift.jp/nui/nui1065.html"
                 }
             ],
             "puppets": [
