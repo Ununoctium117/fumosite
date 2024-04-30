@@ -40,7 +40,9 @@ async function doWork() {
         for (let key of ['regular', 'straps', 'puppets', 'dekas']) {
             if (character.hasOwnProperty(key)) {
                 for (let fumo of character[key]) {
-                    await downloadFumo(fumo);
+                    if (fumo.id !== 'inu-sakuya') {
+                        await downloadFumo(fumo);
+                    }
                 }
             }
         }

@@ -396,7 +396,7 @@
                 {
                     "name": "Inu (Dog) Version",
                     "id": "inu-sakuya",
-                    "img": "https://cdn.discordapp.com/attachments/454070186405003266/550907554436481024/Diverse1252940707.png",
+                    "img": "https://cdn.discordapp.com/attachments/454070186405003266/550907554436481024/Diverse1252940707.png?ex=66327764&is=663125e4&hm=2750ab091d90ff90e0e660546110d1118d56bf2dc82f3db102ac6a1de4c20f20&",
                     "release_dates": [
                         2009
                     ],
@@ -2790,35 +2790,35 @@
     "forwarders": [
         {
             "name": "Big in Japan",
-            "gift_link": "https://www.biginjap.com/",
+            "link": "https://www.biginjap.com/",
             "per_package": "￥500",
             "consolidation": "￥1500 for any number of packages",
             "notes": ""
         },
         {
             "name": "Blackship",
-            "gift_link": "https://blackship.com/",
+            "link": "https://blackship.com/",
             "per_package": "$1",
             "consolidation": "$3 per package",
             "notes": "There is an optional monthly subscription service and many optional features"
         },
         {
             "name": "Japamart",
-            "gift_link": "https://japamart.com/",
+            "link": "https://japamart.com/",
             "per_package": "5% + a commission based on total price - about $6 for a single Fumo",
             "consolidation": "Apparently free",
             "notes": "Does not accept forwards from auction sites; only accepts PayPal"
         },
         {
             "name": "JPN-DEPOT",
-            "gift_link": "https://www.jpn-depot.com/",
+            "link": "https://www.jpn-depot.com/",
             "per_package": "￥200",
             "consolidation": "￥100 per package",
             "notes": ""
         },
         {
             "name": "Tenso",
-            "gift_link": "https://www.tenso.com/en/",
+            "link": "https://www.tenso.com/en/",
             "per_package": "Based on weight - about ￥150 for a single Fumo",
             "consolidation": "￥200 + ￥300 per package beyond the first",
             "notes": "Partnered with Buyee"
@@ -2827,7 +2827,7 @@
     "proxies": [
         {
             "name": "Big in Japan",
-            "gift_link": "https://www.biginjap.com/",
+            "link": "https://www.biginjap.com/",
             "per_order": "￥500 + 15%",
             "other_fees": "",
             "consolidation": "Not offered",
@@ -2836,7 +2836,7 @@
         },
         {
             "name": "Buyee",
-            "gift_link": "https://buyee.jp/",
+            "link": "https://buyee.jp/",
             "per_order": "￥300; Optional ￥0-500 for insurance/inspection",
             "other_fees": "￥200 per successful bid on Yahoo Auctions",
             "consolidation": "￥500 for two packages or ￥1000 for 3 or more",
@@ -2845,7 +2845,7 @@
         },
         {
             "name": "From Japan",
-            "gift_link": "https://www.fromjapan.co.jp/en/",
+            "link": "https://www.fromjapan.co.jp/en/",
             "per_order": "￥300, or ￥700 if you want insurance",
             "other_fees": "￥200 per successful bid on Yahoo Auctions",
             "consolidation": "Free",
@@ -2854,7 +2854,7 @@
         },
         {
             "name": "J-Subculture",
-            "gift_link": "https://www.j-subculture.com/",
+            "link": "https://www.j-subculture.com/",
             "per_order": "￥500, or ￥850 if you want insurance",
             "other_fees": "￥50 per item won at auction",
             "consolidation": "Free for up to 5 items",
@@ -2863,7 +2863,7 @@
         },
         {
             "name": "Japamart",
-            "gift_link": "https://japamart.com/",
+            "link": "https://japamart.com/",
             "per_order": "5% + $2 + a commission based on total price, about $10 for a single Fumo",
             "other_fees": "Some shenanigans if multiple Japamart users bid on the same item",
             "consolidation": "Apparently free",
@@ -2872,7 +2872,7 @@
         },
         {
             "name": "Jauce",
-            "gift_link": "https://www.jauce.com/",
+            "link": "https://www.jauce.com/",
             "per_order": "1300￥ + 8% for non-auction; 700￥ + 8% for auctions",
             "other_fees": "",
             "consolidation": "￥300 per package + ￥120/kg",
@@ -2881,7 +2881,7 @@
         },
         {
             "name": "JPN-DEPOT",
-            "gift_link": "https://www.jpn-depot.com/",
+            "link": "https://www.jpn-depot.com/",
             "per_order": "￥400",
             "other_fees": "￥200 per auction on Yahoo Auctions",
             "consolidation": "￥100 per package",
@@ -2890,7 +2890,7 @@
         },
         {
             "name": "Kuboten",
-            "gift_link": "https://www.kuboten.com/",
+            "link": "https://www.kuboten.com/",
             "per_order": "￥1000 + 10%",
             "other_fees": "3.9% money transfer fee",
             "consolidation": "Apparently free",
@@ -2899,7 +2899,7 @@
         },
         {
             "name": "Noppin",
-            "gift_link": "https://noppin.com/",
+            "link": "https://noppin.com/",
             "per_order": "Non-auction: ￥1000 + 10%; 12.5% (minimum ￥500) for auctions",
             "other_fees": "Additional charges based on size and weight; 3.5% money transfer fee",
             "consolidation": "Free",
@@ -2908,16 +2908,16 @@
         },
         {
             "name": "Proxy Rabbit Japan",
-            "gift_link": "https://www.proxyrabbitjapan.com/",
+            "link": "https://www.proxyrabbitjapan.net/",
             "per_order": "￥400 + 5%",
             "other_fees": "3.6% money transfer fee",
             "consolidation": "Free for up to 5 items",
             "sniper_bids": "Not offered",
-            "notes": "Temporarily closed due to COVID"
+            "notes": ""
         },
         {
             "name": "Sendico",
-            "gift_link": "https://www.sendico.com/",
+            "link": "https://www.sendico.com/",
             "per_order": "￥500",
             "other_fees": "",
             "consolidation": "￥500 per item",
@@ -2926,7 +2926,7 @@
         },
         {
             "name": "Treasure Japan",
-            "gift_link": "https://treasure-japan.com/",
+            "link": "https://treasure-japan.com/",
             "per_order": "Rates vary by price range and weight; minimum ￥700.",
             "other_fees": "4% money transfer fee",
             "consolidation": "Not offered",
@@ -2935,7 +2935,7 @@
         },
         {
             "name": "White Rabbit Express",
-            "gift_link": "https://www.whiterabbitexpress.com/",
+            "link": "https://www.whiterabbitexpress.com/",
             "per_order": "$5 + 9.9%",
             "other_fees": "",
             "consolidation": "Free",
@@ -2944,7 +2944,7 @@
         },
         {
             "name": "Zenmarket",
-            "gift_link": "https://zenmarket.jp/en/",
+            "link": "https://zenmarket.jp/en/",
             "per_order": "￥300",
             "other_fees": "3.5% money transfer fee",
             "consolidation": "Free",
@@ -2955,7 +2955,7 @@
     "storefronts": [
         {
             "name": "Gift Online Shop",
-            "gift_link": "http://giftshop.jz.shopserve.jp/",
+            "link": "http://giftshop.jz.shopserve.jp/",
             "desc": [
                 "The source of all Fumos. Prices are always cheapest here.",
                 "The most popular Fumos tend to sell out in an hour or less.",
@@ -2965,7 +2965,7 @@
         },
         {
             "name": "Amiami",
-            "gift_link": "https://www.amiami.com/eng/",
+            "link": "https://www.amiami.com/eng/",
             "desc": [
                 "Since August 2021, Gift has been officially releasing fumos on AmiAmi.",
                 "Offers shipping through DHL, EMS, and surface mail to most international locations.",
@@ -2976,7 +2976,7 @@
         },
         {
             "name": "Suruga-ya",
-            "gift_link": "https://www.suruga-ya.jp/",
+            "link": "https://www.suruga-ya.jp/",
             "desc": [
                 "Second-hand retailer of lots of hobby goods.",
                 "Will nearly always have Fumos in stock.",
@@ -2986,7 +2986,7 @@
         },
         {
             "name": "Mandarake",
-            "gift_link": "https://order.mandarake.co.jp/order/",
+            "link": "https://order.mandarake.co.jp/order/",
             "desc": [
                 "Sells preowned hobby goods.",
                 "Fumos here tend to sell very quickly.",
@@ -2995,7 +2995,7 @@
         },
         {
             "name": "Amazon Japan",
-            "gift_link": "https://www.amazon.co.jp/",
+            "link": "https://www.amazon.co.jp/",
             "desc": [
                 "It's Amazon but in Japanese.",
                 "Fumos are rarely listed here and are usually very expensive."
@@ -3003,7 +3003,7 @@
         },
         {
             "name": "SolarisJapan",
-            "gift_link": "https://solarisjapan.com/",
+            "link": "https://solarisjapan.com/",
             "desc": [
                 "English storefront for Japanese figures and merchandise.",
                 "Prices are very high."
@@ -3011,7 +3011,7 @@
         },
         {
             "name": "Goods Republic",
-            "gift_link": "https://goodsrepublic.com/",
+            "link": "https://goodsrepublic.com/",
             "desc": [
                 "English storefront for Japanese figures and merchandise.",
                 "Prices are <i>very</i> high.",
@@ -3020,7 +3020,7 @@
         },
         {
             "name": "JPFigures",
-            "gift_link": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+            "link": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
             "desc": [
                 "Literally a scam. Do not purchase anything from them.",
                 "They have a nice looking webpage. Don't be fooled.",
@@ -3031,7 +3031,7 @@
     "auction_houses": [
         {
             "name": "Yahoo Auctions JP",
-            "gift_link": "https://auctions.yahoo.co.jp/",
+            "link": "https://auctions.yahoo.co.jp/",
             "desc": [
                 "Basically Japanese eBay. Every proxy can interact with it.",
                 "Always has Fumos listed, and mostly at reasonable prices.",
@@ -3041,7 +3041,7 @@
         },
         {
             "name": "Mercari",
-            "gift_link": "https://www.mercari.com/jp/",
+            "link": "https://www.mercari.com/jp/",
             "desc": [
                 "No auctions, just direct sales.",
                 "Often has individual and group batches of fumos.",
@@ -3050,7 +3050,7 @@
         },
         {
             "name": "Rakuten",
-            "gift_link": "https://search.rakuten.co.jp/",
+            "link": "https://search.rakuten.co.jp/",
             "desc": [
                 "A storefront for both corporations and individual sellers.",
                 "When searching, use 東方ぬいぐるみ (Touhou Plush) not 東方ふもふも (Touhou Fumo).",
