@@ -364,7 +364,8 @@
                     ],
                     "rarity": "Rare",
                     "second_hand_cost": "Normal",
-                    "gift_link": "https://www.gift-gift.jp/nui/nui004.html"
+                    "gift_link": "https://www.gift-gift.jp/nui/nui004.html",
+                    "amiami_link": "https://www.amiami.com/eng/detail/?gcode=CGD-2532"
                 },
                 {
                     "name": "Nendroid Plus",
@@ -391,7 +392,18 @@
                     ],
                     "rarity": "Common",
                     "second_hand_cost": "Normal",
-                    "gift_link": "https://www.gift-gift.jp/nui/nui356.html"
+                    "gift_link": "https://www.gift-gift.jp/nui/nui356.html",
+                    "amiami_link": "https://www.amiami.com/eng/detail/?gcode=GOODS-04230805"
+                },
+                {
+                    "name": "Version 1.5",
+                    "id": "968",
+                    "img": "https://www.gift-gift.jp/nui/files/images/nui968_01.jpg",
+                    "release_dates": [
+                        2023
+                    ],
+                    "gift_link": "https://www.gift-gift.jp/nui/nui968.html",
+                    "amiami_link": "https://www.amiami.com/eng/detail/?gcode=GOODS-04321735"
                 },
                 {
                     "name": "Inu (Dog) Version",
@@ -430,6 +442,18 @@
                     "gift_link": "https://www.gift-gift.jp/nui/nui903.html"
                 }
             ],
+            "mannakas": [
+                {
+                    "name": "Medium-sized Version",
+                    "id": "1078",
+                    "img": "https://www.gift-gift.jp/nui/files/images/nui1078_01.jpg",
+                    "release_dates:": [
+                        2024
+                    ],
+                    "gift_link": "https://www.gift-gift.jp/nui/nui1078.html",
+                    "amiami_link": "https://www.amiami.com/eng/detail/?gcode=GOODS-04480781"
+                }
+            ],
             "dekas": [
                 {
                     "name": "Version 1",
@@ -440,7 +464,8 @@
                     ],
                     "rarity": "Super Rare",
                     "second_hand_cost": "Normal",
-                    "gift_link": "https://www.gift-gift.jp/nui/nui853.html"
+                    "gift_link": "https://www.gift-gift.jp/nui/nui853.html",
+                    "amiami_link": "https://www.amiami.com/eng/detail/?gcode=GOODS-04299811"
                 }
             ]
         },
@@ -487,7 +512,8 @@
                     ],
                     "rarity": "Common",
                     "second_hand_cost": "Normal",
-                    "gift_link": "https://www.gift-gift.jp/nui/nui364.html"
+                    "gift_link": "https://www.gift-gift.jp/nui/nui364.html",
+                    "amiami_link": "https://www.amiami.com/eng/detail/?gcode=GOODS-04230803"
                 },
                 {
                     "name": "Version 1.5",
@@ -500,7 +526,18 @@
                     ],
                     "rarity": "Common",
                     "second_hand_cost": "Normal",
-                    "gift_link": "https://www.gift-gift.jp/nui/nui686.html"
+                    "gift_link": "https://www.gift-gift.jp/nui/nui686.html",
+                    "amiami_link": "https://www.amiami.com/eng/detail/?gcode=GOODS-04321734"
+                },
+                {
+                    "name": "Lost Word ~ Tiny Devil Mistress Version",
+                    "id": "1032",
+                    "img": "https://www.gift-gift.jp/nui/files/images/nui1032_01.jpg",
+                    "release_dates": [
+                        2023
+                    ],
+                    "gift_link": "https://www.gift-gift.jp/nui/nui1032.html",
+                    "amiami_link": "https://www.amiami.com/eng/detail/?gcode=GOODS-04417654"
                 }
             ],
             "straps": [
@@ -527,6 +564,18 @@
                     "gift_link": "https://www.gift-gift.jp/nui/nui901.html"
                 }
             ],
+            "mannakas": [
+                {
+                    "name": "Medium-sized Version",
+                    "id": "1076",
+                    "img": "https://www.gift-gift.jp/nui/files/images/nui1076_01.jpg",
+                    "release_dates": [
+                        2024
+                    ],
+                    "gift_link": "https://www.gift-gift.jp/nui/nui1076.html",
+                    "amiami_link": "https://www.amiami.com/eng/detail/?gcode=GOODS-04480779"
+                }
+            ],
             "dekas": [
                 {
                     "name": "Version 1",
@@ -548,7 +597,8 @@
                     ],
                     "rarity": "Super Rare",
                     "second_hand_cost": "Normal",
-                    "gift_link": "https://www.gift-gift.jp/nui/nui851.html"
+                    "gift_link": "https://www.gift-gift.jp/nui/nui851.html",
+                    "amiami_link": "https://www.amiami.com/eng/detail/?gcode=GOODS-04257770"
                 }
 
             ]
