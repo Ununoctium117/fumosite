@@ -73,6 +73,17 @@
                     </label>
                 </li>
                 {{/straps}}
+                {{#mannakas}}
+                <input type="checkbox" id='checkbox-{{id}}' name='checkbox-{{id}}' class="hidden checklist-checkbox" />
+                <li>
+                    <label for='checkbox-{{id}}'>
+                        <div class="checklist-item">
+                            <h5>Mannaka - {{name}}</h5>
+                            <img src='img/{{id}}.jpg' />
+                        </div>
+                    </label>
+                </li>
+                {{/mannakas}}
                 {{#dekas}}
                 <input type="checkbox" id='checkbox-{{id}}' name='checkbox-{{id}}' class="hidden checklist-checkbox" />
                 <li>

@@ -5,7 +5,7 @@
             "thwiki": "https://en.touhouwiki.net/wiki/Reimu_Hakurei",
             "regular": [
                 {
-                    "name": "Version 1",
+                    "name": "ver.1",
                     "id": "001",
                     "img": "https://www.gift-gift.jp/nui/files/images/nui001_01.jpg",
                     "release_dates": [
@@ -31,10 +31,11 @@
                     "rarity": "Rare",
                     "second_hand_cost": "High",
                     "price_range": "$80 - $120",
-                    "gift_link": "https://www.gift-gift.jp/archive/nui/nui029.html"
+                    "gift_link": "https://www.gift-gift.jp/archive/nui/nui029.html",
+                    "amiami_link": "https://www.amiami.com/eng/detail/?gcode=CGD-8276"
                 },
                 {
-                    "name": "Kourindou Version",
+                    "name": "Kourindou ver.",
                     "id": "345",
                     "img": "https://www.gift-gift.jp/nui/files/images/nui345_01.jpg",
                     "release_dates": [
@@ -42,7 +43,8 @@
                         2016,
                         2017,
                         2018,
-                        2020
+                        2020,
+                        2025
                     ],
                     "rarity": "Common",
                     "second_hand_cost": "Normal",
@@ -51,11 +53,12 @@
                     "amiami_link": "https://www.amiami.com/eng/detail/?gcode=GOODS-00099826"
                 },
                 {
-                    "name": "Version 1.5",
+                    "name": "ver.1.5",
                     "id": "897",
                     "img": "https://www.gift-gift.jp/nui/files/images/nui897_01.jpg",
                     "release_dates": [
-                        2022
+                        2022,
+						2025
                     ],
                     "rarity": "Common",
                     "second_hand_cost": "Normal",
@@ -63,7 +66,7 @@
                     "amiami_link": "https://www.amiami.com/eng/detail/?gcode=GOODS-04230781"
                 },
                 {
-                    "name": "Phantasmagoria of Dim. Dream Version",
+                    "name": "Phantasmagoria of Dim. Dream ver.",
                     "id": "1035",
                     "img": "https://www.gift-gift.jp/nui/files/images/42cc88423f061963c36e659d8895b881b121239b.jpg",
                     "release_dates": [
@@ -73,13 +76,33 @@
                     "amiami_link": "https://www.amiami.com/eng/detail/?gcode=GOODS-04417656"
                 },
                 {
-                    "name": "Lost Word ~ God-Summoning Shaman Version",
+                    "name": "LostWord ~ God-Summoning Shaman ver.",
                     "id": "983",
                     "img": "https://www.gift-gift.jp/nui/files/images/nui983_01.jpg",
                     "release_dates": [
                         2023
                     ],
-                    "gift_link": "https://www.gift-gift.jp/nui/nui983.html"
+                    "gift_link": "https://www.gift-gift.jp/nui/nui983.html",
+                    "amiami_link": "https://www.amiami.com/eng/detail/?gcode=GOODS-04366745"
+                },
+                {
+                    "name": "Green ver.",
+                    "id": "1212",
+                    "img": "https://www.gift-gift.jp/nui/files/images/nui1212_01.jpg",
+                    "release_dates": [
+                        2025
+                    ],
+                    "gift_link": "https://www.gift-gift.jp/nui/nui1212.html",
+                    "amiami_link": "https://www.amiami.com/eng/search/list/?s_keywords=Touhou+Plush+Gift"
+                },
+                {
+                    "name": "Lunar War Shaman Ver.",
+                    "id": "1264",
+                    "img": "https://www.gift-gift.jp/nui/files/images/nui1264_01.jpg",
+                    "release_dates": [
+                        2026
+                    ],
+                    "gift_link": "https://www.gift-gift.jp/nui/nui1264.html"
                 }
             ],
             "straps": [
@@ -95,7 +118,7 @@
                     "gift_link": "https://www.gift-gift.jp/nui/nui122.html"
                 },
                 {
-                    "name": "Kourindou Version",
+                    "name": "Kourindou ver.",
                     "id": "452",
                     "img": "https://www.gift-gift.jp/nui/files/images/nui452_01.jpg",
                     "release_dates": [
@@ -107,7 +130,7 @@
                     "gift_link": "https://www.gift-gift.jp/nui/nui452.html"
                 },
                 {
-                    "name": "Plush Strap",
+                    "name": "Mini Plush",
                     "id": "745",
                     "img": "https://www.gift-gift.jp/nui/files/images/nui745.jpg",
                     "release_dates": [
@@ -119,9 +142,21 @@
                     "gift_link": "https://www.gift-gift.jp/nui/nui745.html"
                 }
             ],
+            "mannakas": [
+                {
+                    "name": "Medium Size ver.",
+                    "id": "1113",
+                    "img": "https://www.gift-gift.jp/nui/files/images/nui1113_01.jpg",
+                    "release_dates": [
+                        2024
+                    ],
+                    "gift_link": "https://www.gift-gift.jp/nui/nui1113.html",
+                    "amiami_link": "https://www.amiami.com/eng/detail/?gcode=GOODS-04499122"
+                }
+            ],
             "dekas": [
                 {
-                    "name": "Version 1",
+                    "name": "ver.1",
                     "id": "009",
                     "img": "https://www.gift-gift.jp/archive/nui/images/nui009_01.jpg",
                     "release_dates": [
@@ -136,7 +171,7 @@
                     "gift_link": "https://www.gift-gift.jp/archive/nui/nui009.html"
                 },
                 {
-                    "name": "Kourindou Version",
+                    "name": "Kourindou ver.",
                     "id": "739",
                     "img": "https://www.gift-gift.jp/nui/files/images/74192eafba17dba313c25cb6de2376c7e179450c.jpg",
                     "release_dates": [
@@ -152,7 +187,8 @@
                     "id": "1064",
                     "img": "https://www.gift-gift.jp/nui/files/images/nui1064_01.jpg",
                     "release_dates": [
-                        2024
+                        2024,
+						2026
                     ],
                     "gift_link": "https://www.gift-gift.jp/nui/nui1064.html"
                 }
@@ -177,7 +213,7 @@
             "thwiki": "https://en.touhouwiki.net/wiki/Marisa_Kirisame",
             "regular": [
                 {
-                    "name": "Version 1",
+                    "name": "ver.1",
                     "id": "002",
                     "img": "https://www.gift-gift.jp/nui/files/images/nui002_01.jpg",
                     "release_dates": [
@@ -189,7 +225,8 @@
                     ],
                     "rarity": "Uncommon",
                     "second_hand_cost": "Normal",
-                    "gift_link": "https://www.gift-gift.jp/nui/nui002.html"
+                    "gift_link": "https://www.gift-gift.jp/nui/nui002.html",
+                    "amiami_link": "https://www.amiami.com/eng/detail/?gcode=CGD-2531"
                 },
                 {
                     "name": "Nendroid Plus",
@@ -200,10 +237,11 @@
                     ],
                     "rarity": "Rare",
                     "second_hand_cost": "High",
-                    "gift_link": "https://www.gift-gift.jp/archive/nui/nui030.html"
+                    "gift_link": "https://www.gift-gift.jp/archive/nui/nui030.html",
+                    "amiami_link": "https://www.amiami.com/eng/detail/?gcode=CGD-8277"
                 },
                 {
-                    "name": "Version 2",
+                    "name": "ver.2",
                     "id": "278",
                     "img": "https://www.gift-gift.jp/nui/files/images/nui278_01.jpg",
                     "release_dates": [
@@ -217,14 +255,15 @@
                     "amiami_link": "https://www.amiami.com/eng/detail/?gcode=CGD-2531"
                 },
                 {
-                    "name": "Kourindou Version",
+                    "name": "Kourindou ver.",
                     "id": "423",
                     "img": "https://www.gift-gift.jp/nui/files/images/nui423_01.jpg",
                     "release_dates": [
                         2016,
                         2017,
                         2018,
-                        2020
+                        2020,
+                        2025
                     ],
                     "rarity": "Common",
                     "second_hand_cost": "Normal",
@@ -232,7 +271,7 @@
                     "amiami_link": "https://www.amiami.com/eng/detail/?gcode=GOODS-00099828"
                 },
                 {
-                    "name": "Version 1.5",
+                    "name": "ver.1.5",
                     "id": "898",
                     "img": "https://www.gift-gift.jp/nui/files/images/nui898_01.jpg",
                     "release_dates": [
@@ -245,7 +284,7 @@
                     "amiami_link": "https://www.amiami.com/eng/detail/?gcode=GOODS-04230783"
                 },
                 {
-                    "name": "Lost Word ~ Witch of Scarlet Dreams Version",
+                    "name": "LostWord ~ Witch of Scarlet Dreams ver.",
                     "id": "984",
                     "img": "https://www.gift-gift.jp/nui/files/images/nui984_01.jpg",
                     "release_dates": [
@@ -255,7 +294,7 @@
                     "amiami_link": "https://www.amiami.com/eng/detail/?gcode=GOODS-04366743"
                 },
                 {
-                    "name": "Phantasmagoria of Dim. Dream Version",
+                    "name": "Phantasmagoria of Dim. Dream ver.",
                     "id": "1036",
                     "img": "https://www.gift-gift.jp/nui/files/images/nui1036_01.jpg",
                     "release_dates": [
@@ -263,6 +302,25 @@
                     ],
                     "gift_link": "https://www.gift-gift.jp/nui/nui1036.html",
                     "amiami_link": "https://www.amiami.com/eng/detail/?gcode=GOODS-04417657"
+                },
+                {
+                    "name": "White ver.",
+                    "id": "1213",
+                    "img": "https://www.gift-gift.jp/nui/files/images/nui1213_01.jpg",
+                    "release_dates": [
+                        2025
+                    ],
+                    "gift_link": "https://www.gift-gift.jp/nui/nui1213.html",
+                    "amiami_link": "https://www.amiami.com/eng/search/list/?s_keywords=Touhou+Plush+Gift"
+                },
+                {
+                    "name": "Lunar War-Type Enchanter Ver.",
+                    "id": "1265",
+                    "img": "https://www.gift-gift.jp/nui/files/images/nui1265_01.jpg",
+                    "release_dates": [
+                        2026
+                    ],
+                    "gift_link": "https://www.gift-gift.jp/nui/nui1265.html"
                 }
             ],
             "straps": [
@@ -278,7 +336,7 @@
                     "gift_link": "https://www.gift-gift.jp/nui/nui123.html"
                 },
                 {
-                    "name": "Kourindou Version",
+                    "name": "Kourindou ver.",
                     "id": "453",
                     "img": "https://www.gift-gift.jp/nui/files/images/nui453_01.jpg",
                     "release_dates": [
@@ -289,7 +347,7 @@
                     "gift_link": "https://www.gift-gift.jp/nui/nui453.html"
                 },
                 {
-                    "name": "Plush Strap",
+                    "name": "Mini Plush",
                     "id": "746",
                     "img": "https://www.gift-gift.jp/nui/files/images/nui746.jpg",
                     "release_dates": [
@@ -299,9 +357,21 @@
                     "gift_link": "https://www.gift-gift.jp/nui/nui746.html"
                 }
             ],
+            "mannakas": [
+                {
+                    "name": "Medium Size ver.",
+                    "id": "1114",
+                    "img": "https://www.gift-gift.jp/nui/files/images/nui1114_01.jpg",
+                    "release_dates": [
+                        2024
+                    ],
+                    "gift_link": "https://www.gift-gift.jp/nui/nui1114.html",
+                    "amiami_link": "https://www.amiami.com/eng/detail/?gcode=GOODS-04499123"
+                }
+            ],
             "dekas": [
                 {
-                    "name": "Version 1",
+                    "name": "ver.1",
                     "id": "023",
                     "img": "https://www.gift-gift.jp/archive/nui/images/nui023_01.jpg",
                     "release_dates": [
@@ -314,7 +384,7 @@
                     "gift_link": "https://www.gift-gift.jp/archive/nui/nui023.html"
                 },
                 {
-                    "name": "Kourindou Version",
+                    "name": "Kourindou ver.",
                     "id": "740",
                     "img": "https://www.gift-gift.jp/nui/files/images/0ef10aad3fd6ea049e15659f3f14d95a3026a917.jpg",
                     "release_dates": [
@@ -329,9 +399,11 @@
                     "id": "1065",
                     "img": "https://www.gift-gift.jp/nui/files/images/nui1065_01.jpg",
                     "release_dates": [
-                        2024
+                        2024,
+						2026
                     ],
-                    "gift_link": "https://www.gift-gift.jp/nui/nui1065.html"
+                    "gift_link": "https://www.gift-gift.jp/nui/nui1065.html",
+                    "amiami_link": "https://www.amiami.com/eng/detail/?gcode=GOODS-04480675"
                 }
             ],
             "puppets": [
@@ -353,7 +425,7 @@
             "thwiki": "https://en.touhouwiki.net/wiki/Sakuya_Izayoi",
             "regular": [
                 {
-                    "name": "Version 1",
+                    "name": "ver.1",
                     "id": "004",
                     "img": "https://www.gift-gift.jp/nui/files/images/nui004_01.jpg",
                     "release_dates": [
@@ -376,10 +448,11 @@
                     ],
                     "rarity": "Rare",
                     "second_hand_cost": "High",
-                    "gift_link": "https://www.gift-gift.jp/archive/nui/nui044.html"
+                    "gift_link": "https://www.gift-gift.jp/archive/nui/nui044.html",
+                    "amiami_link": "https://www.amiami.com/eng/detail/?gcode=CGD-8278"
                 },
                 {
-                    "name": "Kourindou Version",
+                    "name": "Kourindou ver.",
                     "id": "356",
                     "img": "https://www.gift-gift.jp/nui/files/images/nui356_01.jpg",
                     "release_dates": [
@@ -396,7 +469,7 @@
                     "amiami_link": "https://www.amiami.com/eng/detail/?gcode=GOODS-04230805"
                 },
                 {
-                    "name": "Version 1.5",
+                    "name": "ver.1.5",
                     "id": "968",
                     "img": "https://www.gift-gift.jp/nui/files/images/nui968_01.jpg",
                     "release_dates": [
@@ -406,7 +479,26 @@
                     "amiami_link": "https://www.amiami.com/eng/detail/?gcode=GOODS-04321735"
                 },
                 {
-                    "name": "Inu (Dog) Version",
+                    "name": "LostWord ~ Legendary Vampire Hunter ver.",
+                    "id": "1084",
+                    "img": "https://www.gift-gift.jp/nui/files/images/nui1084_01.jpg",
+                    "release_dates": [
+                        2023
+                    ],
+                    "gift_link": "https://www.gift-gift.jp/nui/nui1084.html",
+                    "amiami_link": "https://www.amiami.com/eng/detail/?gcode=GOODS-04482584"
+                },
+                {
+                    "name": "LostWord ~ Moon Battle Type Servant ver.",
+                    "id": "9999",
+                    "img": "https://www.gift-gift.jp/nui/files/images/nui9999_01.jpg",
+                    "release_dates": [
+                        2026
+                    ],
+                    "gift_link": "https://www.gift-gift.jp/nui/nui9999.html"
+                },
+                {
+                    "name": "Inu (Dog) ver.",
                     "id": "inu-sakuya",
                     "img": "https://cdn.discordapp.com/attachments/454070186405003266/550907554436481024/Diverse1252940707.png?ex=66327764&is=663125e4&hm=2750ab091d90ff90e0e660546110d1118d56bf2dc82f3db102ac6a1de4c20f20&",
                     "release_dates": [
@@ -431,7 +523,7 @@
                     "gift_link": "https://www.gift-gift.jp/nui/nui152.html"
                 },
                 {
-                    "name": "Plush Strap",
+                    "name": "Mini Plush",
                     "id": "903",
                     "img": "https://www.gift-gift.jp/nui/files/images/nui903.jpg",
                     "release_dates": [
@@ -439,12 +531,13 @@
                     ],
                     "rarity": "Common",
                     "price_range": "$20",
-                    "gift_link": "https://www.gift-gift.jp/nui/nui903.html"
+                    "gift_link": "https://www.gift-gift.jp/nui/nui903.html",
+                    "amiami_link": "https://www.amiami.com/eng/detail/?gcode=GOODS-04230793"
                 }
             ],
             "mannakas": [
                 {
-                    "name": "Medium-sized Version",
+                    "name": "Medium Size ver.",
                     "id": "1078",
                     "img": "https://www.gift-gift.jp/nui/files/images/nui1078_01.jpg",
                     "release_dates:": [
@@ -456,16 +549,26 @@
             ],
             "dekas": [
                 {
-                    "name": "Version 1",
+                    "name": "ver.1",
                     "id": "853",
                     "img": "https://www.gift-gift.jp/nui/files/images/nui853_01.jpg",
                     "release_dates": [
-                        2022
+                        2022,
+                        2023
                     ],
                     "rarity": "Super Rare",
                     "second_hand_cost": "Normal",
                     "gift_link": "https://www.gift-gift.jp/nui/nui853.html",
                     "amiami_link": "https://www.amiami.com/eng/detail/?gcode=GOODS-04299811"
+                },
+                {
+                    "name": "Yukkuri (45cm)",
+                    "id": "1222",
+                    "img": "https://www.gift-gift.jp/nui/files/images/nui1222_01.jpg",
+                    "release_dates": [
+                        2025
+                    ],
+                    "gift_link": "https://www.gift-gift.jp/nui/nui1222.html"
                 }
             ]
         },
@@ -474,7 +577,7 @@
             "thwiki": "https://en.touhouwiki.net/wiki/Remilia_Scarlet",
             "regular": [
                 {
-                    "name": "Version 1",
+                    "name": "ver.1",
                     "id": "005",
                     "img": "https://www.gift-gift.jp/nui/files/images/nui005_01.jpg",
                     "release_dates": [
@@ -485,7 +588,8 @@
                     ],
                     "rarity": "Common",
                     "second_hand_cost": "Normal",
-                    "gift_link": "https://www.gift-gift.jp/nui/nui005.html"
+                    "gift_link": "https://www.gift-gift.jp/nui/nui005.html",
+                    "amiami_link": "https://www.amiami.com/eng/detail/?gcode=CGD-2533"
                 },
                 {
                     "name": "Nendroid Plus",
@@ -497,10 +601,11 @@
                     ],
                     "rarity": "Rare",
                     "second_hand_cost": "High",
-                    "gift_link": "https://www.gift-gift.jp/archive/nui/nui105.html"
+                    "gift_link": "https://www.gift-gift.jp/archive/nui/nui105.html",
+                    "amiami_link": "https://www.amiami.com/eng/detail/?gcode=CGD2-08451"
                 },
                 {
-                    "name": "Kourindou Version",
+                    "name": "Kourindou ver.",
                     "id": "364",
                     "img": "https://www.gift-gift.jp/nui/files/images/nui364_01.jpg",
                     "release_dates": [
@@ -508,7 +613,8 @@
                         2017,
                         2018,
                         2020,
-                        2022
+                        2022,
+						2025
                     ],
                     "rarity": "Common",
                     "second_hand_cost": "Normal",
@@ -516,7 +622,7 @@
                     "amiami_link": "https://www.amiami.com/eng/detail/?gcode=GOODS-04230803"
                 },
                 {
-                    "name": "Version 1.5",
+                    "name": "ver.1.5",
                     "id": "686",
                     "img": "https://www.gift-gift.jp/nui/files/images/nui686_01.jpg",
                     "release_dates": [
@@ -530,7 +636,7 @@
                     "amiami_link": "https://www.amiami.com/eng/detail/?gcode=GOODS-04321734"
                 },
                 {
-                    "name": "Lost Word ~ Tiny Devil Mistress Version",
+                    "name": "LostWord ~ Tiny Devil Mistress ver.",
                     "id": "1032",
                     "img": "https://www.gift-gift.jp/nui/files/images/nui1032_01.jpg",
                     "release_dates": [
@@ -553,7 +659,7 @@
                     "gift_link": "https://www.gift-gift.jp/nui/nui168.html"
                 },
                 {
-                    "name": "Plush Strap",
+                    "name": "Mini Plush",
                     "id": "901",
                     "img": "https://www.gift-gift.jp/nui/files/images/nui901.jpg",
                     "release_dates": [
@@ -561,12 +667,13 @@
                     ],
                     "rarity": "Common",
                     "price_range": "$20",
-                    "gift_link": "https://www.gift-gift.jp/nui/nui901.html"
+                    "gift_link": "https://www.gift-gift.jp/nui/nui901.html",
+                    "amiami_link": "https://www.amiami.com/eng/detail/?gcode=GOODS-04230791"
                 }
             ],
             "mannakas": [
                 {
-                    "name": "Medium-sized Version",
+                    "name": "Medium Size ver.",
                     "id": "1076",
                     "img": "https://www.gift-gift.jp/nui/files/images/nui1076_01.jpg",
                     "release_dates": [
@@ -578,7 +685,7 @@
             ],
             "dekas": [
                 {
-                    "name": "Version 1",
+                    "name": "ver.1",
                     "id": "124",
                     "img": "https://www.gift-gift.jp/archive/nui/images/nui124_01.jpg",
                     "release_dates": [
@@ -589,7 +696,7 @@
                     "gift_link": "https://www.gift-gift.jp/archive/nui/nui124.html"
                 },
                 {
-                    "name": "Version 1.5",
+                    "name": "ver.1.5",
                     "id": "851",
                     "img": "https://www.gift-gift.jp/nui/files/images/nui851_01.jpg",
                     "release_dates": [
@@ -599,6 +706,15 @@
                     "second_hand_cost": "Normal",
                     "gift_link": "https://www.gift-gift.jp/nui/nui851.html",
                     "amiami_link": "https://www.amiami.com/eng/detail/?gcode=GOODS-04257770"
+                },
+                {
+                    "name": "Yukkuri (45cm)",
+                    "id": "1221",
+                    "img": "https://www.gift-gift.jp/nui/files/images/nui1221_01.jpg",
+                    "release_dates": [
+                        2025
+                    ],
+                    "gift_link": "https://www.gift-gift.jp/nui/nui1221.html"
                 }
 
             ]
@@ -608,7 +724,7 @@
             "thwiki": "https://en.touhouwiki.net/wiki/Patchouli_Knowledge",
             "regular": [
                 {
-                    "name": "Version 1",
+                    "name": "ver.1",
                     "id": "006",
                     "img": "https://www.gift-gift.jp/nui/files/images/nui006_01.jpg",
                     "release_dates": [
@@ -622,7 +738,7 @@
                     "gift_link": "https://www.gift-gift.jp/nui/nui006.html"
                 },
                 {
-                    "name": "Version 1.5",
+                    "name": "ver.1.5",
                     "id": "492",
                     "img": "https://www.gift-gift.jp/nui/files/images/nui492_01.jpg",
                     "release_dates": [
@@ -632,12 +748,32 @@
                     ],
                     "rarity": "Common",
                     "second_hand_cost": "Normal",
-                    "gift_link": "https://www.gift-gift.jp/nui/nui492.html"
+                    "gift_link": "https://www.gift-gift.jp/nui/nui492.html",
+                    "amiami_link": "https://www.amiami.com/eng/detail/?gcode=GOODS-04246799"
+                },
+                {
+                    "name": "Kourindou ver.",
+                    "id": "992",
+                    "img": "https://www.gift-gift.jp/nui/files/images/nui992_01.jpg",
+                    "release_dates": [
+                        2023
+                    ],
+                    "gift_link": "https://www.gift-gift.jp/nui/nui992.html",
+                    "amiami_link": "https://www.amiami.com/eng/detail/?gcode=GOODS-04367915"
+                },
+				{
+                    "name": "LostWord ~ Elemental Wizard of the Library ver.",
+                    "id": "1169",
+                    "img": "https://www.gift-gift.jp/nui/files/images/nui1169_01.jpg",
+                    "release_dates": [
+                        2025
+                    ],
+                    "gift_link": "https://www.gift-gift.jp/nui/nui1169.html"
                 }
             ],
             "straps": [
                 {
-                    "name": "Plush Strap",
+                    "name": "Mini Plush",
                     "id": "943",
                     "img": "https://www.gift-gift.jp/nui/files/images/nui943_01.jpg",
                     "release_dates": [
@@ -645,7 +781,20 @@
                     ],
                     "rarity": "Common",
                     "price_range": "$20",
-                    "gift_link": "https://www.gift-gift.jp/nui/nui943.html"
+                    "gift_link": "https://www.gift-gift.jp/nui/nui943.html",
+                    "amiami_link": "https://www.amiami.com/eng/detail/?gcode=GOODS-04281064"
+                }
+            ],
+            "mannakas": [
+                {
+                    "name": "Medium Size ver.",
+                    "id": "1042",
+                    "img": "https://www.gift-gift.jp/nui/files/images/nui1042_01.jpg",
+                    "release_dates": [
+                        2023
+                    ],
+                    "gift_link": "https://www.gift-gift.jp/nui/nui1042.html",
+                    "amiami_link": "https://www.amiami.com/eng/detail/?gcode=GOODS-04417663"
                 }
             ]
         },
@@ -654,7 +803,7 @@
             "thwiki": "https://en.touhouwiki.net/wiki/Alice_Margatroid",
             "regular": [
                 {
-                    "name": "Version 1",
+                    "name": "ver.1",
                     "id": "007",
                     "img": "https://www.gift-gift.jp/nui/files/images/nui007_01.jpg",
                     "release_dates": [
@@ -668,23 +817,25 @@
                     "gift_link": "https://www.gift-gift.jp/nui/nui007.html"
                 },
                 {
-                    "name": "Version 1.5",
+                    "name": "ver.1.5",
                     "id": "491",
                     "img": "https://www.gift-gift.jp/nui/files/images/nui491_01.jpg",
                     "release_dates": [
                         2017,
                         2020,
                         2021,
-                        2022
+                        2022,
+						2025
                     ],
                     "rarity": "Common",
                     "second_hand_cost": "Normal",
-                    "gift_link": "https://www.gift-gift.jp/nui/nui491.html"
+                    "gift_link": "https://www.gift-gift.jp/nui/nui491.html",
+                    "amiami_link": "https://www.amiami.com/eng/detail/?gcode=GOODS-04246798"
                 }
             ],
             "straps": [
                 {
-                    "name": "Plush Strap",
+                    "name": "Mini Plush",
                     "id": "944",
                     "img": "https://www.gift-gift.jp/nui/files/images/nui944_01.jpg",
                     "release_dates": [
@@ -692,7 +843,32 @@
                     ],
                     "rarity": "Common",
                     "price_range": "$20",
-                    "gift_link": "https://www.gift-gift.jp/nui/nui944.html"
+                    "gift_link": "https://www.gift-gift.jp/nui/nui944.html",
+                    "amiami_link": "https://www.amiami.com/eng/detail/?gcode=GOODS-04281066"
+                }
+            ],
+            "mannakas": [
+                {
+                    "name": "Medium Size ver.",
+                    "id": "1043",
+                    "img": "https://www.gift-gift.jp/nui/files/images/nui1043_01.jpg",
+                    "release_dates": [
+                        2023
+                    ],
+                    "gift_link": "https://www.gift-gift.jp/nui/nui1043.html",
+                    "amiami_link": "https://www.amiami.com/eng/detail/?gcode=GOODS-04417664"
+                }
+            ],
+            "dekas": [
+                {
+                    "name": "ver.1",
+                    "id": "965",
+                    "img": "https://www.gift-gift.jp/nui/files/images/b02fe6049518d4c250434aebe349b448a93bd3d2.jpg",
+                    "release_dates": [
+                        2023
+                    ],
+                    "gift_link": "https://www.gift-gift.jp/nui/nui965.html",
+                    "amiami_link": "https://www.amiami.com/eng/detail/?gcode=GOODS-04299807"
                 }
             ]
         },
@@ -701,7 +877,7 @@
             "thwiki": "https://en.touhouwiki.net/wiki/Flandre_Scarlet",
             "regular": [
                 {
-                    "name": "Version 1",
+                    "name": "ver.1",
                     "id": "008",
                     "img": "https://www.gift-gift.jp/nui/files/images/nui008_01.jpg",
                     "release_dates": [
@@ -712,7 +888,8 @@
                     ],
                     "rarity": "Common",
                     "second_hand_cost": "Normal",
-                    "gift_link": "https://www.gift-gift.jp/nui/nui008.html"
+                    "gift_link": "https://www.gift-gift.jp/nui/nui008.html",
+                    "amiami_link": "https://www.amiami.com/eng/detail/?gcode=CGD-4301"
                 },
                 {
                     "name": "Nendroid Plus",
@@ -724,10 +901,11 @@
                     ],
                     "rarity": "Rare",
                     "second_hand_cost": "High",
-                    "gift_link": "https://www.gift-gift.jp/archive/nui/nui106.html"
+                    "gift_link": "https://www.gift-gift.jp/archive/nui/nui106.html",
+                    "amiami_link": "https://www.amiami.com/eng/detail/?gcode=CGD2-08452"
                 },
                 {
-                    "name": "Version 1.5",
+                    "name": "ver.1.5",
                     "id": "346",
                     "img": "https://www.gift-gift.jp/nui/files/images/nui346_01.jpg",
                     "release_dates": [
@@ -741,31 +919,37 @@
                     ],
                     "rarity": "Common",
                     "second_hand_cost": "Normal",
-                    "gift_link": "https://www.gift-gift.jp/nui/nui346.html"
-                }
-            ],
-            "dekas": [
-                {
-                    "name": "Version 1",
-                    "id": "189",
-                    "img": "https://www.gift-gift.jp/archive/nui/images/nui189_01.jpg",
-                    "release_dates": [
-                        2012
-                    ],
-                    "rarity": "Super Super Rare",
-                    "second_hand_cost": "High",
-                    "gift_link": "https://www.gift-gift.jp/archive/nui/nui189.html"
+                    "gift_link": "https://www.gift-gift.jp/nui/nui346.html",
+                    "amiami_link": "https://www.amiami.com/eng/detail/?gcode=GOODS-04321733"
                 },
                 {
-                    "name": "Version 1.5",
-                    "id": "852",
-                    "img": "https://www.gift-gift.jp/nui/files/images/nui852_01.jpg",
+                    "name": "LostWord ~ Vampire Pursuing the Hunter ver.",
+                    "id": "1033",
+                    "img": "https://www.gift-gift.jp/nui/files/images/nui1033_01.jpg",
                     "release_dates": [
-                        2022
+                        2023
                     ],
-                    "rarity": "Super Rare",
-                    "second_hand_cost": "Normal",
-                    "gift_link": "https://www.gift-gift.jp/nui/nui852.html"
+                    "gift_link": "https://www.gift-gift.jp/nui/nui1033.html",
+                    "amiami_link": "https://www.amiami.com/eng/detail/?gcode=GOODS-04417655"
+                },
+                {
+                    "name": "LostWord ~ Tiny Devil Mistress ver.",
+                    "id": "1034",
+                    "img": "https://www.gift-gift.jp/nui/files/images/nui1034_01.jpg",
+                    "release_dates": [
+                        2023
+                    ],
+                    "gift_link": "https://www.gift-gift.jp/nui/nui1034.html",
+                    "amiami_link": "https://www.amiami.com/eng/detail/?gcode=GOODS-04417655"
+                },
+                {
+                    "name": "LostWord ~ The Blooming Devil's Little Sister ver.",
+                    "id": "9999",
+                    "img": "https://www.gift-gift.jp/nui/files/images/nui9999_01.jpg",
+                    "release_dates": [
+                        2026
+                    ],
+                    "gift_link": "https://www.gift-gift.jp/nui/nui9999.html"
                 }
             ],
             "straps": [
@@ -781,7 +965,7 @@
                     "gift_link": "https://www.gift-gift.jp/nui/nui181.html"
                 },
                 {
-                    "name": "Plush Strap",
+                    "name": "Mini Plush",
                     "id": "902",
                     "img": "https://www.gift-gift.jp/nui/files/images/nui902.jpg",
                     "release_dates": [
@@ -789,7 +973,54 @@
                     ],
                     "rarity": "Common",
                     "price_range": "$20",
-                    "gift_link": "https://www.gift-gift.jp/nui/nui902.html"
+                    "gift_link": "https://www.gift-gift.jp/nui/nui902.html",
+                    "amiami_link": "https://www.amiami.com/eng/detail/?gcode=GOODS-04230789"
+                }
+            ],
+            "mannakas": [
+                {
+                    "name": "Medium Size ver.",
+                    "id": "1077",
+                    "img": "https://www.gift-gift.jp/nui/files/images/nui1077_01.jpg",
+                    "release_dates": [
+                        2024
+                    ],
+                    "gift_link": "https://www.gift-gift.jp/nui/nui1077.html",
+                    "amiami_link": "https://www.amiami.com/eng/detail/?gcode=GOODS-04480780"
+                }
+            ],
+            "dekas": [
+                {
+                    "name": "ver.1",
+                    "id": "189",
+                    "img": "https://www.gift-gift.jp/archive/nui/images/nui189_01.jpg",
+                    "release_dates": [
+                        2012
+                    ],
+                    "rarity": "Super Super Rare",
+                    "second_hand_cost": "High",
+                    "gift_link": "https://www.gift-gift.jp/archive/nui/nui189.html"
+                },
+                {
+                    "name": "ver.1.5",
+                    "id": "852",
+                    "img": "https://www.gift-gift.jp/nui/files/images/nui852_01.jpg",
+                    "release_dates": [
+                        2022
+                    ],
+                    "rarity": "Super Rare",
+                    "second_hand_cost": "Normal",
+                    "gift_link": "https://www.gift-gift.jp/nui/nui852.html",
+                    "amiami_link": "https://www.amiami.com/eng/detail/?gcode=GOODS-04198128"
+                },
+                {
+                    "name": "Yukkuri (45cm)",
+                    "id": "1223",
+                    "img": "https://www.gift-gift.jp/nui/files/images/nui1223_01.jpg",
+                    "release_dates": [
+                        2025
+                    ],
+                    "gift_link": "https://www.gift-gift.jp/nui/nui1223.html"
                 }
             ]
         },
@@ -798,7 +1029,7 @@
             "thwiki": "https://en.touhouwiki.net/wiki/Sanae_Kochiya",
             "regular": [
                 {
-                    "name": "Version 1",
+                    "name": "ver.1",
                     "id": "013",
                     "img": "https://www.gift-gift.jp/nui/files/images/nui013_01.jpg",
                     "release_dates": [
@@ -808,7 +1039,8 @@
                     ],
                     "rarity": "Common",
                     "second_hand_cost": "Normal",
-                    "gift_link": "https://www.gift-gift.jp/nui/nui013.html"
+                    "gift_link": "https://www.gift-gift.jp/nui/nui013.html",
+                    "amiami_link": "https://www.amiami.com/eng/detail/?gcode=CGD-4302"
                 },
                 {
                     "name": "Nendroid Plus",
@@ -819,22 +1051,34 @@
                     ],
                     "rarity": "Rare",
                     "second_hand_cost": "Normal",
-                    "gift_link": "https://www.gift-gift.jp/archive/nui/nui045.html"
+                    "gift_link": "https://www.gift-gift.jp/archive/nui/nui045.html",
+                    "amiami_link": "https://www.amiami.com/eng/detail/?gcode=CGD-8279"
                 },
                 {
-                    "name": "Version 2",
+                    "name": "ver.2",
                     "id": "290",
                     "img": "https://www.gift-gift.jp/nui/files/images/nui290_01.jpg",
                     "release_dates": [
                         2014,
                         2019,
                         2020,
-                        2022
+                        2022,
+                        2024
                     ],
                     "rarity": "Common",
                     "second_hand_cost": "Normal",
-                    "gift_link": "https://www.gift-gift.jp/nui/nui290.html"
-                }
+                    "gift_link": "https://www.gift-gift.jp/nui/nui290.html",
+                    "amiami_link": "https://www.amiami.com/eng/detail/?gcode=GOODS-04428515"
+                },
+				{
+					"name": "LostWord ~ Human and God Overlap ver.",
+					"id": "1161",
+                    "img": "https://www.gift-gift.jp/nui/files/images/nui1161_01.jpg",
+                    "release_dates": [
+                        2025
+                    ],
+                    "gift_link": "https://www.gift-gift.jp/nui/nui1161.html"
+				}
             ],
             "straps": [
                 {
@@ -847,6 +1091,39 @@
                     "rarity": "Rare",
                     "second_hand_cost": "Normal",
                     "gift_link": "https://www.gift-gift.jp/nui/nui153.html"
+                },
+                {
+                    "name": "Mini Plush",
+                    "id": "979",
+                    "img": "https://www.gift-gift.jp/nui/files/images/nui979_01.jpg",
+                    "release_dates": [
+                        2023
+                    ],
+                    "gift_link": "https://www.gift-gift.jp/nui/nui979.html",
+                    "amiami_link": "https://www.amiami.com/eng/detail/?gcode=GOODS-04347185"
+                }
+            ],
+			"mannakas": [
+                {
+                    "name": "Medium Size ver.",
+                    "id": "1162",
+                    "img": "https://www.gift-gift.jp/nui/files/images/nui1162_01.jpg",
+                    "release_dates": [
+                        2025
+                    ],
+                    "gift_link": "https://www.gift-gift.jp/nui/nui1162.html"
+                }
+            ],
+            "dekas": [
+                {
+                    "name": "ver.1",
+                    "id": "966",
+                    "img": "https://www.gift-gift.jp/nui/files/images/nui966_01.jpg",
+                    "release_dates": [
+                        2023
+                    ],
+                    "gift_link": "https://www.gift-gift.jp/nui/nui966.html",
+                    "amiami_link": "https://www.amiami.com/eng/detail/?gcode=GOODS-04299809"
                 }
             ]
         },
@@ -855,7 +1132,7 @@
             "thwiki": "https://en.touhouwiki.net/wiki/Cirno",
             "regular": [
                 {
-                    "name": "Version 1",
+                    "name": "ver.1",
                     "id": "014",
                     "img": "https://www.gift-gift.jp/nui/files/images/nui014_01.jpg",
                     "release_dates": [
@@ -866,7 +1143,8 @@
                     ],
                     "rarity": "Common",
                     "second_hand_cost": "Very High",
-                    "gift_link": "https://www.gift-gift.jp/nui/nui014.html"
+                    "gift_link": "https://www.gift-gift.jp/nui/nui014.html",
+                    "amiami_link": "https://www.amiami.com/eng/detail/?gcode=CGD-4303"
                 },
                 {
                     "name": "Nendroid Plus",
@@ -877,10 +1155,11 @@
                     ],
                     "rarity": "Rare",
                     "second_hand_cost": "Very High",
-                    "gift_link": "https://www.gift-gift.jp/archive/nui/nui195.html"
+                    "gift_link": "https://www.gift-gift.jp/archive/nui/nui195.html",
+                    "amiami_link": "https://www.amiami.com/eng/detail/?gcode=CGD2-35215"
                 },
                 {
-                    "name": "Version 1.5",
+                    "name": "ver.1.5",
                     "id": "558",
                     "img": "https://www.gift-gift.jp/nui/files/images/nui558_01.jpg",
                     "release_dates": [
@@ -888,29 +1167,87 @@
                         2019,
                         2020,
                         2021,
-                        2022
+                        2022,
+                        2024
                     ],
                     "rarity": "Common",
                     "second_hand_cost": "Very High",
-                    "gift_link": "https://www.gift-gift.jp/nui/nui558.html"
+                    "gift_link": "https://www.gift-gift.jp/nui/nui558.html",
+                    "amiami_link": "https://www.amiami.com/eng/detail/?gcode=GOODS-04390414"
                 },
                 {
-                    "name": "Tanned Version",
-                    "id": 559,
+                    "name": "Suntanned",
+                    "id": "559",
                     "img": "https://www.gift-gift.jp/nui/files/images/nui559_01.jpg",
                     "release_dates": [
                         2018,
                         2019,
-                        2022
+                        2022,
+                        2024
                     ],
                     "rarity": "Uncommon",
                     "second_hand_cost": "Very High",
-                    "gift_link": "https://www.gift-gift.jp/nui/nui559.html"
+                    "gift_link": "https://www.gift-gift.jp/nui/nui559.html",
+                    "amiami_link": "https://www.amiami.com/eng/detail/?gcode=GOODS-04390416"
+                },
+				{
+					"name": "Hisoutensoku",
+                    "id": "1184",
+                    "img": "https://www.gift-gift.jp/nui/files/images/nui1184_01.jpg",
+                    "release_dates": [
+                        2025
+                    ],
+                    "rarity": "Common",
+                    "gift_link": "https://www.gift-gift.jp/nui/nui1184.html",
+                    "amiami_link": "https://www.amiami.com/eng/detail/?gcode=GOODS-04649339"
+				}
+            ],
+            "straps": [
+                {
+                    "name": "Mini Plush",
+                    "id": "1037",
+                    "img": "https://www.gift-gift.jp/nui/files/images/nui1037_01.jpg",
+                    "release_dates": [
+                        2023
+                    ],
+                    "gift_link": "https://www.gift-gift.jp/nui/nui1037.html",
+                    "amiami_link": "https://www.amiami.com/eng/detail/?gcode=GOODS-04417659"
+                },
+                {
+                    "name": "Mini Plush Suntanned",
+                    "id": "1038",
+                    "img": "https://www.gift-gift.jp/nui/files/images/nui1038_01.jpg",
+                    "release_dates": [
+                        2023
+                    ],
+                    "gift_link": "https://www.gift-gift.jp/nui/nui1038.html",
+                    "amiami_link": "https://www.amiami.com/eng/detail/?gcode=GOODS-04417660"
                 }
             ],
+			"mannakas": [
+                {
+                    "name": "Medium Size ver.",
+                    "id": "942",
+                    "img": "https://www.gift-gift.jp/nui/files/images/nui942_01.jpg",
+                    "release_dates": [
+                        2022,
+						2025
+                    ],
+                    "gift_link": "https://www.gift-gift.jp/nui/nui942.html"
+                },
+				{
+                    "name": "Medium Size Suntanned",
+                    "id": "1165",
+                    "img": "https://www.gift-gift.jp/nui/files/images/nui1165_01.jpg",
+                    "release_dates": [
+                        2025
+                    ],
+                    "gift_link": "https://www.gift-gift.jp/nui/nui1165.html"
+                }
+			],
             "dekas": [
                 {
-                    "name": "Version 1",
+                    "name": "ver.1",
                     "id": "050",
                     "img": "https://www.gift-gift.jp/archive/nui/images/nui050_01.jpg",
                     "release_dates": [
@@ -920,6 +1257,35 @@
                     "rarity": "Super Super Rare",
                     "second_hand_cost": "Very High",
                     "gift_link": "https://www.gift-gift.jp/archive/nui/nui050.html"
+                },
+                {
+                    "name": "ver.1.5",
+                    "id": "1120",
+                    "img": "https://www.gift-gift.jp/nui/files/images/nui1120_01.jpg",
+                    "release_dates": [
+                        2025
+                    ],
+                    "gift_link": "https://www.gift-gift.jp/nui/nui1120.html",
+                    "amiami_link": "https://www.amiami.com/eng/detail/?gcode=GOODS-04549459"
+                },
+                {
+                    "name": "Suntanned",
+                    "id": "1121",
+                    "img": "https://www.gift-gift.jp/nui/files/images/nui1121_01.jpg",
+                    "release_dates": [
+                        2025
+                    ],
+                    "gift_link": "https://www.gift-gift.jp/nui/nui1121.html",
+                    "amiami_link": "https://www.amiami.com/eng/detail/?gcode=GOODS-04549457"
+                },
+                {
+                    "name": "Yukkuri (45cm)",
+                    "id": "1273",
+                    "img": "https://www.gift-gift.jp/nui/files/images/nui1273_01.jpg",
+                    "release_dates": [
+                        2026
+                    ],
+                    "gift_link": "https://www.gift-gift.jp/nui/nui1273.html"
                 }
             ]
         },
@@ -928,7 +1294,7 @@
             "thwiki": "https://en.touhouwiki.net/wiki/Suwako_Moriya",
             "regular": [
                 {
-                    "name": "Version 1",
+                    "name": "ver.1",
                     "id": "015",
                     "img": "https://www.gift-gift.jp/nui/files/images/nui015_01.jpg",
                     "release_dates": [
@@ -938,10 +1304,11 @@
                     ],
                     "rarity": "Super Rare",
                     "second_hand_cost": "High",
-                    "gift_link": "https://www.gift-gift.jp/nui/nui015.html"
+                    "gift_link": "https://www.gift-gift.jp/nui/nui015.html",
+                    "amiami_link": "https://www.amiami.com/eng/detail/?gcode=CGD-4304"
                 },
                 {
-                    "name": "Version 1.5",
+                    "name": "ver.1.5",
                     "id": "936",
                     "img": "https://www.gift-gift.jp/nui/files/images/nui936_01.jpg",
                     "release_dates": [
@@ -949,7 +1316,31 @@
                     ],
                     "rarity": "Common",
                     "second_hand_cost": "Normal",
-                    "gift_link": "https://www.gift-gift.jp/nui/nui936.html"
+                    "gift_link": "https://www.gift-gift.jp/nui/nui936.html",
+                    "amiami_link": "https://www.amiami.com/eng/detail/?gcode=GOODS-04281052"
+                }
+            ],
+            "straps": [
+                {
+                    "name": "Mini Plush",
+                    "id": "1075",
+                    "img": "https://www.gift-gift.jp/nui/files/images/nui1075_01.jpg",
+                    "release_dates": [
+                        2024
+                    ],
+                    "gift_link": "https://www.gift-gift.jp/nui/nui1075.html",
+                    "amiami_link": "https://www.amiami.com/eng/detail/?gcode=GOODS-04480778"
+                }
+            ],
+            "mannakas": [
+                {
+                    "name": "Medium Size ver.",
+                    "id": "1163",
+                    "img": "https://www.gift-gift.jp/nui/files/images/nui1163_01.jpg",
+                    "release_dates": [
+                        2025
+                    ],
+                    "gift_link": "https://www.gift-gift.jp/nui/nui1163.html"
                 }
             ]
         },
@@ -958,7 +1349,7 @@
             "thwiki": "https://en.touhouwiki.net/wiki/Youmu_Konpaku",
             "regular": [
                 {
-                    "name": "Version 1",
+                    "name": "ver.1",
                     "id": "039",
                     "img": "https://www.gift-gift.jp/nui/files/images/nui039_01.jpg",
                     "release_dates": [
@@ -968,10 +1359,11 @@
                     ],
                     "rarity": "Uncommon",
                     "second_hand_cost": "Normal",
-                    "gift_link": "https://www.gift-gift.jp/nui/nui039.html"
+                    "gift_link": "https://www.gift-gift.jp/nui/nui039.html",
+                    "amiami_link": "https://www.amiami.com/eng/detail/?gcode=CGD-7030"
                 },
                 {
-                    "name": "Version 1.5",
+                    "name": "ver.1.5",
                     "id": "489",
                     "img": "https://www.gift-gift.jp/nui/files/images/nui489_01.jpg",
                     "release_dates": [
@@ -984,22 +1376,43 @@
                     ],
                     "rarity": "Common",
                     "second_hand_cost": "Normal",
-                    "gift_link": "https://www.gift-gift.jp/nui/nui489.html"
+                    "gift_link": "https://www.gift-gift.jp/nui/nui489.html",
+                    "amiami_link": "https://www.amiami.com/eng/detail/?gcode=GOODS-04238026"
                 },
                 {
-                    "name": "Lost Word ~ Mysterious Sword Master Version",
+                    "name": "LostWord ~ Mysterious Master Swordsman ver.",
                     "id": "918",
                     "img": "https://www.gift-gift.jp/nui/files/images/nui918.jpg",
                     "release_dates": [
                         2022
                     ],
                     "rarity": "Uncommon",
-                    "gift_link": "https://www.gift-gift.jp/nui/nui918.html"
+                    "gift_link": "https://www.gift-gift.jp/nui/nui918.html",
+                    "amiami_link": "https://www.amiami.com/eng/detail/?gcode=GOODS-04238026"
+                },
+                {
+                    "name": "Kourindou ver.",
+                    "id": "1159",
+                    "img": "https://www.gift-gift.jp/nui/files/images/nui1159_01.jpg",
+                    "release_dates": [
+                        2025
+                    ],
+                    "gift_link": "https://www.gift-gift.jp/nui/nui1159.html",
+                    "amiami_link": "https://www.amiami.com/eng/detail/?gcode=GOODS-04556575"
+                },
+				{
+                    "name": "LostWord ~ Moon Battle Gardener ver.",
+                    "id": "9999",
+                    "img": "https://www.gift-gift.jp/nui/files/images/nui9999_01.jpg",
+                    "release_dates": [
+                        2026
+                    ],
+                    "gift_link": "https://www.gift-gift.jp/nui/nui9999.html"
                 }
             ],
             "straps": [
                 {
-                    "name": "Plush Strap",
+                    "name": "Mini Plush",
                     "id": "946",
                     "img": "https://www.gift-gift.jp/nui/files/images/nui946_01.jpg",
                     "release_dates": [
@@ -1007,12 +1420,25 @@
                     ],
                     "rarity": "Common",
                     "second_hand_cost": "Normal",
-                    "gift_link": "https://www.gift-gift.jp/nui/nui946.html"
+                    "gift_link": "https://www.gift-gift.jp/nui/nui946.html",
+                    "amiami_link": "https://www.amiami.com/eng/detail/?gcode=GOODS-04281062"
+                }
+            ],
+            "mannakas": [
+                {
+                    "name": "Medium Size ver.",
+                    "id": "977",
+                    "img": "https://www.gift-gift.jp/nui/files/images/nui977_01.jpg",
+                    "release_dates": [
+                        2023
+                    ],
+                    "gift_link": "https://www.gift-gift.jp/nui/nui977.html",
+                    "amiami_link": "https://www.amiami.com/eng/detail/?gcode=GOODS-04347181"
                 }
             ],
             "dekas": [
                 {
-                    "name": "Version 1",
+                    "name": "ver.1",
                     "id": "920",
                     "img": "https://www.gift-gift.jp/nui/files/images/nui920_01.jpg",
                     "release_dates": [
@@ -1020,7 +1446,8 @@
                     ],
                     "rarity": "Super Rare",
                     "second_hand_cost": "Normal",
-                    "gift_link": "https://www.gift-gift.jp/nui/nui920.html"
+                    "gift_link": "https://www.gift-gift.jp/nui/nui920.html",
+                    "amiami_link": "https://www.amiami.com/eng/detail/?gcode=GOODS-04257768"
                 }
             ]
         },
@@ -1029,7 +1456,7 @@
             "thwiki": "https://en.touhouwiki.net/wiki/Yuyuko_Saigyouji",
             "regular": [
                 {
-                    "name": "Version 1",
+                    "name": "ver.1",
                     "id": "040",
                     "img": "https://www.gift-gift.jp/nui/files/images/nui040_01.jpg",
                     "release_dates": [
@@ -1039,10 +1466,11 @@
                     ],
                     "rarity": "Uncommon",
                     "second_hand_cost": "Normal",
-                    "gift_link": "https://www.gift-gift.jp/nui/nui040.html"
+                    "gift_link": "https://www.gift-gift.jp/nui/nui040.html",
+                    "amiami_link": "https://www.amiami.com/eng/detail/?gcode=CGD-7031"
                 },
                 {
-                    "name": "Version 1.5",
+                    "name": "ver.1.5",
                     "id": "490",
                     "img": "https://www.gift-gift.jp/nui/files/images/nui490_01.jpg",
                     "release_dates": [
@@ -1055,12 +1483,23 @@
                     ],
                     "rarity": "Common",
                     "second_hand_cost": "Normal",
-                    "gift_link": "https://www.gift-gift.jp/nui/nui490.html"
+                    "gift_link": "https://www.gift-gift.jp/nui/nui490.html",
+                    "amiami_link": "https://www.amiami.com/eng/detail/?gcode=GOODS-04270990"
+                },
+                {
+                    "name": "LostWord ~ Tiny Ghost Mistress ver.",
+                    "id": "1083",
+                    "img": "https://www.gift-gift.jp/nui/files/images/nui1083_01.jpg",
+                    "release_dates": [
+                        2024
+                    ],
+                    "gift_link": "https://www.gift-gift.jp/nui/nui1083.html",
+                    "amiami_link": "https://www.amiami.com/eng/detail/?gcode=GOODS-04482582"
                 }
             ],
             "straps": [
                 {
-                    "name": "Plush Strap",
+                    "name": "Mini Plush",
                     "id": "945",
                     "img": "https://www.gift-gift.jp/nui/files/images/nui945_01.jpg",
                     "release_dates": [
@@ -1068,12 +1507,25 @@
                     ],
                     "rarity": "Common",
                     "second_hand_cost": "Normal",
-                    "gift_link": "https://www.gift-gift.jp/nui/nui945.html"
+                    "gift_link": "https://www.gift-gift.jp/nui/nui945.html",
+                    "amiami_link": "https://www.amiami.com/eng/detail/?gcode=GOODS-04281060"
+                }
+            ],
+            "mannakas": [
+                {
+                    "name": "Medium Size ver.",
+                    "id": "978",
+                    "img": "https://www.gift-gift.jp/nui/files/images/nui978_01.jpg",
+                    "release_dates": [
+                        2023
+                    ],
+                    "gift_link": "https://www.gift-gift.jp/nui/nui978.html",
+                    "amiami_link": "https://www.amiami.com/eng/detail/?gcode=GOODS-04347183"
                 }
             ],
             "dekas": [
                 {
-                    "name": "Version 1",
+                    "name": "ver.1",
                     "id": "921",
                     "img": "https://www.gift-gift.jp/nui/files/images/nui921_01.jpg",
                     "release_dates": [
@@ -1081,7 +1533,8 @@
                     ],
                     "rarity": "Super Rare",
                     "second_hand_cost": "Normal",
-                    "gift_link": "https://www.gift-gift.jp/nui/nui921.html"
+                    "gift_link": "https://www.gift-gift.jp/nui/nui921.html",
+                    "amiami_link": "https://www.amiami.com/eng/detail/?gcode=GOODS-04257769"
                 }
             ]
         },
@@ -1090,7 +1543,7 @@
             "thwiki": "https://en.touhouwiki.net/wiki/Hong_Meiling",
             "regular": [
                 {
-                    "name": "Version 1",
+                    "name": "ver.1",
                     "id": "056",
                     "img": "https://www.gift-gift.jp/nui/files/images/nui056_01.jpg",
                     "release_dates": [
@@ -1102,7 +1555,7 @@
                     "gift_link": "https://www.gift-gift.jp/nui/nui056.html"
                 },
                 {
-                    "name": "Version 1.5",
+                    "name": "ver.1.5",
                     "id": "935",
                     "img": "https://www.gift-gift.jp/nui/files/images/nui935_01.jpg",
                     "release_dates": [
@@ -1110,7 +1563,8 @@
                     ],
                     "rarity": "Common",
                     "second_hand_cost": "Normal",
-                    "gift_link": "https://www.gift-gift.jp/nui/nui935.html"
+                    "gift_link": "https://www.gift-gift.jp/nui/nui935.html",
+                    "amiami_link": "https://www.amiami.com/eng/detail/?gcode=GOODS-04281050"
                 }
             ]
         },
@@ -1119,7 +1573,7 @@
             "thwiki": "https://en.touhouwiki.net/wiki/Chen",
             "regular": [
                 {
-                    "name": "Version 1",
+                    "name": "ver.1",
                     "id": "080",
                     "img": "https://www.gift-gift.jp/nui/files/images/nui080_01.jpg",
                     "release_dates": [
@@ -1132,18 +1586,44 @@
                     "gift_link": "https://www.gift-gift.jp/nui/nui080.html"
                 },
                 {
-                    "name": "Version 1.5",
+                    "name": "ver.1.5",
                     "id": "523",
                     "img": "https://www.gift-gift.jp/nui/files/images/nui523_01.jpg",
                     "release_dates": [
                         2017,
                         2018,
                         2020,
-                        2022
+                        2022,
+                        2025
                     ],
                     "rarity": "Common",
                     "second_hand_cost": "Normal",
-                    "gift_link": "https://www.gift-gift.jp/nui/nui523.html"
+                    "gift_link": "https://www.gift-gift.jp/nui/nui523.html",
+                    "amiami_link": "https://www.amiami.com/eng/detail/?gcode=GOODS-04483933"
+                }
+            ],
+            "straps": [
+                {
+                    "name": "Mini Plush",
+                    "id": "982",
+                    "img": "https://www.gift-gift.jp/nui/files/images/nui982_01.jpg",
+                    "release_dates": [
+                        2023
+                    ],
+                    "gift_link": "https://www.gift-gift.jp/nui/nui982.html",
+                    "amiami_link": "https://www.amiami.com/eng/detail/?gcode=GOODS-04347191"
+                }
+            ],
+            "mannakas": [
+                {
+                    "name": "Medium Size ver.",
+                    "id": "1220",
+                    "img": "https://www.gift-gift.jp/nui/files/images/nui1220_01.jpg",
+                    "release_dates": [
+                        2025
+                    ],
+                    "gift_link": "https://www.gift-gift.jp/nui/nui1220.html",
+                    "amiami_link": "https://www.amiami.com/eng/search/list/?s_keywords=Touhou+Plush+Gift"
                 }
             ]
         },
@@ -1152,7 +1632,7 @@
             "thwiki": "https://en.touhouwiki.net/wiki/Ran_Yakumo",
             "regular": [
                 {
-                    "name": "Version 1",
+                    "name": "ver.1",
                     "id": "081",
                     "img": "https://www.gift-gift.jp/nui/files/images/nui081_01.jpg",
                     "release_dates": [
@@ -1165,18 +1645,44 @@
                     "gift_link": "https://www.gift-gift.jp/nui/nui081.html"
                 },
                 {
-                    "name": "Version 1.5",
+                    "name": "ver.1.5",
                     "id": "524",
                     "img": "https://www.gift-gift.jp/nui/files/images/nui524_01.jpg",
                     "release_dates": [
                         2017,
                         2018,
                         2020,
-                        2022
+                        2022,
+                        2025
                     ],
                     "rarity": "Rare",
                     "second_hand_cost": "High",
-                    "gift_link": "https://www.gift-gift.jp/nui/nui524.html"
+                    "gift_link": "https://www.gift-gift.jp/nui/nui524.html",
+                    "amiami_link": "https://www.amiami.com/eng/detail/?gcode=GOODS-04483931"
+                }
+            ],
+            "straps": [
+                {
+                    "name": "Mini Plush",
+                    "id": "981",
+                    "img": "https://www.gift-gift.jp/nui/files/images/nui981_01.jpg",
+                    "release_dates": [
+                        2023
+                    ],
+                    "gift_link": "https://www.gift-gift.jp/nui/nui981.html",
+                    "amiami_link": "https://www.amiami.com/eng/detail/?gcode=GOODS-04347189"
+                }
+            ],
+            "mannakas": [
+                {
+                    "name": "Medium Size ver.",
+                    "id": "1219",
+                    "img": "https://www.gift-gift.jp/nui/files/images/nui1219_01.jpg",
+                    "release_dates": [
+                        2025
+                    ],
+                    "gift_link": "https://www.gift-gift.jp/nui/nui1219.html",
+                    "amiami_link": "https://www.amiami.com/eng/search/list/?s_keywords=Touhou+Plush+Gift"
                 }
             ]
         },
@@ -1185,7 +1691,7 @@
             "thwiki": "https://en.touhouwiki.net/wiki/Yukari_Yakumo",
             "regular": [
                 {
-                    "name": "Version 1",
+                    "name": "ver.1",
                     "id": "082",
                     "img": "https://www.gift-gift.jp/nui/files/images/nui082_01.jpg",
                     "release_dates": [
@@ -1198,17 +1704,55 @@
                     "gift_link": "https://www.gift-gift.jp/nui/nui082.html"
                 },
                 {
-                    "name": "Version 1.5",
+                    "name": "ver.1.5",
                     "id": "525",
                     "img": "https://www.gift-gift.jp/nui/files/images/nui525_01.jpg",
                     "release_dates": [
                         2017,
                         2018,
-                        2022
+                        2022,
+                        2025
                     ],
                     "rarity": "Common",
                     "second_hand_cost": "Normal",
-                    "gift_link": "https://www.gift-gift.jp/nui/nui525.html"
+                    "gift_link": "https://www.gift-gift.jp/nui/nui525.html",
+                    "amiami_link": "https://www.amiami.com/eng/detail/?gcode=GOODS-04483929"
+                },
+                {
+                    "name": "Kourindou ver.",
+                    "id": "991",
+                    "img": "https://www.gift-gift.jp/nui/files/images/nui991_01.jpg",
+                    "release_dates": [
+                        2023
+                    ],
+                    "rarity": "Common",
+                    "second_hand_cost": "Normal",
+                    "gift_link": "https://www.gift-gift.jp/nui/nui991.html",
+                    "amiami_link": "https://www.amiami.com/eng/detail/?gcode=GOODS-04367913"
+                }
+            ],
+            "straps": [
+                {
+                    "name": "Mini Plush",
+                    "id": "980",
+                    "img": "https://www.gift-gift.jp/nui/files/images/nui980_01.jpg",
+                    "release_dates": [
+                        2023
+                    ],
+                    "gift_link": "https://www.gift-gift.jp/nui/nui980.html",
+                    "amiami_link": "https://www.amiami.com/eng/detail/?gcode=GOODS-04347187"
+                }
+            ],
+            "mannakas": [
+                {
+                    "name": "Medium Size ver.",
+                    "id": "1218",
+                    "img": "https://www.gift-gift.jp/nui/files/images/nui1218_01.jpg",
+                    "release_dates": [
+                        2025
+                    ],
+                    "gift_link": "https://www.gift-gift.jp/nui/nui1218.html",
+                    "amiami_link": "https://www.amiami.com/eng/search/list/?s_keywords=Touhou+Plush+Gift"
                 }
             ]
         },
@@ -1217,7 +1761,7 @@
             "thwiki": "https://en.touhouwiki.net/wiki/Kaguya_Houraisan",
             "regular": [
                 {
-                    "name": "Version 1",
+                    "name": "ver.1",
                     "id": "138",
                     "img": "https://www.gift-gift.jp/nui/files/images/nui138_01.jpg",
                     "release_dates": [
@@ -1228,7 +1772,19 @@
                     ],
                     "rarity": "Uncommon",
                     "second_hand_cost": "Normal",
-                    "gift_link": "https://www.gift-gift.jp/nui/nui138.html"
+                    "gift_link": "https://www.gift-gift.jp/nui/nui138.html",
+                    "amiami_link": "https://www.amiami.com/eng/detail/?gcode=GOODS-04262774"
+                }
+            ],
+			"mannakas": [
+                {
+                    "name": "Medium Size ver.",
+                    "id": "1275",
+                    "img": "https://www.gift-gift.jp/nui/files/images/nui1275_01.jpg",
+                    "release_dates": [
+                        2026
+                    ],
+                    "gift_link": "https://www.gift-gift.jp/nui/nui1275.html"
                 }
             ]
         },
@@ -1237,7 +1793,7 @@
             "thwiki": "https://en.touhouwiki.net/wiki/Fujiwara_no_Mokou",
             "regular": [
                 {
-                    "name": "Version 1",
+                    "name": "ver.1",
                     "id": "139",
                     "img": "https://www.gift-gift.jp/nui/files/images/nui139_01.jpg",
                     "release_dates": [
@@ -1250,7 +1806,40 @@
                     ],
                     "rarity": "Uncommon",
                     "second_hand_cost": "Normal",
-                    "gift_link": "https://www.gift-gift.jp/nui/nui139.html"
+                    "gift_link": "https://www.gift-gift.jp/nui/nui139.html",
+                    "amiami_link": "https://www.amiami.com/eng/detail/?gcode=GOODS-04262772"
+                },
+				{
+					"name": "LostWord ~ Rebellious Blue Phoenix ver.",
+                    "id": "1160",
+                    "img": "https://www.gift-gift.jp/nui/files/images/nui1160_01.jpg",
+                    "release_dates": [
+                        2025
+                    ],
+                    "gift_link": "https://www.gift-gift.jp/nui/nui1160.html"
+				}
+            ],
+            "straps": [
+                {
+                    "name": "Mini Plush",
+                    "id": "1072",
+                    "img": "https://www.gift-gift.jp/nui/files/images/nui1072_01.jpg",
+                    "release_dates": [
+                        2024
+                    ],
+                    "gift_link": "https://www.gift-gift.jp/nui/nui1072.html",
+                    "amiami_link": "https://www.amiami.com/eng/detail/?gcode=GOODS-04480775"
+                }
+            ],
+			"mannakas": [
+                {
+                    "name": "Medium Size ver.",
+                    "id": "1274",
+                    "img": "https://www.gift-gift.jp/nui/files/images/nui1274_01.jpg",
+                    "release_dates": [
+                        2026
+                    ],
+                    "gift_link": "https://www.gift-gift.jp/nui/nui1274.html"
                 }
             ]
         },
@@ -1259,7 +1848,7 @@
             "thwiki": "https://en.touhouwiki.net/wiki/Satori_Komeiji",
             "regular": [
                 {
-                    "name": "Version 1",
+                    "name": "ver.1",
                     "id": "196",
                     "img": "https://www.gift-gift.jp/nui/files/images/nui196_01.jpg",
                     "release_dates": [
@@ -1270,16 +1859,28 @@
                         2017,
                         2018,
                         2020,
-                        2022
+                        2022,
+                        2024
                     ],
                     "rarity": "Common",
                     "second_hand_cost": "Normal",
-                    "gift_link": "https://www.gift-gift.jp/nui/nui196.html"
+                    "gift_link": "https://www.gift-gift.jp/nui/nui196.html",
+                    "amiami_link": "https://www.amiami.com/eng/detail/?gcode=GOODS-04230795"
+                },
+                {
+                    "name": "17cm ver.",
+                    "id": "1182",
+                    "img": "https://www.gift-gift.jp/nui/files/images/nui1182_01.jpg",
+                    "release_dates": [
+                        2025,
+						2026
+                    ],
+                    "gift_link": "https://www.gift-gift.jp/nui/nui1182.html"
                 }
             ],
             "straps": [
                 {
-                    "name": "Plush Strap",
+                    "name": "Mini Plush",
                     "id": "808",
                     "img": "https://www.gift-gift.jp/nui/files/images/nui808_01.jpg",
                     "release_dates": [
@@ -1287,12 +1888,26 @@
                     ],
                     "rarity": "Common",
                     "second_hand_cost": "Normal",
-                    "gift_link": "https://www.gift-gift.jp/nui/nui808.html"
+                    "gift_link": "https://www.gift-gift.jp/nui/nui808.html",
+                    "amiami_link": "https://www.amiami.com/eng/detail/?gcode=GOODS-04287533"
+                }
+            ],
+            "mannakas": [
+                {
+                    "name": "Medium Size ver.",
+                    "id": "940",
+                    "img": "https://www.gift-gift.jp/nui/files/images/nui940_01.jpg",
+                    "release_dates": [
+                        2022,
+                        2025
+                    ],
+                    "gift_link": "https://www.gift-gift.jp/nui/nui940.html",
+                    "amiami_link": "https://www.amiami.com/eng/detail/?gcode=GOODS-04281068"
                 }
             ],
             "dekas":  [
-              {
-                    "name": "Version 1",
+				{
+                    "name": "ver.1",
                     "id": "820",
                     "img": "https://www.gift-gift.jp/nui/files/images/nui820_01.jpg",
                     "release_dates":[
@@ -1302,7 +1917,16 @@
                     "rarity": "Super Rare",
                     "second_hand_cost": "Normal",
                     "gift_link": "https://www.gift-gift.jp/nui/nui820.html"
-              }
+				},
+                {
+                    "name": "Yukkuri (45cm)",
+                    "id": "1122",
+                    "img": "https://www.gift-gift.jp/nui/files/images/nui1122_01.jpg",
+                    "release_dates": [
+                        2025
+                    ],
+                    "gift_link": "https://www.gift-gift.jp/nui/nui1122.html"
+                }
             ]
         },
         {
@@ -1310,7 +1934,7 @@
             "thwiki": "https://en.touhouwiki.net/wiki/Koishi_Komeiji",
             "regular": [
                 {
-                    "name": "Version 1",
+                    "name": "ver.1",
                     "id": "197",
                     "img": "https://www.gift-gift.jp/nui/files/images/nui197_01.jpg",
                     "release_dates": [
@@ -1322,16 +1946,47 @@
                         2018,
                         2019,
                         2020,
-                        2022
+                        2022,
+                        2024
                     ],
                     "rarity": "Common",
                     "second_hand_cost": "Normal",
-                    "gift_link": "https://www.gift-gift.jp/nui/nui197.html"
+                    "gift_link": "https://www.gift-gift.jp/nui/nui197.html",
+                    "amiami_link": "https://www.amiami.com/eng/detail/?gcode=GOODS-04428514"
+                },
+                {
+                    "name": "LostWord ~ Spontaneous White Beauty ver.",
+                    "id": "1085",
+                    "img": "https://www.gift-gift.jp/nui/files/images/nui1085_01.jpg",
+                    "release_dates": [
+                        2024
+                    ],
+                    "gift_link": "https://www.gift-gift.jp/nui/nui1085.html",
+                    "amiami_link": "https://www.amiami.com/eng/detail/?gcode=GOODS-04482586"
+                },
+                {
+                    "name": "17cm ver.",
+                    "id": "1183",
+                    "img": "https://www.gift-gift.jp/nui/files/images/nui1183_01.jpg",
+                    "release_dates": [
+                        2025,
+						2026
+                    ],
+                    "gift_link": "https://www.gift-gift.jp/nui/nui1183.html"
+                },
+                {
+                    "name": "LostWord ~ Blooming Love Eyes ver.",
+                    "id": "9999",
+                    "img": "https://www.gift-gift.jp/nui/files/images/nui9999_01.jpg",
+                    "release_dates": [
+                        2026
+                    ],
+                    "gift_link": "https://www.gift-gift.jp/nui/nui9999.html"
                 }
             ],
             "straps": [
                 {
-                    "name": "Plush Strap",
+                    "name": "Mini Plush",
                     "id": "809",
                     "img": "https://www.gift-gift.jp/nui/files/images/nui809_01.jpg",
                     "release_dates": [
@@ -1339,12 +1994,26 @@
                     ],
                     "rarity": "Common",
                     "second_hand_cost": "Normal",
-                    "gift_link": "https://www.gift-gift.jp/nui/nui809.html"
+                    "gift_link": "https://www.gift-gift.jp/nui/nui809.html",
+                    "amiami_link": "https://www.amiami.com/eng/detail/?gcode=GOODS-04287532"
+                }
+            ],
+            "mannakas": [
+                {
+                    "name": "Medium Size ver.",
+                    "id": "941",
+                    "img": "https://www.gift-gift.jp/nui/files/images/nui941_01.jpg",
+                    "release_dates": [
+                        2022,
+                        2025
+                    ],
+                    "gift_link": "https://www.gift-gift.jp/nui/nui941.html",
+                    "amiami_link": "https://www.amiami.com/eng/detail/?gcode=GOODS-04281070"
                 }
             ],
             "dekas": [
                 {
-                    "name": "Version 1",
+                    "name": "ver.1",
                     "id": "821",
                     "img": "https://www.gift-gift.jp/nui/files/images/nui821_01.jpg",
                     "release_dates": [
@@ -1353,7 +2022,17 @@
                     ],
                     "rarity": "Super Rare",
                     "second_hand_cost": "Normal",
-                    "gift_link": "https://www.gift-gift.jp/nui/nui821.html"
+                    "gift_link": "https://www.gift-gift.jp/nui/nui821.html",
+                    "amiami_link": "https://www.amiami.com/eng/detail/?gcode=GOODS-04198122"
+                },
+                {
+                    "name": "Yukkuri (61cm)",
+                    "id": "1123",
+                    "img": "https://www.gift-gift.jp/nui/files/images/nui1123_01.jpg",
+                    "release_dates": [
+                        2025
+                    ],
+                    "gift_link": "https://www.gift-gift.jp/nui/nui1123.html"
                 }
             ]
         },
@@ -1362,7 +2041,7 @@
             "thwiki": "https://en.touhouwiki.net/wiki/Reisen_Udongein_Inaba",
             "regular": [
                 {
-                    "name": "Version 1",
+                    "name": "ver.1",
                     "id": "236",
                     "img": "https://www.gift-gift.jp/nui/files/images/nui236_01.jpg",
                     "release_dates": [
@@ -1370,14 +2049,16 @@
                         2016,
                         2020,
                         2021,
-                        2023
+                        2023,
+						2025
                     ],
                     "rarity": "Rare",
                     "second_hand_cost": "Normal",
-                    "gift_link": "https://www.gift-gift.jp/nui/nui236.html"
+                    "gift_link": "https://www.gift-gift.jp/nui/nui236.html",
+                    "amiami_link": "https://www.amiami.com/eng/detail/?gcode=GOODS-04262776"
                 },
                 {
-                    "name": "Hisouten Version",
+                    "name": "Hisouten ver.",
                     "id": "424",
                     "img": "https://www.gift-gift.jp/nui/files/images/nui424_01.jpg",
                     "release_dates": [
@@ -1386,7 +2067,32 @@
                     ],
                     "rarity": "Rare",
                     "second_hand_cost": "Normal",
-                    "gift_link": "https://www.gift-gift.jp/nui/nui424.html"
+                    "gift_link": "https://www.gift-gift.jp/nui/nui424.html",
+                    "amiami_link": "https://www.amiami.com/eng/detail/?gcode=GOODS-04450140"
+                }
+            ],
+            "straps": [
+                {
+                    "name": "Mini Plush",
+                    "id": "1040",
+                    "img": "https://www.gift-gift.jp/nui/files/images/nui1040_01.jpg",
+                    "release_dates": [
+                        2023
+                    ],
+                    "gift_link": "https://www.gift-gift.jp/nui/nui1040.html",
+                    "amiami_link": "https://www.amiami.com/eng/detail/?gcode=GOODS-04417662"
+                }
+            ],
+            "mannakas": [
+                {
+                    "name": "Medium Size ver.",
+                    "id": "1115",
+                    "img": "https://www.gift-gift.jp/nui/files/images/nui1115_01.jpg",
+                    "release_dates": [
+                        2024
+                    ],
+                    "gift_link": "https://www.gift-gift.jp/nui/nui1115.html",
+                    "amiami_link": "https://www.amiami.com/eng/detail/?gcode=GOODS-04499124"
                 }
             ]
         },
@@ -1395,7 +2101,7 @@
             "thwiki": "https://en.touhouwiki.net/wiki/Tewi_Inaba",
             "regular": [
                 {
-                    "name": "Version 1",
+                    "name": "ver.1",
                     "id": "237",
                     "img": "https://www.gift-gift.jp/nui/files/images/nui237_01.jpg",
                     "release_dates": [
@@ -1403,11 +2109,13 @@
                         2015,
                         2020,
                         2021,
-                        2023
+                        2023,
+						2025
                     ],
                     "rarity": "Uncommon",
                     "second_hand_cost": "Normal",
-                    "gift_link": "https://www.gift-gift.jp/nui/nui237.html"
+                    "gift_link": "https://www.gift-gift.jp/nui/nui237.html",
+                    "amiami_link": "https://www.amiami.com/eng/detail/?gcode=GOODS-04262778"
                 }
             ]
         },
@@ -1416,7 +2124,7 @@
             "thwiki": "https://en.touhouwiki.net/wiki/Hata_no_Kokoro",
             "regular": [
                 {
-                    "name": "Version 1",
+                    "name": "ver.1",
                     "id": "310",
                     "img": "https://www.gift-gift.jp/nui/files/images/nui310_01.jpg",
                     "release_dates": [
@@ -1427,11 +2135,36 @@
                         2018,
                         2020,
                         2021,
-                        2022
+                        2022,
+						2025
                     ],
                     "rarity": "Common",
                     "second_hand_cost": "Normal",
-                    "gift_link": "https://www.gift-gift.jp/nui/nui310.html"
+                    "gift_link": "https://www.gift-gift.jp/nui/nui310.html",
+                    "amiami_link": "https://www.amiami.com/eng/detail/?gcode=GOODS-04246797"
+                }
+            ],
+            "straps": [
+                {
+                    "name": "Mini Plush",
+                    "id": "1074",
+                    "img": "https://www.gift-gift.jp/nui/files/images/nui1074_01.jpg",
+                    "release_dates": [
+                        2024
+                    ],
+                    "gift_link": "https://www.gift-gift.jp/nui/nui1074.html",
+                    "amiami_link": "https://www.amiami.com/eng/detail/?gcode=GOODS-04480777"
+                }
+            ],
+			"mannakas": [
+                {
+                    "name": "Medium Size ver.",
+                    "id": "1277",
+                    "img": "https://www.gift-gift.jp/nui/files/images/nui1277_01.jpg",
+                    "release_dates": [
+                        2026
+                    ],
+                    "gift_link": "https://www.gift-gift.jp/nui/nui1277.html"
                 }
             ]
         },
@@ -1440,7 +2173,7 @@
             "thwiki": "https://en.touhouwiki.net/wiki/Kasen_Ibaraki",
             "regular": [
                 {
-                    "name": "Version 1",
+                    "name": "ver.1",
                     "id": "454",
                     "img": "https://www.gift-gift.jp/nui/files/images/nui454_01.jpg",
                     "release_dates": [
@@ -1451,7 +2184,20 @@
                     ],
                     "rarity": "Common",
                     "second_hand_cost": "Normal",
-                    "gift_link": "https://www.gift-gift.jp/nui/nui454.html"
+                    "gift_link": "https://www.gift-gift.jp/nui/nui454.html",
+                    "amiami_link": "https://www.amiami.com/eng/detail/?gcode=GOODS-04437494"
+                }
+            ],
+			"straps": [
+                {
+                    "name": "Mini Plush",
+                    "id": "1226",
+                    "img": "https://www.gift-gift.jp/nui/files/images/nui1226_01.jpg",
+                    "release_dates": [
+                        2025
+                    ],
+                    "gift_link": "https://www.gift-gift.jp/nui/nui1226.html",
+                    "amiami_link": "https://www.amiami.com/eng/search/list/?s_keywords=Touhou+Plush+Gift"
                 }
             ]
         },
@@ -1468,10 +2214,11 @@
                     ],
                     "rarity": "Rare",
                     "second_hand_cost": "High",
-                    "gift_link": "https://www.gift-gift.jp/archive/nui/nui058.html"
+                    "gift_link": "https://www.gift-gift.jp/archive/nui/nui058.html",
+                    "amiami_link": "https://www.amiami.com/eng/detail/?gcode=CGD2-02592"
                 },
                 {
-                    "name": "Version 1",
+                    "name": "ver.1",
                     "id": "493",
                     "img": "https://www.gift-gift.jp/nui/files/images/nui493_01.jpg",
                     "release_dates": [
@@ -1479,14 +2226,16 @@
                         2018,
                         2019,
                         2020,
-                        2021
+                        2021,
+                        2024
                     ],
                     "rarity": "Common",
                     "second_hand_cost": "Normal",
-                    "gift_link": "https://www.gift-gift.jp/nui/nui493.html"
+                    "gift_link": "https://www.gift-gift.jp/nui/nui493.html",
+                    "amiami_link": "https://www.amiami.com/eng/detail/?gcode=GOODS-04450141"
                 },
                 {
-                    "name": "Fujinroku Version",
+                    "name": "Fujinroku ver.",
                     "id": "937",
                     "img": "https://www.gift-gift.jp/nui/files/images/nui937_01.jpg",
                     "release_dates": [
@@ -1494,7 +2243,32 @@
                     ],
                     "rarity": "Common",
                     "second_hand_cost": "Normal",
-                    "gift_link": "https://www.gift-gift.jp/nui/nui937.html"
+                    "gift_link": "https://www.gift-gift.jp/nui/nui937.html",
+                    "amiami_link": "https://www.amiami.com/eng/detail/?gcode=GOODS-04281054"
+                }
+            ],
+            "straps": [
+                {
+                    "name": "Mini Plush",
+                    "id": "1039",
+                    "img": "https://www.gift-gift.jp/nui/files/images/nui1039_01.jpg",
+                    "release_dates": [
+                        2023
+                    ],
+                    "gift_link": "https://www.gift-gift.jp/nui/nui1039.html",
+                    "amiami_link": "https://www.amiami.com/eng/detail/?gcode=GOODS-04417661"
+                }
+            ],
+            "mannakas": [
+                {
+                    "name": "Medium Size ver.",
+                    "id": "1116",
+                    "img": "https://www.gift-gift.jp/nui/files/images/nui1116_01.jpg",
+                    "release_dates": [
+                        2024
+                    ],
+                    "gift_link": "https://www.gift-gift.jp/nui/nui1116.html",
+                    "amiami_link": "https://www.amiami.com/eng/detail/?gcode=GOODS-04499125"
                 }
             ]
         },
@@ -1503,7 +2277,7 @@
             "thwiki": "https://en.touhouwiki.net/wiki/Hatate_Himekaidou",
             "regular": [
                 {
-                    "name": "Version 1",
+                    "name": "ver.1",
                     "id": "494",
                     "img": "https://www.gift-gift.jp/nui/files/images/nui494_01.jpg",
                     "release_dates": [
@@ -1513,7 +2287,8 @@
                     ],
                     "rarity": "Common",
                     "second_hand_cost": "Normal",
-                    "gift_link": "https://www.gift-gift.jp/nui/nui494.html"
+                    "gift_link": "https://www.gift-gift.jp/nui/nui494.html",
+                    "amiami_link": "https://www.amiami.com/eng/detail/?gcode=GOODS-04450142"
                 }
             ]
         },
@@ -1522,7 +2297,7 @@
             "thwiki": "https://en.touhouwiki.net/wiki/Tenshi_Hinanawi",
             "regular": [
                 {
-                    "name": "Version 1",
+                    "name": "ver.1",
                     "id": "593",
                     "img": "https://www.gift-gift.jp/nui/files/images/nui593_01.jpg",
                     "release_dates": [
@@ -1530,11 +2305,36 @@
                         2019,
                         2020,
                         2021,
-                        2022
+                        2022,
+						2025
                     ],
                     "rarity": "Uncommon",
                     "second_hand_cost": "Normal",
-                    "gift_link": "https://www.gift-gift.jp/nui/nui593.html"
+                    "gift_link": "https://www.gift-gift.jp/nui/nui593.html",
+                    "amiami_link": "https://www.amiami.com/eng/detail/?gcode=GOODS-04246800"
+                }
+            ],
+            "straps": [
+                {
+                    "name": "Mini Plush",
+                    "id": "1073",
+                    "img": "https://www.gift-gift.jp/nui/files/images/nui1073_01.jpg",
+                    "release_dates": [
+                        2024
+                    ],
+                    "gift_link": "https://www.gift-gift.jp/nui/nui1073.html",
+                    "amiami_link": "https://www.amiami.com/eng/detail/?gcode=GOODS-04480776"
+                }
+            ],
+			"mannakas": [
+                {
+                    "name": "Medium Size ver.",
+                    "id": "1276",
+                    "img": "https://www.gift-gift.jp/nui/files/images/nui1276_01.jpg",
+                    "release_dates": [
+                        2026
+                    ],
+                    "gift_link": "https://www.gift-gift.jp/nui/nui1276.html"
                 }
             ]
         },
@@ -1543,7 +2343,7 @@
             "thwiki": "https://en.touhouwiki.net/wiki/Shion_Yorigami",
             "regular": [
                 {
-                    "name": "Version 1",
+                    "name": "ver.1",
                     "id": "644",
                     "img": "https://www.gift-gift.jp/nui/files/images/9245f412ccd5e559baca9cf78d195743b8f73fb6.jpg",
                     "release_dates": [
@@ -1554,7 +2354,20 @@
                     ],
                     "rarity": "Common",
                     "second_hand_cost": "Normal",
-                    "gift_link": "https://www.gift-gift.jp/nui/nui644.html"
+                    "gift_link": "https://www.gift-gift.jp/nui/nui644.html",
+                    "amiami_link": "https://www.amiami.com/eng/detail/?gcode=GOODS-04270992"
+                }
+            ],
+			"straps": [
+                {
+                    "name": "Mini Plush",
+                    "id": "1224",
+                    "img": "https://www.gift-gift.jp/nui/files/images/nui1224_01.jpg",
+                    "release_dates": [
+                        2025
+                    ],
+                    "gift_link": "https://www.gift-gift.jp/nui/nui1224.html",
+                    "amiami_link": "https://www.amiami.com/eng/search/list/?s_keywords=Touhou+Plush+Gift"
                 }
             ]
         },
@@ -1563,18 +2376,32 @@
             "thwiki": "https://en.touhouwiki.net/wiki/Yuuka_Kazami",
             "regular": [
                 {
-                    "name": "Version 1",
+                    "name": "ver.1",
                     "id": "685",
                     "img": "https://www.gift-gift.jp/nui/files/images/nui685_01.jpg",
                     "release_dates": [
                         2019,
                         2020,
                         2021,
-                        2022
+                        2022,
+                        2024
                     ],
                     "rarity": "Common",
                     "second_hand_cost": "Normal",
-                    "gift_link": "https://www.gift-gift.jp/nui/nui685.html"
+                    "gift_link": "https://www.gift-gift.jp/nui/nui685.html",
+                    "amiami_link": "https://www.amiami.com/eng/detail/?gcode=GOODS-04437496"
+                }
+            ],
+			"straps": [
+                {
+                    "name": "Mini Plush",
+                    "id": "1227",
+                    "img": "https://www.gift-gift.jp/nui/files/images/nui1227_01.jpg",
+                    "release_dates": [
+                        2025
+                    ],
+                    "gift_link": "https://www.gift-gift.jp/nui/nui1227.html",
+                    "amiami_link": "https://www.amiami.com/eng/search/list/?s_keywords=Touhou+Plush+Gift"
                 }
             ]
         },
@@ -1583,16 +2410,18 @@
             "thwiki": "https://en.touhouwiki.net/wiki/Momiji_Inubashiri",
             "regular": [
                 {
-                    "name": "Version 1",
+                    "name": "ver.1",
                     "id": "773",
                     "img": "https://www.gift-gift.jp/nui/files/images/nui773_01.jpg",
                     "release_dates": [
                         2020,
-                        2021
+                        2021,
+                        2024
                     ],
                     "rarity": "Common",
                     "second_hand_cost": "Normal",
-                    "gift_link": "https://www.gift-gift.jp/nui/nui773.html"
+                    "gift_link": "https://www.gift-gift.jp/nui/nui773.html",
+                    "amiami_link": "https://www.amiami.com/eng/detail/?gcode=GOODS-04450143"
                 }
             ]
         },
@@ -1601,16 +2430,18 @@
             "thwiki": "https://en.touhouwiki.net/wiki/Eirin_Yagokoro",
             "regular": [
                 {
-                    "name": "Version 1",
+                    "name": "ver.1",
                     "id": "807",
                     "img": "https://www.gift-gift.jp/nui/files/images/nui807_01.jpg",
                     "release_dates": [
                         2021,
-                        2022
+                        2022,
+                        2024
                     ],
                     "rarity": "Common",
                     "second_hand_cost": "Normal",
-                    "gift_link": "https://www.gift-gift.jp/nui/nui807.html"
+                    "gift_link": "https://www.gift-gift.jp/nui/nui807.html",
+                    "amiami_link": "https://www.amiami.com/eng/detail/?gcode=GOODS-04437498"
                 }
             ]
         },
@@ -1619,16 +2450,30 @@
             "thwiki": "https://en.touhouwiki.net/wiki/Rumia",
             "regular": [
                 {
-                    "name": "Version 1",
+                    "name": "ver.1",
                     "id": "834",
                     "img": "https://www.gift-gift.jp/nui/files/images/nui834_01.jpg",
                     "release_dates": [
                         2021,
-                        2022
+                        2022,
+                        2023
                     ],
                     "rarity": "Common",
                     "second_hand_cost": "Normal",
-                    "gift_link": "https://www.gift-gift.jp/nui/nui834.html"
+                    "gift_link": "https://www.gift-gift.jp/nui/nui834.html",
+                    "amiami_link": "https://www.amiami.com/eng/detail/?gcode=GOODS-04332108"
+                }
+            ],
+            "straps": [
+                {
+                    "name": "Mini Plush",
+                    "id": "1117",
+                    "img": "https://www.gift-gift.jp/nui/files/images/nui1117_01.jpg",
+                    "release_dates": [
+                        2024
+                    ],
+                    "gift_link": "https://www.gift-gift.jp/nui/nui1117.html",
+                    "amiami_link": "https://www.amiami.com/eng/detail/?gcode=GOODS-04499126"
                 }
             ]
         },
@@ -1637,16 +2482,18 @@
             "thwiki": "https://en.touhouwiki.net/wiki/Eiki_Shiki_Yamaxanadu",
             "regular": [
                 {
-                    "name": "Version 1",
+                    "name": "ver.1",
                     "id": "835",
                     "img": "https://www.gift-gift.jp/nui/files/images/nui835_01.jpg",
                     "release_dates": [
                         2021,
-                        2022
+                        2022,
+                        2023
                     ],
                     "rarity": "Common",
                     "second_hand_cost": "Normal",
-                    "gift_link": "https://www.gift-gift.jp/nui/nui835.html"
+                    "gift_link": "https://www.gift-gift.jp/nui/nui835.html",
+                    "amiami_link": "https://www.amiami.com/eng/detail/?gcode=GOODS-04332110"
                 }
             ]
         },
@@ -1655,16 +2502,18 @@
             "thwiki": "https://en.touhouwiki.net/wiki/Nitori_Kawashiro",
             "regular": [
                 {
-                    "name": "Version 1",
+                    "name": "ver.1",
                     "id": "836",
                     "img": "https://www.gift-gift.jp/nui/files/images/nui836_01.jpg",
                     "release_dates": [
                         2021,
-                        2022
+                        2022,
+                        2023
                     ],
                     "rarity": "Common",
                     "second_hand_cost": "Normal",
-                    "gift_link": "https://www.gift-gift.jp/nui/nui836.html"
+                    "gift_link": "https://www.gift-gift.jp/nui/nui836.html",
+                    "amiami_link": "https://www.amiami.com/eng/detail/?gcode=GOODS-04332112"
                 }
             ]
         },
@@ -1673,7 +2522,7 @@
             "thwiki": "https://en.touhouwiki.net/wiki/Joon_Yorigami",
             "regular": [
                 {
-                    "name": "Version 1",
+                    "name": "ver.1",
                     "id": "837",
                     "img": "https://www.gift-gift.jp/nui/files/images/nui837_01.jpg",
                     "release_dates": [
@@ -1683,7 +2532,20 @@
                     ],
                     "rarity": "Common",
                     "second_hand_cost": "Normal",
-                    "gift_link": "https://www.gift-gift.jp/nui/nui837.html"
+                    "gift_link": "https://www.gift-gift.jp/nui/nui837.html",
+                    "amiami_link": "https://www.amiami.com/eng/detail/?gcode=GOODS-04270994"
+                }
+            ],
+			"straps": [
+                {
+                    "name": "Mini Plush",
+                    "id": "1225",
+                    "img": "https://www.gift-gift.jp/nui/files/images/nui1225_01.jpg",
+                    "release_dates": [
+                        2025
+                    ],
+                    "gift_link": "https://www.gift-gift.jp/nui/nui1225.html",
+                    "amiami_link": "https://www.amiami.com/eng/search/list/?s_keywords=Touhou+Plush+Gift"
                 }
             ]
         },
@@ -1692,15 +2554,27 @@
             "thwiki": "https://en.touhouwiki.net/wiki/Renko_Usami",
             "regular": [
                 {
-                    "name": "Version 1",
+                    "name": "ver.1",
                     "id": "899",
                     "img": "https://www.gift-gift.jp/nui/files/images/nui899_01.jpg",
                     "release_dates": [
-                        2022
+                        2023
                     ],
                     "rarity": "Common",
                     "second_hand_cost": "Normal",
-                    "gift_link": "https://www.gift-gift.jp/nui/nui899.html"
+                    "gift_link": "https://www.gift-gift.jp/nui/nui899.html",
+                    "amiami_link": "https://www.amiami.com/eng/detail/?gcode=GOODS-04347177"
+                }
+            ],
+            "straps": [
+                {
+                    "name": "Mini Plush",
+                    "id": "1167",
+                    "img": "https://www.gift-gift.jp/nui/files/images/nui1167_01.jpg",
+                    "release_dates": [
+                        2025
+                    ],
+                    "gift_link": "https://www.gift-gift.jp/nui/nui1167.html"
                 }
             ]
         },
@@ -1709,15 +2583,17 @@
             "thwiki": "https://en.touhouwiki.net/wiki/Toyosatomimi_no_Miko",
             "regular": [
                 {
-                    "name": "Version 1",
+                    "name": "ver.1",
                     "id": "900",
                     "img": "https://www.gift-gift.jp/nui/files/images/nui900_01.jpg",
                     "release_dates": [
-                        2022
+                        2022,
+                        2023
                     ],
                     "rarity": "Common",
                     "second_hand_cost": "Normal",
-                    "gift_link": "https://www.gift-gift.jp/nui/nui900.html"
+                    "gift_link": "https://www.gift-gift.jp/nui/nui900.html",
+                    "amiami_link": "https://www.amiami.com/eng/detail/?gcode=GOODS-04347179"
                 }
             ]
         },
@@ -1726,7 +2602,7 @@
             "thwiki": "https://en.touhouwiki.net/wiki/Junko",
             "regular": [
                 {
-                    "name": "Version 1",
+                    "name": "ver.1",
                     "id": "938",
                     "img": "https://www.gift-gift.jp/nui/files/images/nui938_01.jpg",
                     "release_dates": [
@@ -1734,7 +2610,8 @@
                     ],
                     "rarity": "Common",
                     "second_hand_cost": "Normal",
-                    "gift_link": "https://www.gift-gift.jp/nui/nui938.html"
+                    "gift_link": "https://www.gift-gift.jp/nui/nui938.html",
+                    "amiami_link": "https://www.amiami.com/eng/detail/?gcode=GOODS-04281056"
                 }
             ]
         },
@@ -1743,7 +2620,7 @@
             "thwiki": "https://en.touhouwiki.net/wiki/Keiki_Haniyasushin",
             "regular": [
                 {
-                    "name": "Version 1",
+                    "name": "ver.1",
                     "id": "939",
                     "img": "https://www.gift-gift.jp/nui/files/images/nui939_01.jpg",
                     "release_dates": [
@@ -1751,10 +2628,601 @@
                     ],
                     "rarity": "Common",
                     "second_hand_cost": "Normal",
-                    "gift_link": "https://www.gift-gift.jp/nui/nui939.html"
+                    "gift_link": "https://www.gift-gift.jp/nui/nui939.html",
+                    "amiami_link": "https://www.amiami.com/eng/detail/?gcode=GOODS-04281058"
+                }
+            ]
+        },
+        {
+            "ch_name": "Maribel Hearn",
+            "thwiki": "https://en.touhouwiki.net/wiki/Maribel_Hearn",
+            "regular": [
+                {
+                    "name": "ver.1",
+                    "id": "973",
+                    "img": "https://www.gift-gift.jp/nui/files/images/nui973_01.jpg",
+                    "release_dates": [
+                        2023
+                    ],
+                    "gift_link": "https://www.gift-gift.jp/nui/nui973.html",
+                    "amiami_link": "https://www.amiami.com/eng/detail/?gcode=GOODS-04347169"
+                }
+            ],
+            "straps": [
+                {
+                    "name": "Mini Plush",
+                    "id": "1168",
+                    "img": "https://www.gift-gift.jp/nui/files/images/nui1168_01.jpg",
+                    "release_dates": [
+                        2025
+                    ],
+                    "gift_link": "https://www.gift-gift.jp/nui/nui1168.html"
+                }
+            ]
+        },
+        {
+            "ch_name": "Ibuki Suika",
+            "thwiki": "https://en.touhouwiki.net/wiki/Suika_Ibuki",
+            "regular": [
+                {
+                    "name": "ver.1",
+                    "id": "974",
+                    "img": "https://www.gift-gift.jp/nui/files/images/nui974_01.jpg",
+                    "release_dates": [
+                        2023
+                    ],
+                    "gift_link": "https://www.gift-gift.jp/nui/nui974.html",
+                    "amiami_link": "https://www.amiami.com/eng/detail/?gcode=GOODS-04347171"
+                }
+            ],
+            "straps": [
+                {
+                    "name": "Mini Plush",
+                    "id": "1166",
+                    "img": "https://www.gift-gift.jp/nui/files/images/nui1166_01.jpg",
+                    "release_dates": [
+                        2025
+                    ],
+                    "gift_link": "https://www.gift-gift.jp/nui/nui1166.html"
+                }
+            ]
+        },
+        {
+            "ch_name": "Mononobe no Futo",
+            "thwiki": "https://en.touhouwiki.net/wiki/Mononobe_no_Futo",
+            "regular": [
+                {
+                    "name": "ver.1",
+                    "id": "975",
+                    "img": "https://www.gift-gift.jp/nui/files/images/nui975_01.jpg",
+                    "release_dates": [
+                        2023
+                    ],
+                    "gift_link": "https://www.gift-gift.jp/nui/nui975.html",
+                    "amiami_link": "https://www.amiami.com/eng/detail/?gcode=GOODS-04347173"
+                }
+            ]
+        },
+        {
+            "ch_name": "Kijin Seija",
+            "thwiki": "https://en.touhouwiki.net/wiki/Seija_Kijin",
+            "regular": [
+                {
+                    "name": "ver.1",
+                    "id": "976",
+                    "img": "https://www.gift-gift.jp/nui/files/images/nui976_01.jpg",
+                    "release_dates": [
+                        2023
+                    ],
+                    "gift_link": "https://www.gift-gift.jp/nui/nui976.html",
+                    "amiami_link": "https://www.amiami.com/eng/detail/?gcode=GOODS-04347175"
+                }
+            ]
+        },
+        {
+            "ch_name": "Morichika Rinnosuke",
+            "thwiki": "https://en.touhouwiki.net/wiki/Rinnosuke_Morichika",
+            "regular": [
+                {
+                    "name": "ver.1",
+                    "id": "990",
+                    "img": "https://www.gift-gift.jp/nui/files/images/nui990_01.jpg",
+                    "release_dates": [
+                        2023
+                    ],
+                    "gift_link": "https://www.gift-gift.jp/nui/nui990.html",
+                    "amiami_link": "https://www.amiami.com/eng/detail/?gcode=GOODS-04367911"
+                }
+            ]
+        },
+        {
+            "ch_name": "Shanghai Doll",
+            "thwiki": "https://en.touhouwiki.net/wiki/Shanghai_Doll",
+            "straps": [
+                {
+                    "name": "Mini Plush",
+                    "id": "1041",
+                    "img": "https://www.gift-gift.jp/nui/files/images/nui1041_01.jpg",
+                    "release_dates": [
+                        2023
+                    ],
+                    "gift_link": "https://www.gift-gift.jp/nui/nui1041.html",
+                    "amiami_link": "https://www.amiami.com/eng/detail/?gcode=GOODS-04417658"
+                }
+            ]
+        },
+        {
+            "ch_name": "Mizuhashi Parsee",
+            "thwiki": "https://en.touhouwiki.net/wiki/Parsee_Mizuhashi",
+            "regular": [
+                {
+                    "name": "ver.1",
+                    "id": "1066",
+                    "img": "https://www.gift-gift.jp/nui/files/images/nui1066_01.jpg",
+                    "release_dates": [
+                        2024
+                    ],
+                    "gift_link": "https://www.gift-gift.jp/nui/nui1066.html",
+                    "amiami_link": "https://www.amiami.com/eng/detail/?gcode=GOODS-04480769"
+                }
+            ]
+        },
+        {
+            "ch_name": "Kaenbyou Rin",
+            "thwiki": "https://en.touhouwiki.net/wiki/Rin_Kaenbyou",
+            "regular": [
+                {
+                    "name": "ver.1",
+                    "id": "1067",
+                    "img": "https://www.gift-gift.jp/nui/files/images/nui1067_01.jpg",
+                    "release_dates": [
+                        2024
+                    ],
+                    "gift_link": "https://www.gift-gift.jp/nui/nui1067.html",
+                    "amiami_link": "https://www.amiami.com/eng/detail/?gcode=GOODS-04480770"
+                }
+            ]
+        },
+        {
+            "ch_name": "Reiuzi Utsuho",
+            "thwiki": "https://en.touhouwiki.net/wiki/Utsuho_Reiuzi",
+            "regular": [
+                {
+                    "name": "ver.1",
+                    "id": "1068",
+                    "img": "https://www.gift-gift.jp/nui/files/images/nui1068_01.jpg",
+                    "release_dates": [
+                        2024
+                    ],
+                    "gift_link": "https://www.gift-gift.jp/nui/nui1068.html",
+                    "amiami_link": "https://www.amiami.com/eng/detail/?gcode=GOODS-04480771"
+                }
+            ]
+        },
+		{
+            "ch_name": "Tatara Kogasa",
+            "thwiki": "https://en.touhouwiki.net/wiki/Kogasa_Tatara",
+            "regular": [
+                {
+                    "name": "ver.1",
+                    "id": "1069",
+                    "img": "https://www.gift-gift.jp/nui/files/images/nui1069_01.jpg",
+                    "release_dates": [
+                        2024
+                    ],
+                    "gift_link": "https://www.gift-gift.jp/nui/nui1069.html"
+                }
+            ]
+        },
+        {
+            "ch_name": "Houjuu Nue",
+            "thwiki": "https://en.touhouwiki.net/wiki/Nue_Houjuu",
+            "regular": [
+                {
+                    "name": "ver.1",
+                    "id": "1070",
+                    "img": "https://www.gift-gift.jp/nui/files/images/nui1070_01.jpg",
+                    "release_dates": [
+                        2024
+                    ],
+                    "gift_link": "https://www.gift-gift.jp/nui/nui1070.html",
+                    "amiami_link": "https://www.amiami.com/eng/detail/?gcode=GOODS-04480773"
+                }
+            ]
+        },
+        {
+            "ch_name": "Kishin Sagume",
+            "thwiki": "https://en.touhouwiki.net/wiki/Sagume_Kishin",
+            "regular": [
+                {
+                    "name": "ver.1",
+                    "id": "1071",
+                    "img": "https://www.gift-gift.jp/nui/files/images/nui1071_01.jpg",
+                    "release_dates": [
+                        2024
+                    ],
+                    "gift_link": "https://www.gift-gift.jp/nui/nui1071.html",
+                    "amiami_link": "https://www.amiami.com/eng/detail/?gcode=GOODS-04480774"
+                }
+            ]
+        },
+        {
+            "ch_name": "Koakuma",
+            "thwiki": "https://en.touhouwiki.net/wiki/Koakuma",
+			"regular": [
+                {
+                    "name": "ver.1",
+                    "id": "1214",
+                    "img": "https://www.gift-gift.jp/nui/files/images/nui1214_01.jpg",
+                    "release_dates": [
+                        2025
+                    ],
+                    "gift_link": "https://www.gift-gift.jp/nui/nui1214.html",
+                    "amiami_link": "https://www.amiami.com/eng/search/list/?s_keywords=Touhou+Plush+Gift"
+                }
+            ],
+            "straps": [
+                {
+                    "name": "Mini Plush",
+                    "id": "1118",
+                    "img": "https://www.gift-gift.jp/nui/files/images/nui1118_01.jpg",
+                    "release_dates": [
+                        2024
+                    ],
+                    "gift_link": "https://www.gift-gift.jp/nui/nui1118.html",
+                    "amiami_link": "https://www.amiami.com/eng/detail/?gcode=GOODS-04499127"
+                }
+            ]
+        },
+        {
+            "ch_name": "Daiyousei",
+            "thwiki": "https://en.touhouwiki.net/wiki/Daiyousei",
+			"regular": [
+                {
+                    "name": "ver.1",
+                    "id": "1211",
+                    "img": "https://www.gift-gift.jp/nui/files/images/nui1211_01.jpg",
+                    "release_dates": [
+                        2025
+                    ],
+                    "gift_link": "https://www.gift-gift.jp/nui/nui1211.html",
+                    "amiami_link": "https://www.amiami.com/eng/search/list/?s_keywords=Touhou+Plush+Gift"
+                }
+            ],
+            "straps": [
+                {
+                    "name": "Mini Plush",
+                    "id": "1119",
+                    "img": "https://www.gift-gift.jp/nui/files/images/nui1119_01.jpg",
+                    "release_dates": [
+                        2024
+                    ],
+                    "gift_link": "https://www.gift-gift.jp/nui/nui1119.html",
+                    "amiami_link": "https://www.amiami.com/eng/detail/?gcode=GOODS-04499128"
+                }
+            ]
+        },
+        {
+            "ch_name": "Hecatia Lapislazuli",
+            "thwiki": "https://en.touhouwiki.net/wiki/Hecatia_Lapislazuli",
+            "regular": [
+                {
+                    "name": "ver.1",
+                    "id": "1108",
+                    "img": "https://www.gift-gift.jp/nui/files/images/nui1108_01.jpg",
+                    "release_dates": [
+                        2024
+                    ],
+                    "gift_link": "https://www.gift-gift.jp/nui/nui1108.html",
+                    "amiami_link": "https://www.amiami.com/eng/detail/?gcode=GOODS-04499117"
+                }
+            ]
+        },
+        {
+            "ch_name": "Matara Okina",
+            "thwiki": "https://en.touhouwiki.net/wiki/Okina_Matara",
+            "regular": [
+                {
+                    "name": "ver.1",
+                    "id": "1109",
+                    "img": "https://www.gift-gift.jp/nui/files/images/nui1109_01.jpg",
+                    "release_dates": [
+                        2024
+                    ],
+                    "gift_link": "https://www.gift-gift.jp/nui/nui1109.html",
+                    "amiami_link": "https://www.amiami.com/eng/detail/?gcode=GOODS-04499118"
+                }
+            ]
+        },
+        {
+            "ch_name": "Tenkyuu Chimata",
+            "thwiki": "https://en.touhouwiki.net/wiki/Chimata_Tenkyuu",
+            "regular": [
+                {
+                    "name": "ver.1",
+                    "id": "1110",
+                    "img": "https://www.gift-gift.jp/nui/files/images/nui1110_01.jpg",
+                    "release_dates": [
+                        2024
+                    ],
+                    "gift_link": "https://www.gift-gift.jp/nui/nui1110.html",
+                    "amiami_link": "https://www.amiami.com/eng/detail/?gcode=GOODS-04499119"
+                }
+            ]
+        },
+        {
+            "ch_name": "Kagiyama Hina",
+            "thwiki": "https://en.touhouwiki.net/wiki/Hina_Kagiyama",
+            "regular": [
+                {
+                    "name": "ver.1",
+                    "id": "1111",
+                    "img": "https://www.gift-gift.jp/nui/files/images/nui1111_01.jpg",
+                    "release_dates": [
+                        2024
+                    ],
+                    "gift_link": "https://www.gift-gift.jp/nui/nui1111.html",
+                    "amiami_link": "https://www.amiami.com/eng/detail/?gcode=GOODS-04499120"
+                }
+            ]
+        },
+        {
+            "ch_name": "Nazrin",
+            "thwiki": "https://en.touhouwiki.net/wiki/Nazrin",
+            "regular": [
+                {
+                    "name": "ver.1",
+                    "id": "1112",
+                    "img": "https://www.gift-gift.jp/nui/files/images/nui1112_01.jpg",
+                    "release_dates": [
+                        2024
+                    ],
+                    "gift_link": "https://www.gift-gift.jp/nui/nui1112.html",
+                    "amiami_link": "https://www.amiami.com/eng/detail/?gcode=GOODS-04499121"
+                }
+            ]
+        },
+        {
+            "ch_name": "Toutetsu Yuuma",
+            "thwiki": "https://en.touhouwiki.net/wiki/Yuuma_Toutetsu",
+            "regular": [
+                {
+                    "name": "ver.1",
+                    "id": "1158",
+                    "img": "https://www.gift-gift.jp/nui/files/images/nui1158_01.jpg",
+                    "release_dates": [
+                        2025
+                    ],
+                    "gift_link": "https://www.gift-gift.jp/nui/nui1158.html"
+                }
+            ]
+        },
+        {
+            "ch_name": "Hijiri Byakuren",
+            "thwiki": "https://en.touhouwiki.net/wiki/Byakuren_Hijiri",
+            "regular": [
+                {
+                    "name": "ver.1",
+                    "id": "1157",
+                    "img": "https://www.gift-gift.jp/nui/files/images/nui1157_01.jpg",
+                    "release_dates": [
+                        2025
+                    ],
+                    "gift_link": "https://www.gift-gift.jp/nui/nui1157.html"
+                }
+            ]
+        },
+        {
+            "ch_name": "Iizunamaru Megumu",
+            "thwiki": "https://en.touhouwiki.net/wiki/Megumu_Iizunamaru",
+            "regular": [
+                {
+                    "name": "ver.1",
+                    "id": "1217",
+                    "img": "https://www.gift-gift.jp/nui/files/images/nui1217_01.jpg",
+                    "release_dates": [
+                        2025
+                    ],
+                    "gift_link": "https://www.gift-gift.jp/nui/nui1217.html"
+                }
+            ]
+        },
+        {
+            "ch_name": "Kudamaki Tsukasa",
+            "thwiki": "https://en.touhouwiki.net/wiki/Tsukasa_Kudamaki",
+            "regular": [
+                {
+                    "name": "ver.1",
+                    "id": "1216",
+                    "img": "https://www.gift-gift.jp/nui/files/images/nui1216_01.jpg",
+                    "release_dates": [
+                        2025
+                    ],
+                    "gift_link": "https://www.gift-gift.jp/nui/nui1216.html"
+                }
+            ]
+        },
+        {
+            "ch_name": "Clownpiece",
+            "thwiki": "https://en.touhouwiki.net/wiki/Clownpiece",
+            "regular": [
+                {
+                    "name": "ver.1",
+                    "id": "1215",
+                    "img": "https://www.gift-gift.jp/nui/files/images/nui1215_01.jpg",
+                    "release_dates": [
+                        2025
+                    ],
+                    "gift_link": "https://www.gift-gift.jp/nui/nui1215.html"
+                }
+            ]
+        },
+        {
+            "ch_name": "Lunasa Prismriver",
+            "thwiki": "https://en.touhouwiki.net/wiki/Lunasa_Prismriver",
+            "straps": [
+                {
+                    "name": "Mini Plush",
+                    "id": "1270",
+                    "img": "https://www.gift-gift.jp/nui/files/images/nui1270_01.jpg",
+                    "release_dates": [
+                        2026
+                    ],
+                    "gift_link": "https://www.gift-gift.jp/nui/nui1270.html"
+                }
+            ]
+        },
+        {
+            "ch_name": "Merlin Prismriver",
+            "thwiki": "https://en.touhouwiki.net/wiki/Merlin_Prismriver",
+            "straps": [
+                {
+                    "name": "Mini Plush",
+                    "id": "1271",
+                    "img": "https://www.gift-gift.jp/nui/files/images/nui1271_01.jpg",
+                    "release_dates": [
+                        2026
+                    ],
+                    "gift_link": "https://www.gift-gift.jp/nui/nui1271.html"
+                }
+            ]
+        },
+        {
+            "ch_name": "Lyrica Prismriver",
+            "thwiki": "https://en.touhouwiki.net/wiki/Lyrica_Prismriver",
+            "straps": [
+                {
+                    "name": "Mini Plush",
+                    "id": "1272",
+                    "img": "https://www.gift-gift.jp/nui/files/images/nui1272_01.jpg",
+                    "release_dates": [
+                        2026
+                    ],
+                    "gift_link": "https://www.gift-gift.jp/nui/nui1272.html"
+                }
+            ]
+        },
+        {
+            "ch_name": "Doremy Sweet",
+            "thwiki": "https://en.touhouwiki.net/wiki/Doremy_Sweet",
+            "regular": [
+                {
+                    "name": "ver.1",
+                    "id": "1269",
+                    "img": "https://www.gift-gift.jp/nui/files/images/nui1269_01.jpg",
+                    "release_dates": [
+                        2026
+                    ],
+                    "gift_link": "https://www.gift-gift.jp/nui/nui1269.html"
+                }
+            ]
+        },
+        {
+            "ch_name": "Kaku Seiga",
+            "thwiki": "https://en.touhouwiki.net/wiki/Seiga_Kaku",
+            "regular": [
+                {
+                    "name": "ver.1",
+                    "id": "1268",
+                    "img": "https://www.gift-gift.jp/nui/files/images/nui1268_01.jpg",
+                    "release_dates": [
+                        2026
+                    ],
+                    "gift_link": "https://www.gift-gift.jp/nui/nui1268.html"
+                }
+            ]
+        },
+        {
+            "ch_name": "Murasa Minamitsu",
+            "thwiki": "https://en.touhouwiki.net/wiki/Murasa_Minamitsu",
+            "regular": [
+                {
+                    "name": "ver.1",
+                    "id": "1267",
+                    "img": "https://www.gift-gift.jp/nui/files/images/nui1267_01.jpg",
+                    "release_dates": [
+                        2026
+                    ],
+                    "gift_link": "https://www.gift-gift.jp/nui/nui1267.html"
+                }
+            ]
+        },
+        {
+            "ch_name": "Onozuka Komachi",
+            "thwiki": "https://en.touhouwiki.net/wiki/Onozuka_Komachi",
+            "regular": [
+                {
+                    "name": "ver.1",
+                    "id": "1266",
+                    "img": "https://www.gift-gift.jp/nui/files/images/nui1266_01.jpg",
+                    "release_dates": [
+                        2026
+                    ],
+                    "gift_link": "https://www.gift-gift.jp/nui/nui1266.html"
+                }
+            ]
+        },
+        {
+            "ch_name": "Wriggle Nightbug",
+            "thwiki": "https://en.touhouwiki.net/wiki/Wriggle_Nightbug",
+            "regular": [
+                {
+                    "name": "ver.1",
+                    "id": "9999",
+                    "img": "https://www.gift-gift.jp/nui/files/images/nui9999_01.jpg",
+                    "release_dates": [
+                        2026
+                    ],
+                    "gift_link": "https://www.gift-gift.jp/nui/nui9999.html"
+                }
+            ]
+        },
+        {
+            "ch_name": "Mystia Lorelei",
+            "thwiki": "https://en.touhouwiki.net/wiki/Mystia_Lorelei",
+            "regular": [
+                {
+                    "name": "ver.1",
+                    "id": "9999",
+                    "img": "https://www.gift-gift.jp/nui/files/images/nui9999_01.jpg",
+                    "release_dates": [
+                        2026
+                    ],
+                    "gift_link": "https://www.gift-gift.jp/nui/nui9999.html"
+                }
+            ]
+        },
+        {
+            "ch_name": "Kamishirasawa Keine",
+            "thwiki": "https://en.touhouwiki.net/wiki/Keine_Kamishirasawa",
+            "regular": [
+                {
+                    "name": "ver.1",
+                    "id": "9999",
+                    "img": "https://www.gift-gift.jp/nui/files/images/nui9999_01.jpg",
+                    "release_dates": [
+                        2026
+                    ],
+                    "gift_link": "https://www.gift-gift.jp/nui/nui9999.html"
+                }
+            ]
+        },
+        {
+            "ch_name": "Yomotsu Hisami",
+            "thwiki": "https://en.touhouwiki.net/wiki/Hisami_Yomotsu",
+            "regular": [
+                {
+                    "name": "ver.1",
+                    "id": "9999",
+                    "img": "https://www.gift-gift.jp/nui/files/images/nui9999_01.jpg",
+                    "release_dates": [
+                        2026
+                    ],
+                    "gift_link": "https://www.gift-gift.jp/nui/nui9999.html"
                 }
             ]
         }
+		
     ],
     "faq": [
         {
@@ -2145,6 +3613,14 @@
                 ],
                 "en": "Himekaidou Hatate"
             },
+			{
+                "type": "Character",
+                "jp": "姫虫 百々世",
+                "jp_alt": [
+                    "ひめむし ももよ"
+                ],
+                "en": "Himemushi Momoyo"
+            },
             {
                 "type": "Character",
                 "jp": "比那名居天子",
@@ -2207,6 +3683,14 @@
                     "いぶきすいか"
                 ],
                 "en": "Ibuki Suika"
+            },
+			{
+                "type": "Character",
+                "jp": "飯綱丸龍",
+                "jp_alt": [
+                    "飯いいずなまるめぐむ"
+                ],
+                "en": "Iizunamaru Megumu"
             },
             {
                 "type": "Character",
@@ -2360,6 +3844,14 @@
                 ],
                 "en": "Kochiya Sanae"
             },
+			{
+                "type": "Character",
+                "jp": "駒草 山如",
+                "jp_alt": [
+                    "こまくさ さんにょ"
+                ],
+                "en": "Komakusa Sannyo"
+            },
             {
                 "type": "Character",
                 "jp": "高麗野あうん",
@@ -2391,6 +3883,14 @@
                     "こんぱくようむ"
                 ],
                 "en": "Konpaku Youmu"
+            },
+			{
+                "type": "Character",
+                "jp": "菅牧　典",
+                "jp_alt": [
+                    "くだまきつかさ"
+                ],
+                "en": "Kudamaki Tsukasa"
             },
             {
                 "type": "Character",
@@ -2467,6 +3967,14 @@
                 "jp": "メルラン・プリズムリバー",
                 "jp_alt": [],
                 "en": "Merlin Prismriver"
+            },
+			{
+                "type": "Character",
+                "jp": "豪徳寺 ミケ",
+                "jp_alt": [
+                    "ごうとくじ ミケ"
+                ],
+                "en": "Mike Goutokuji"
             },
             {
                 "type": "Character",
@@ -2677,6 +4185,14 @@
                 ],
                 "en": "Sukuna Shinmyoumaru"
             },
+			{
+                "type": "Character",
+                "jp": "玉造 魅須丸 ",
+                "jp_alt": [
+                    "たまつくり み す まる"
+                ],
+                "en": "Tamatsukuri Misumaru"
+            },
             {
                 "type": "Character",
                 "jp": "多々良小傘",
@@ -2693,6 +4209,14 @@
                 ],
                 "en": "Teireida Mai"
             },
+			{
+                "type": "Character",
+                "jp": "天弓 千亦",
+                "jp_alt": [
+                    "てんきゅう ちまた"
+                ],
+                "en": "Tenkyuu Chimata"
+            },
             {
                 "type": "Character",
                 "jp": "寅丸星",
@@ -2700,6 +4224,14 @@
                     "とらまるしょう"
                 ],
                 "en": "Toramaru Shou"
+            },
+			{
+                "type": "Character",
+                "jp": "饕餮尤魔",
+                "jp_alt": [
+                    "とうてつゆうま"
+                ],
+                "en": "Toutetsu Yuuma"
             },
             {
                 "type": "Character",
@@ -2803,6 +4335,14 @@
                 ],
                 "en": "Yakumo Yukari"
             },
+			{
+                "type": "Character",
+                "jp": "山城 たかね",
+                "jp_alt": [
+                    "やましろ たかね"
+                ],
+                "en": "Yamashiro Takane"
+            },
             {
                 "type": "Character",
                 "jp": "八坂神奈子",
@@ -2835,6 +4375,9 @@
                 ],
                 "en": "Yorigami Shion"
             }
+            
+			
+			
         ]
     },
     "forwarders": [
